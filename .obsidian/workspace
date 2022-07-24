@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "59f2a27d7865cdeb",
+        "id": "b5a98f29e4f3b189",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Workflows/03 IMF_AdvancedStarterKit_v2/Rubik's Cube.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -62,6 +58,7 @@
       {
         "id": "9be058edcc7993be",
         "type": "tabs",
+        "dimension": 24.981412639405203,
         "children": [
           {
             "id": "3ea2f44f36c0c490",
@@ -70,15 +67,25 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
+          },
+          {
+            "id": "59f2a27d7865cdeb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7e87f5762b61a47f",
         "type": "tabs",
+        "dimension": 21.933085501858738,
         "children": [
           {
             "id": "b502448b89134285",
@@ -86,7 +93,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workflows/03 IMF_AdvancedStarterKit_v2/Rubik's Cube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflows/03 IMF_AdvancedStarterKit_v2/Rubik's Cube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,43 +114,33 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0c4931e361ee1891",
         "type": "tabs",
+        "dimension": 28.104089219330852,
+        "children": [
+          {
+            "id": "341d2f69764c204b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ac5a5f35788c564b",
+        "type": "tabs",
+        "dimension": 24.981412639405203,
         "children": [
           {
             "id": "3ea04438232c5627",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Workflows/03 IMF_AdvancedStarterKit_v2/Rubik's Cube.md"
-              }
-            }
-          },
-          {
-            "id": "66b9357dd5ca9120",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "2f08a2f6be7f4a09",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "21407f709d5ce4fd",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           }
@@ -155,17 +150,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "59f2a27d7865cdeb",
+  "active": "b5a98f29e4f3b189",
   "lastOpenFiles": [
-    "Workflows/03 IMF_AdvancedStarterKit_v2/Rubik's Cube.md",
-    "201903282110.md",
-    "Workflows/01 Obsidian Workflows.md",
-    "Workflows/02 PARA_Starter_Kit_v2/START HERE!.md",
-    "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Personal Development/Alternatives to perfect.md",
-    "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Personal Development/A spellbinding reading of Hermann Hesse's 100-year-old love letter to trees, a Chilean picture-book about life and death, an ode to love beyond labels.md",
-    "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Personal Development/3 years rule note.md",
-    "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Job/3 Ways to Help Introverts Shine in an Extrovert-Leaning Workplace by Kara Goldin.md",
-    "Workflows/02 PARA_Starter_Kit_v2/2. Areas/Job/3 Things That Will Boost Your Teams Communication.md",
-    "Workflows/02 PARA_Starter_Kit_v2/2. Areas/House/It wasn't easy but it was worth it.md"
+    "Index.md",
+    "gaming.sh.md",
+    "Linux/Process's/002 Bash Scripting.md",
+    "bills.sh.md",
+    "Linux/Bash Commands.md",
+    "[002 Bash Scripting.md",
+    "[000 AUR.md",
+    "Linux/Process's/001 Extending LVM.md",
+    "Linux/Process's/000 AUR.md",
+    "Linux/Index.md"
   ]
 }

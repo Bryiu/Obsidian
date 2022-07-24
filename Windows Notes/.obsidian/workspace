@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "d5e2f598fbd5a363",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5615ceddb60adad",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Windows Terminal/Adding a new Terminal.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6b9beff48e9b91b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9960d9d8a27a5f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "721683f9e1a99a3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "558ced91c340df53",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64505319e0fa280f",
+    "type": "split",
+    "children": [
+      {
+        "id": "68858d0a6695ada4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ab479125a9e138f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Windows Terminal/Adding a new Terminal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d24f14ebbbfc84eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Windows Terminal/Adding a new Terminal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "63c8e7e58664d11a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c8a299b3d6f3457",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ce0691120aee362",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0bcea7fdab8c9983",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f231ea04c1487f3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "c5615ceddb60adad",
+  "lastOpenFiles": [
+    "Windows Terminal/Adding a new Terminal.md"
+  ]
+}
