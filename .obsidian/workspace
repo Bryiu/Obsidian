@@ -1,29 +1,33 @@
 {
   "main": {
-    "id": "696de12993ef45db",
+    "id": "38e1e3ae71968d53",
     "type": "split",
     "children": [
       {
-        "id": "b5a98f29e4f3b189",
+        "id": "8c99eec57f795ab8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Linux/Process's/000 AUR.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5bf47b3a96fa980a",
+    "id": "15a8268493b0f4e4",
     "type": "split",
     "children": [
       {
-        "id": "73062c9dd5e1a286",
+        "id": "d285d900d0ee0731",
         "type": "tabs",
         "children": [
           {
-            "id": "76d42d39f7d2f1c1",
+            "id": "9c54306a60d87c16",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +35,7 @@
             }
           },
           {
-            "id": "94227a826e219835",
+            "id": "502ca117be8e0b74",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,54 +56,15 @@
     "width": 300
   },
   "right": {
-    "id": "1ea23c9a9a547869",
+    "id": "a2dadebdc1118c35",
     "type": "split",
     "children": [
       {
-        "id": "9be058edcc7993be",
+        "id": "4c38a5dfe7d9a44a",
         "type": "tabs",
-        "dimension": 24.981412639405203,
         "children": [
           {
-            "id": "3ea2f44f36c0c490",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "59f2a27d7865cdeb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7e87f5762b61a47f",
-        "type": "tabs",
-        "dimension": 21.933085501858738,
-        "children": [
-          {
-            "id": "b502448b89134285",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "119975c1f933bd22",
+            "id": "e5771709dbc81e89",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -113,34 +78,63 @@
                 "unlinkedCollapsed": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "0c4931e361ee1891",
-        "type": "tabs",
-        "dimension": 28.104089219330852,
-        "children": [
+          },
           {
-            "id": "341d2f69764c204b",
+            "id": "0a894114478f97ff",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ffedc21233aa582",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dfde1e9bd8aa9c18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "1952eac5856c81e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db79e8afe06afcbc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
         ]
       },
       {
-        "id": "ac5a5f35788c564b",
+        "id": "84720ef2ae0498ba",
         "type": "tabs",
-        "dimension": 24.981412639405203,
         "children": [
           {
-            "id": "3ea04438232c5627",
+            "id": "14bedec87a75e5cf",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "calendar",
               "state": {}
             }
           }
@@ -150,17 +144,15 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b5a98f29e4f3b189",
+  "active": "db79e8afe06afcbc",
   "lastOpenFiles": [
-    "Index.md",
-    "gaming.sh.md",
-    "Linux/Process's/002 Bash Scripting.md",
-    "bills.sh.md",
-    "Linux/Bash Commands.md",
-    "[002 Bash Scripting.md",
-    "[000 AUR.md",
-    "Linux/Process's/001 Extending LVM.md",
     "Linux/Process's/000 AUR.md",
-    "Linux/Index.md"
+    "Linux/Process's/003 Gnome Commands.md",
+    "Index.md",
+    "Linux/Bash Commands.md",
+    "Linux/Process's/002 Bash Scripting.md",
+    "Quasar/000 Initialize.md",
+    "US Well.md",
+    "Untitled.md"
   ]
 }
