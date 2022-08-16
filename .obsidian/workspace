@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linux/Process's/000 AUR.md",
+            "file": "R/Deployment/Plotly Dash.md",
             "mode": "source",
             "source": false
           }
@@ -69,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "R/Deployment/Plotly Dash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "R/Deployment/Plotly Dash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +108,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "R/Deployment/Plotly Dash.md"
+              }
             }
           }
         ],
@@ -144,11 +148,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "db79e8afe06afcbc",
+  "active": "8c99eec57f795ab8",
   "lastOpenFiles": [
+    "Index.md",
+    "R/Deployment/Plotly Dash.md",
     "Linux/Process's/000 AUR.md",
     "Linux/Process's/003 Gnome Commands.md",
-    "Index.md",
     "Linux/Bash Commands.md",
     "Linux/Process's/002 Bash Scripting.md",
     "Quasar/000 Initialize.md",

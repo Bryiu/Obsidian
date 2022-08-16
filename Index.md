@@ -13,12 +13,17 @@
 
 ----------------------------------
 
+# Python
 # Quasar
 ## [[000 Initialize]]
 ## [[001 Adding Charts]]
 ## [[002 Adding Components]]
 
 --------------------------------------------------------------
+
+# R
+## Deployment
+[[Plotly Dash]]
 
 # Windows Notes
 ## Windows Terminal
