@@ -2,5 +2,7 @@
   "legacyEditor": false,
   "livePreview": true,
   "spellcheck": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": true,
+  "strictLineBreaks": true
 }

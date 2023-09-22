@@ -76,9 +76,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4c38a5dfe7d9a44a",
+        "id": "e6710a896d79e039",
         "type": "tabs",
         "children": [
+          {
+            "id": "dfde1e9bd8aa9c18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Electronics/Electronics Equations.md"
+              }
+            }
+          },
           {
             "id": "e5771709dbc81e89",
             "type": "leaf",
@@ -107,7 +117,13 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1ac24f9adfb80870",
+        "type": "tabs",
+        "children": [
           {
             "id": "6ffedc21233aa582",
             "type": "leaf",
@@ -118,19 +134,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "dfde1e9bd8aa9c18",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Electronics/Electronics Equations.md"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "1952eac5856c81e6",
@@ -176,6 +181,7 @@
   },
   "active": "8c99eec57f795ab8",
   "lastOpenFiles": [
+    "Pasted image 20230922114921.png",
     "R/Deployment/Plotly Dash.md",
     "Index.md",
     "Linux/Process's/000 AUR.md",
