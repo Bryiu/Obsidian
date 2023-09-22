@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Electronic Components.md",
+                "file": "Electronics/Equipment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Electronic Components.md"
+                "file": "Electronics/Equipment.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Electronic Components.md",
+                "file": "Electronics/Equipment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Electronic Components.md",
+                "file": "Electronics/Equipment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,12 +182,13 @@
   },
   "active": "8c99eec57f795ab8",
   "lastOpenFiles": [
+    "Electronics/Electronic Components.md",
+    "Electronics/Equipment.md",
     "Pasted image 20230922130649.png",
     "Pasted image 20230922130430.png",
     "Pasted image 20230922125504.png",
     "Pasted image 20230922125019.png",
     "Electronics/Electronics Equations.md",
-    "Electronics/Electronic Components.md",
     "README.md",
     "Electronics/Process's",
     "Pasted image 20230922114921.png",
