@@ -4,5 +4,6 @@
   "spellcheck": true,
   "promptDelete": false,
   "showLineNumber": true,
-  "strictLineBreaks": true
+  "strictLineBreaks": false,
+  "readableLineLength": false
 }
