@@ -1,49 +1,15 @@
-# Linux
-## Process's
-### [[000 AUR]]
-### [[001 Extending LVM]]
-### [[002 Bash Scripting]]
-### [[003 Gnome Commands]]
-
-
-
-
->[!INFO] Reference Files
-[[Bash Commands]]
-
-----------------------------------
-
-# Python
-
----
-# Quasar
-## [[000 Initialize]]
-## [[001 Adding Charts]]
-## [[002 Adding Components]]
-
-
----
-# R
-## 000 Deployment
-### [[Plotly Dash]]
-
----
-
-# Windows
-## Windows Terminal
-###  [[Adding a new Terminal]]
-
-
-
-
----
-
 # Electronics
-##  Equipment
-##  Process's
-##  [[Electronic Components]]
-##  [[Electronics Equations]]
+## [[00 Electronics Home]]
+# Linux
+## [[00 Linux Home]]
+# Quasar
+## [[00 Quasar Home]]
 
-##  [[Theory]]
+# R
+## [[00 R Home]]
 
----
+# Source
+# Windows
+## [[00 Windows Home]]
+
+# [[README]]
