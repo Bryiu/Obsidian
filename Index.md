@@ -14,19 +14,36 @@
 ----------------------------------
 
 # Python
+
+---
 # Quasar
 ## [[000 Initialize]]
 ## [[001 Adding Charts]]
 ## [[002 Adding Components]]
 
---------------------------------------------------------------
 
+---
 # R
-## Deployment
-[[Plotly Dash]]
+## 000 Deployment
+### [[Plotly Dash]]
 
-# Windows Notes
+---
+
+# Windows
 ## Windows Terminal
-### [[Adding a new Terminal]]
+###  [[Adding a new Terminal]]
 
---------------------------------------------------
+
+
+
+---
+
+# Electronics
+##  Equipment
+##  Process's
+##  [[Electronic Components]]
+##  [[Electronics Equations]]
+
+##  [[Theory]]
+
+---
