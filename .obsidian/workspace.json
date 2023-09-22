@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bb2196eb7d088438",
+        "id": "8f46426c4f46c5ba",
         "type": "tabs",
         "children": [
           {
-            "id": "43105ae9377d6981",
+            "id": "bc5eab6001cea815",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/Electronic Theory.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Voltage_Drop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics/Electronic Theory.md"
+              }
             }
           },
           {
@@ -89,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics/Electronic Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +113,24 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics/Electronic Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7f4780be337c3798",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43105ae9377d6981",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -158,10 +181,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "43105ae9377d6981",
+  "active": "502ca117be8e0b74",
   "lastOpenFiles": [
-    "Index.md",
     "Windows/00 Windows Home.md",
+    "Index.md",
     "Windows/Windows Terminal/00 Windows Terminal Home.md",
     "Electronics/00 Electronics Home.md",
     "Electronics/Electronic Theory.md",
