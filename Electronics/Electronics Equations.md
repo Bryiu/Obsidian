@@ -33,5 +33,4 @@ const chartData = {
 window.renderChart(chartData, this.container);
 ```
 
-
  ![[Obsnote1.jpg]]
