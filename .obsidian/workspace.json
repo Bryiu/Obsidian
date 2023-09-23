@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "8f46426c4f46c5ba",
-        "type": "tabs",
+        "id": "74e5cfa9405cc6c1",
+        "type": "split",
         "children": [
           {
-            "id": "bc5eab6001cea815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Process's/Extending LVM.md",
-                "mode": "source",
-                "source": false
+            "id": "8f46426c4f46c5ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bc5eab6001cea815",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "8abef0787f051c34",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6eabd510a2108276",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Electronics/Electronics Equations.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -84,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/Process's/Extending LVM.md"
-              }
+              "state": {}
             }
           },
           {
@@ -95,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Process's/Extending LVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Process's/Extending LVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,8 +145,12 @@
             "id": "43105ae9377d6981",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/Electronics Equations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -182,21 +203,23 @@
   },
   "active": "bc5eab6001cea815",
   "lastOpenFiles": [
-    "Linux/Process's/Bash Scripting.md",
+    "README.md",
     "Electronics/Electronics Equations.md",
     "Electronics/Electronic Theory.md",
+    "Linux/Process's/Bash Scripting.md",
     "Linux/Process's/AUR.md",
+    "Linux/Process's/Gnome Commands.md",
+    "Linux/Process's/Extending LVM.md",
     "Windows/00 Windows Home.md",
     "Index.md",
     "Windows/Windows Terminal/00 Windows Terminal Home.md",
     "Electronics/00 Electronics Home.md",
     "Source/gaming.sh.md",
     "Linux/00 Linux Home.md",
-    "R/00 R Home.md",
-    "R/Deployment/00 R Deployment Home.md",
+    "R Lang/00 R Home.md",
+    "R Lang/Deployment/00 R Deployment Home.md",
     "Quasar/00 Quasar Home.md",
     "Quasar/Quasar Process's/00 Quasar Process's Home.md",
-    "README.md",
     "Quasar/Quasar Process's",
     "Linux/Process's/00 Linux Process's Home.md",
     "Electronics/Process's/00 Electronics Process's Home.md",
@@ -206,11 +229,9 @@
     "Source/Pasted image 20230922130649.png",
     "Source",
     "Source/programming.sh.md",
-    "Linux/Process's/Extending LVM.md",
     "Linux/Bash Commands.md",
     "Process's.md",
     "000 Process's.md",
-    "001 Adding a new Terminal.md",
     "Electronics/Equipment",
     "Source/Pasted image 20230922130430.png",
     "Source/Pasted image 20230922125504.png",
