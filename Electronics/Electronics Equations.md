@@ -15,7 +15,23 @@ $$ V_2 = V_s(\frac {R_x}{R_t})$$
 		2. When applying this formula, $$R_x$$ is applied to the divider and the following resistors between the output terminals.
 
 
+==For Figure 8-5==
+```dataviewjs
+const labels = ['Volts'];
+const data = [.01, .1, 1, 10];
 
+const chartData = {
+	type: 'line',
+	data: {
+		labels: labels,
+		datasets: [{
+			label: 'Fig 8-5',
+			data: data
+				}]
+			}
+}
+window.renderChart(chartData, this.container);
+```
 
 
  ![[Obsnote1.jpg]]
