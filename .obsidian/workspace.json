@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "74e5cfa9405cc6c1",
-        "type": "split",
+        "id": "8abef0787f051c34",
+        "type": "tabs",
         "children": [
           {
-            "id": "8f46426c4f46c5ba",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bc5eab6001cea815",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
+            "id": "6eabd510a2108276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/Electronics Equations.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "8abef0787f051c34",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6eabd510a2108276",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Electronics/Electronics Equations.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics/Electronics Equations.md"
+              }
             }
           },
           {
@@ -114,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics/Electronics Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,26 +112,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics/Electronics Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7f4780be337c3798",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "43105ae9377d6981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronics/Electronics Equations.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -201,8 +166,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "bc5eab6001cea815",
+  "active": "6eabd510a2108276",
   "lastOpenFiles": [
+    "Obsnote1.jpg",
+    "Obsnote.jpg",
+    "Source/Pasted image 20230922125504.png",
     "README.md",
     "Electronics/Electronics Equations.md",
     "Electronics/Electronic Theory.md",
@@ -231,10 +199,8 @@
     "Source/programming.sh.md",
     "Linux/Bash Commands.md",
     "Process's.md",
-    "000 Process's.md",
     "Electronics/Equipment",
     "Source/Pasted image 20230922130430.png",
-    "Source/Pasted image 20230922125504.png",
     "Source/Pasted image 20230922125019.png",
     "Electronics/Process's",
     "Source/Pasted image 20230922114921.png"

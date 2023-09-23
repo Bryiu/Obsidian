@@ -13,4 +13,9 @@ $$P_2=I_t^2R_x$$
 
 $$ V_2 = V_s(\frac {R_x}{R_t})$$
 		2. When applying this formula, $$R_x$$ is applied to the divider and the following resistors between the output terminals.
- 
+
+
+
+
+
+ ![[Obsnote1.jpg]]

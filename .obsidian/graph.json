@@ -43,7 +43,7 @@
       }
     },
     {
-      "query": "file:",
+      "query": "file:README",
       "color": {
         "a": 1,
         "rgb": 5419488
@@ -60,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 121,
-  "scale": 0.26236073875423777,
+  "scale": 0.11660477277966122,
   "close": false
 }
