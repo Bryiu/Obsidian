@@ -16,7 +16,7 @@ $$ V_2 = V_s(\frac {R_x}{R_t})$$
 
 
 ==For Figure 8-5==
-```dataviewjs
+dataviewjs
 const labels = ['Volts'];
 const data = [.01, .1, 1, 10];
 
@@ -31,6 +31,24 @@ const chartData = {
 			}
 }
 window.renderChart(chartData, this.container);
-```
 
+
+```
+```dataviewjs
+const labels = ['One', 'Two', 'Three'];
+const data = [1, 2, 3];
+
+const chartData = {  
+    type: 'bar',
+    data: {
+        labels: labels,
+        datasets: [{
+            label: 'Numbers',
+            data: data
+        }]
+    }
+}
+
+window.renderChart(chartData, this.container);
+```
  ![[Obsnote1.jpg]]
