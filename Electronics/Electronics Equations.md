@@ -9,4 +9,8 @@ $$E = mc^2$$
 
 $$P_2=I_t^2R_x$$
 2. Voltage Divider Formula
-	1. 
+	1. Consists of two or more resistors connected in series with a voltage source. They're used to obtain a smaller voltage from a larger voltage source
+
+$$ V_2 = V_s(\frac {R_x}{R_t})$$
+		2. When applying this formula, $$R_x$$ is applied to the divider and the following resistors. 
+ 

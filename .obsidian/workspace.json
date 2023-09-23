@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Electronic Theory.md",
+                "file": "Linux/Process's/Extending LVM.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Electronic Theory.md"
+                "file": "Linux/Process's/Extending LVM.md"
               }
             }
           },
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Electronic Theory.md",
+                "file": "Linux/Process's/Extending LVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Electronic Theory.md",
+                "file": "Linux/Process's/Extending LVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,13 +180,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "502ca117be8e0b74",
+  "active": "bc5eab6001cea815",
   "lastOpenFiles": [
+    "Linux/Process's/Bash Scripting.md",
+    "Electronics/Electronics Equations.md",
+    "Electronics/Electronic Theory.md",
+    "Linux/Process's/AUR.md",
     "Windows/00 Windows Home.md",
     "Index.md",
     "Windows/Windows Terminal/00 Windows Terminal Home.md",
     "Electronics/00 Electronics Home.md",
-    "Electronics/Electronic Theory.md",
     "Source/gaming.sh.md",
     "Linux/00 Linux Home.md",
     "R/00 R Home.md",
@@ -201,18 +203,15 @@
     "Electronics/Equipment/00 Equipment Home.md",
     "Source/bills.sh.md",
     "Electronics/Electronic Components.md",
-    "Electronics/Electronics Equations.md",
     "Source/Pasted image 20230922130649.png",
     "Source",
     "Source/programming.sh.md",
     "Linux/Process's/Extending LVM.md",
-    "Linux/Process's/AUR.md",
     "Linux/Bash Commands.md",
     "Process's.md",
     "000 Process's.md",
     "001 Adding a new Terminal.md",
     "Electronics/Equipment",
-    "Electronics/Equipment.md",
     "Source/Pasted image 20230922130430.png",
     "Source/Pasted image 20230922125504.png",
     "Source/Pasted image 20230922125019.png",

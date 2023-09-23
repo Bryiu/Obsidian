@@ -11,6 +11,6 @@
 4. ==Open==: A break in the circuit. 
 	1. On a multimeter,  this will read the maximum resistance while the other resistors will read 0 Volts because there is no flow of electrons
 
-7. ==Change of Value==: Simply put, they are opening or shorting.
+5. ==Change of Value==: Simply put, they are opening or shorting.
 
  
