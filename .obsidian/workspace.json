@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Electronics Equations.md",
+                "file": "Electronics/Electronic Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Electronics Equations.md"
+                "file": "Electronics/Electronic Theory.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Electronics Equations.md",
+                "file": "Electronics/Electronic Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Electronics Equations.md",
+                "file": "Electronics/Electronic Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,11 +185,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a498a36650d65b78",
+  "active": "11f54b6ee53d0032",
   "lastOpenFiles": [
+    "Electronics/Electronics Equations.md",
     "Source/Selection_002.png",
     "Source/Source.md",
-    "Electronics/Electronics Equations.md",
     "Source/Selection_001.png",
     "Electronics Equations-answer.md",
     "Context/spacesLastSync.log",

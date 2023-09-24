@@ -7,7 +7,7 @@
 2. ==Voltage_Drop== : The decrease of electric potential (Voltage) along the path of a conductor.
 	1. In this instance, in class this is used and calculated across a resistor or load
 
-3. ==Short==: A short circuit is when there is a low resistance connection between two conductors supplying electrical power to a circuit.
+3. ==Short==: A short circuit is when there is a low to no resistance connection between two conductors supplying electrical power to a circuit.
 	1. When this is read on a multimeter at a resistor; the resistor will read 0 Volts and the following resistors in the circuit will read at a higher voltage per Kirchhoff's Law
 
 4. ==Open==: A break in the circuit. 
@@ -16,3 +16,6 @@
 5. ==Change of Value==: Simply put, they are opening or shorting.
 
  # Parallel
+
+1. ==Short== $R=0$, $I=Max$, $V=0$ 
+	1. Open each branch, measuring the circuit away from the source, and close each branch to see a $0v$ reading.
