@@ -1,7 +1,7 @@
 
 ## Ohms Law
 ![[Pasted image 20230922114921.png]]
-$$E = mc^2$$
+
 # Calculations
 1.  Power in a Load
 	1.  Is to find the power being used by a load
