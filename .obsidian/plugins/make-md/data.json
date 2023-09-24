@@ -36,9 +36,7 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Obsidian": [
-      "Source",
-      "/",
-      "Electronics"
+      "/"
     ]
   },
   "expandedSpaces": [
@@ -75,7 +73,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695581302910,
+  "spacesAutoBackupLast": 1695588094059,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

@@ -20,7 +20,7 @@ $$P_2=I_t^2R_x$$
 	1. Consists of two or more resistors connected in series with a voltage source. They're used to obtain a smaller voltage from a larger voltage source
 
 $$ V_2 = V_s(\frac {R_x}{R_t})$$
-		2. When applying this formula, $$R_x$$ is applied to the divider and the following resistors between the output terminals.
+		2. When applying this formula, $R_x$ is applied to the divider and the following resistors between the output terminals.
 
 
 ==For Figure 8-5==
@@ -102,5 +102,11 @@ $$ I_t=I_{R1}+I_{R2}+I_{R3}$$
 $$R_t=\frac{V}{I_t}$$
 *for only two resistors*
 $$R_t=\frac{R_1R_2}{R_1+R_2}$$
+
+>[!info]
+>If you have three resistors, chain them together. Meaning, perform the equation for the first two resistors *THEN* replace that value for $R_1$ in the equation.
+
+
+
 **or**
 $$R_t=\frac{1}{\frac{1}{R_1}+\frac{1}{R_2}}$$
