@@ -9,14 +9,14 @@
 >Current is the same across a series circuit. 
 
 
-1.  Power in a Load
+### Power in a Load
 	1.  Is to find the power being used by a load
 		1. This was used in class for determining the power across a resistor
 
 $$P_2=I_t^2R_x$$
 
 ---
-2. Voltage Divider Formula
+### Voltage Divider Formula
 	1. Consists of two or more resistors connected in series with a voltage source. They're used to obtain a smaller voltage from a larger voltage source
 
 $$ V_2 = V_s(\frac {R_x}{R_t})$$
@@ -89,5 +89,8 @@ bestFitNumber: 0
 >[!Info]
 >Current is different through each branch of a parallel circuit
 
+### Ohms Law in Parallel
+### Calculating Current
+![[Selection_002.png]]
 
-
+$$ I_t=I_{R1}+I_{R2}+I_{R3}$$

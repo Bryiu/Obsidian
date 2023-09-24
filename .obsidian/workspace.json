@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "230c539ad07cc285",
+        "id": "3e79ba575efc4baa",
         "type": "tabs",
         "children": [
           {
-            "id": "815582548dcfa711",
+            "id": "11f54b6ee53d0032",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,10 +185,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "815582548dcfa711",
+  "active": "11f54b6ee53d0032",
   "lastOpenFiles": [
-    "Electronics Equations-answer.md",
+    "Selection_002.png",
+    "Source/Source.md",
     "Electronics/Electronics Equations.md",
+    "Selection_001.png",
+    "Electronics Equations-answer.md",
     "Context/spacesLastSync.log",
     "Context",
     "Electronics/Electronic Theory.md",
@@ -220,8 +223,6 @@
     "Electronics/Electronic Components.md",
     "Source/Pasted image 20230922130649.png",
     "Source",
-    "Source/programming.sh.md",
-    "Linux/Bash Commands.md",
     "Electronics/Equipment",
     "Source/Pasted image 20230922130430.png",
     "Source/Pasted image 20230922125019.png",
