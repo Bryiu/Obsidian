@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8abef0787f051c34",
+        "id": "230c539ad07cc285",
         "type": "tabs",
         "children": [
           {
-            "id": "6eabd510a2108276",
+            "id": "815582548dcfa711",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,9 +84,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Electronics/Electronics Equations.md"
-              }
+              "state": {}
             }
           },
           {
@@ -95,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Electronics Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Electronics Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,8 +130,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "6eabd510a2108276",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "84720ef2ae0498ba",
@@ -168,13 +173,13 @@
   },
   "active": "6eabd510a2108276",
   "lastOpenFiles": [
+    "Electronics/Electronics Equations.md",
+    "Electronics/Electronic Theory.md",
     "obsnote2.jpg",
     "Obsnote1.jpg",
     "Obsnote.jpg",
     "Source/Pasted image 20230922125504.png",
     "README.md",
-    "Electronics/Electronics Equations.md",
-    "Electronics/Electronic Theory.md",
     "Linux/Process's/Bash Scripting.md",
     "Linux/Process's/AUR.md",
     "Linux/Process's/Gnome Commands.md",

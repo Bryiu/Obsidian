@@ -3,6 +3,12 @@
 ![[Pasted image 20230922114921.png]]
 
 # Calculations
+## Series Circuit 
+
+>[!Info]
+>Current is the same across a series circuit. 
+
+
 1.  Power in a Load
 	1.  Is to find the power being used by a load
 		1. This was used in class for determining the power across a resistor
@@ -52,12 +58,13 @@ bestFitTitle: undefined
 bestFitNumber: 0
 ```
 
+---
 
 ==For Figure 8-3(b)==
 
 ![[obsnote2.jpg | 600]]
 
-
+This is the calculated voltage between the two points. Though, when returning to ground the voltage is going to be 0 volts.
 ```chart
 type: bar
 labels: [Min Voltage, Max Voltage]
@@ -73,3 +80,11 @@ bestFit: false
 bestFitTitle: undefined
 bestFitNumber: 0
 ```
+
+---
+
+## Parallel Circuit
+
+>[!Info]
+>Current is different through each branch of a parallel circuit
+
