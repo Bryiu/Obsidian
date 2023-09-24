@@ -2,6 +2,8 @@
 
 1. ==Reference_Ground== : 0 Volts. Other than the earth.
 
+# Series 
+
 2. ==Voltage_Drop== : The decrease of electric potential (Voltage) along the path of a conductor.
 	1. In this instance, in class this is used and calculated across a resistor or load
 
@@ -13,4 +15,4 @@
 
 5. ==Change of Value==: Simply put, they are opening or shorting.
 
- 
+ # Parallel

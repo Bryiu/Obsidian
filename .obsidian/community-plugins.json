@@ -4,5 +4,8 @@
   "calendar",
   "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "obsidian-charts"
+  "obsidian-charts",
+  "table-editor-obsidian",
+  "make-md",
+  "zettelgpt"
 ]

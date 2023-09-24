@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Electronics Equations.md",
+                "file": "Electronics Equations-answer.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "a498a36650d65b78",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -84,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics Equations-answer.md"
+              }
             }
           },
           {
@@ -93,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics Equations-answer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics Equations-answer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,18 +181,25 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "zettelgpt:Insert Question Template": false,
+      "zettelgpt:Generate ChatGPT Answer": false
     }
   },
-  "active": "6eabd510a2108276",
+  "active": "815582548dcfa711",
   "lastOpenFiles": [
     "Electronics/Electronics Equations.md",
+    "Electronics Equations-answer.md",
+    "Context/spacesLastSync.log",
+    "Context",
     "Electronics/Electronic Theory.md",
-    "obsnote2.jpg",
-    "Obsnote1.jpg",
-    "Obsnote.jpg",
-    "Source/Pasted image 20230922125504.png",
+    "R Lang/Deployment/Plotly Dash.md",
     "README.md",
+    "Source/obsnote2.jpg",
+    "Source/Obsnote1.jpg",
+    "Source/Obsnote.jpg",
+    "Source/Pasted image 20230922125504.png",
     "Linux/Process's/Bash Scripting.md",
     "Linux/Process's/AUR.md",
     "Linux/Process's/Gnome Commands.md",
@@ -204,7 +224,6 @@
     "Source",
     "Source/programming.sh.md",
     "Linux/Bash Commands.md",
-    "Process's.md",
     "Electronics/Equipment",
     "Source/Pasted image 20230922130430.png",
     "Source/Pasted image 20230922125019.png",

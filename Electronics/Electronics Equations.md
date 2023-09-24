@@ -64,7 +64,8 @@ bestFitNumber: 0
 
 ![[obsnote2.jpg | 600]]
 
-This is the calculated voltage between the two points. Though, when returning to ground the voltage is going to be 0 volts.
+>This is the calculated voltage between the two points. Though, when returning to ground the voltage is going to be 0 volts.
+
 ```chart
 type: bar
 labels: [Min Voltage, Max Voltage]
@@ -87,4 +88,6 @@ bestFitNumber: 0
 
 >[!Info]
 >Current is different through each branch of a parallel circuit
+
+
 
