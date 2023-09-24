@@ -94,3 +94,13 @@ bestFitNumber: 0
 ![[Selection_002.png]]
 
 $$ I_t=I_{R1}+I_{R2}+I_{R3}$$
+### Calculating Resistance
+
+>[!Important]
+>The total resistance is *always* less than the value of any single branch resistance
+
+$$R_t=\frac{V}{I_t}$$
+*for only two resistors*
+$$R_t=\frac{R_1R_2}{R_1+R_2}$$
+**or**
+$$R_t=\frac{1}{\frac{1}{R_1}+\frac{1}{R_2}}$$
