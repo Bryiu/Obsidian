@@ -43,7 +43,8 @@
   "expandedSpaces": [
     "/",
     null,
-    "Obsidian"
+    "Obsidian",
+    null
   ],
   "expandFolderOnClick": true,
   "openFolders": [],
