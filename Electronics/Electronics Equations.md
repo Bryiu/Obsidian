@@ -110,3 +110,12 @@ $$R_t=\frac{R_1R_2}{R_1+R_2}$$
 
 **or**
 $$R_t=\frac{1}{\frac{1}{R_1}+\frac{1}{R_2}}$$
+# Series Parallel
+## Resistance
+Calculate the Parallel circuit first with $R_t=\frac {R_1R_2}{R_1+R_2}$ then add that to the series circuit with $R_t+R_{series-total}$ 
+## Voltage Drops
+
+Determining voltage drops
+1. Find total resistance
+2. Calculate total current
+3. Calculate voltage drops

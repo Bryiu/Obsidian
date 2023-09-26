@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Electronic Theory.md",
+                "file": "Electronics/Electronics Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Electronic Theory.md"
+                "file": "Electronics/Electronics Equations.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Electronic Theory.md",
+                "file": "Electronics/Electronics Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Electronic Theory.md",
+                "file": "Electronics/Electronics Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,6 +187,7 @@
   },
   "active": "11f54b6ee53d0032",
   "lastOpenFiles": [
+    "Electronics/Electronic Theory.md",
     "Electronics/Electronics Equations.md",
     "Source/Selection_002.png",
     "Source/Source.md",
@@ -194,7 +195,6 @@
     "Electronics Equations-answer.md",
     "Context/spacesLastSync.log",
     "Context",
-    "Electronics/Electronic Theory.md",
     "R Lang/Deployment/Plotly Dash.md",
     "README.md",
     "Source/obsnote2.jpg",
