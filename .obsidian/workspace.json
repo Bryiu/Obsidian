@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Electronic Theory.md",
+                "file": "Electronics/Electronic Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Electronic Theory.md"
+                "file": "Electronics/Electronic Components.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Electronic Theory.md",
+                "file": "Electronics/Electronic Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Electronic Theory.md",
+                "file": "Electronics/Electronic Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +187,10 @@
   },
   "active": "11f54b6ee53d0032",
   "lastOpenFiles": [
-    "Electronics/Electronics Equations.md",
+    "Electronics/Equipment/Equipment.md",
+    "Electronics/Process's/Process's.md",
     "Electronics/Electronic Theory.md",
+    "Electronics/Electronics Equations.md",
     "Source/Selection_002.png",
     "Source/Source.md",
     "Source/Selection_001.png",
@@ -220,7 +222,6 @@
     "Electronics/Process's/00 Electronics Process's Home.md",
     "Electronics/Equipment/00 Equipment Home.md",
     "Source/bills.sh.md",
-    "Electronics/Electronic Components.md",
     "Source/Pasted image 20230922130649.png",
     "Source",
     "Electronics/Equipment",
