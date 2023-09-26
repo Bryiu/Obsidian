@@ -11,7 +11,7 @@
 	1. When this is read on a multimeter at a resistor; the resistor will read 0 Volts and the following resistors in the circuit will read at a higher voltage per Kirchhoff's Law
 
 4. ==Open==: A break in the circuit. 
-	1. On a multimeter,  this will read the maximum resistance while the other resistors will read 0 Volts because there is no flow of electrons
+	1. On a multimeter,  this will read the infinite resistance while the other resistors will read 0 Volts because there is no flow of electrons
 
 5. ==Change of Value==: Simply put, they are opening or shorting.
 
