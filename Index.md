@@ -1,15 +1,15 @@
 # Electronics
-## [[00 Electronics Home]]
+## [[Electronics]]
 # Linux
-## [[00 Linux Home]]
+## [[Linux]]
 # Quasar
-## [[00 Quasar Home]]
+## [[Quasar]]
 
 # R
-## [[00 R Home]]
+## [[R Lang]]
 
 # [[Source]]
 # Windows
-## [[00 Windows Home]]
+## [[Windows]]
 
 # [[README]]
