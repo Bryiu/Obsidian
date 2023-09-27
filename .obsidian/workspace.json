@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Electronic Components.md",
+                "file": "Electronics/Electronics Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Electronic Components.md"
+                "file": "Electronics/Electronics Equations.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Electronic Components.md",
+                "file": "Electronics/Electronics Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Electronic Components.md",
+                "file": "Electronics/Electronics Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,8 +187,12 @@
   },
   "active": "11f54b6ee53d0032",
   "lastOpenFiles": [
-    "Electronics/Equipment/Equipment.md",
+    "Index.md",
+    "Electronics/00 Electronics Home.md",
     "Electronics/Process's/Process's.md",
+    "Electronics/Equipment/00 Equipment Home.md",
+    "Electronics/Equipment/Equipment.md",
+    "Electronics/Electronic Components.md",
     "Electronics/Electronic Theory.md",
     "Electronics/Electronics Equations.md",
     "Source/Selection_002.png",
@@ -208,9 +212,7 @@
     "Linux/Process's/Gnome Commands.md",
     "Linux/Process's/Extending LVM.md",
     "Windows/00 Windows Home.md",
-    "Index.md",
     "Windows/Windows Terminal/00 Windows Terminal Home.md",
-    "Electronics/00 Electronics Home.md",
     "Source/gaming.sh.md",
     "Linux/00 Linux Home.md",
     "R Lang/00 R Home.md",
@@ -220,8 +222,6 @@
     "Quasar/Quasar Process's",
     "Linux/Process's/00 Linux Process's Home.md",
     "Electronics/Process's/00 Electronics Process's Home.md",
-    "Electronics/Equipment/00 Equipment Home.md",
-    "Source/bills.sh.md",
     "Source/Pasted image 20230922130649.png",
     "Source",
     "Electronics/Equipment",
