@@ -82,6 +82,13 @@ bestFitTitle: undefined
 bestFitNumber: 0
 ```
 
+## Comparing two Voltage Dividers
+
+$V_2-V_1=x$
+
+
+
+
 ---
 
 ## Parallel Circuit
