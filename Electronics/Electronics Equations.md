@@ -119,3 +119,16 @@ Determining voltage drops
 1. Find total resistance
 2. Calculate total current
 3. Calculate voltage drops
+
+## Percent Regulation
+
+Percent Regulation is the variation between an unloaded $V_o$ and a loaded $V_{out}$ 
+![[Selection_003.png]]
+
+$$Percent\,Regulation=100*\frac{(V_o-V_{out})}{V_{out}}$$
+
+![[Selection_004.png]]
+
+>[!Note]
+>A 50% Regulation is poor and a 1% is good
+
