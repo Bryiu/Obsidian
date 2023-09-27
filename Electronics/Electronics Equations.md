@@ -86,10 +86,26 @@ bestFitNumber: 0
 
 $V_2-V_1=x$
 
+When you have two voltage dividers use these formula's
+
+>[!Warning]
+>This is in the NIDA bridge Circuits and needs photos
 
 
 
----
+| Ohms Law Method                       |                                        |
+| ------------------------------------- | -------------------------------------- |
+| Calculate $V_1$                       | Calculate $V_2$                        |
+| $I_1= (\frac {V_A}{R_1+R_2})$         | $I_2=\frac{V_A}{R_x+R_s}$              |
+| $V_1=I_1* R_o$                        | $V_2=I_2*R_o$                          |
+| Ratio Method                          |                                        
+| Calculate $V_1$                       | Calculate $V_2$                        |
+| $\frac{V_A}{V_1}=\frac{R_1+R_2}{R_2}$ | $\frac{V_A}{V_2}=\frac {R_x+R_s}{R_s}$
+
+
+## Finding the unknown value in a balanced bridge circuit
+$\frac {R_1}{R_2} = \frac  {R_x}{R_s}$ Then cross multiply
+
 
 ## Parallel Circuit
 
