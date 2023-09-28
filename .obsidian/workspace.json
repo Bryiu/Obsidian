@@ -13,13 +13,52 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Electronics Equations.md",
+                "file": "Electronics/Electronics Equations/Series Parallel Equations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "2af556b37270ee74",
+        "type": "split",
+        "children": [
+          {
+            "id": "60e0e95c250eaefa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6eabd510a2108276",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Electronics/Electronics Equations/Electronics Equations(Origin).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "a223b078167aad26",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f2789616d1f92cb4",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -73,8 +112,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Electronics/Electronics Equations.md"
-              }
+              "state": {}
             }
           },
           {
@@ -104,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Electronics Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Electronics Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,17 +177,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "6eabd510a2108276",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "84720ef2ae0498ba",
@@ -185,11 +210,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11f54b6ee53d0032",
+  "active": "f2789616d1f92cb4",
   "lastOpenFiles": [
-    "Selection_005.png",
-    "Selection_004.png",
-    "Selection_003.png",
+    "Electronics/Electronics Equations/Electronics Equations(Origin).md",
+    "Electronics/Electronics.md",
+    "Electronics/Electronic Theory.md",
+    "Electronics/Electronics Equations/Series Parallel Equations.md",
+    "Electronics/Electronics Equations/Parallel Equations.md",
+    "Electronics/Electronics Equations/Series Equations.md",
+    "Untitled.md",
+    "Electronics/Electronic Components.md",
+    "Electronics/Electronics Equations",
+    "Source/Selection_003.png",
+    "Source/Selection_006.png",
+    "Source/Selection_005.png",
+    "Source/Selection_004.png",
     "Index.md",
     "Windows/Windows.md",
     "Windows/Windows Terminal/Windows Terminal.md",
@@ -205,16 +240,9 @@
     "Quasar/00 Quasar Home.md",
     "Linux/Linux.md",
     "Linux/00 Linux Home.md",
-    "Electronics/Electronics.md",
     "Electronics/00 Electronics Home.md",
     "Electronics/Equipment/00 Equipment Home.md",
     "Electronics/Process's/00 Electronics Process's Home.md",
-    "Electronics/Equipment/Equipment.md",
-    "Electronics/Equipment/Test.md",
-    "Electronics/Process's/Process's.md",
-    "Electronics/Electronic Theory.md",
-    "Electronics/Electronics Equations.md",
-    "Electronics/Electronic Components.md",
     "Source/Selection_002.png",
     "Source/Selection_001.png",
     "Context/spacesLastSync.log",
@@ -224,10 +252,8 @@
     "Source/Obsnote.jpg",
     "Source/Pasted image 20230922125504.png",
     "Quasar/Quasar Process's",
-    "Source/Pasted image 20230922130649.png",
     "Source",
     "Electronics/Equipment",
-    "Source/Pasted image 20230922130430.png",
     "Electronics/Process's"
   ]
 }

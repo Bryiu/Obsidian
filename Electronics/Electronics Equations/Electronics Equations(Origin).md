@@ -88,9 +88,7 @@ $V_2-V_1=x$
 
 When you have two voltage dividers use these formula's
 
->[!Warning]
->This is in the NIDA bridge Circuits and needs photos
-
+![[Selection_006.png]]
 
 
 | Ohms Law Method                       |                                        |

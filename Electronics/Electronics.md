@@ -1,8 +1,10 @@
+---
+Electronics: ""
+---
 # Root Files
 
-### [[Electronic Components]]
-### [[Electronics Equations]]
-### [[Electronic Theory]]
+[[Electronic Components]]
+[[Electronic Theory]]
 
 ---
 
@@ -10,4 +12,5 @@
 
 [[Equipment]]
 [[Process's]]
+[[Electronics Equations(Origin)]]
 

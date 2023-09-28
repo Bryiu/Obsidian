@@ -14,7 +14,7 @@
   "contextEnabled": true,
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
-  "autoOpenFileContext": false,
+  "autoOpenFileContext": true,
   "activeView": "root",
   "hideFrontmatter": true,
   "activeSpace": "",
@@ -36,17 +36,14 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Obsidian": [
+      "Quasar/Quasar Process's",
+      "R Lang/Deployment",
+      "Windows/Windows Terminal",
       "Electronics/Process's",
       "Electronics/Equipment",
-      "Linux",
-      "Quasar/Quasar Process's",
-      "Quasar",
-      "R Lang/Deployment",
-      "R Lang",
-      "Windows/Windows Terminal",
-      "Windows",
       "/",
-      "Electronics"
+      "Electronics",
+      "Electronics/Electronics Equations"
     ]
   },
   "expandedSpaces": [
@@ -84,7 +81,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695926447888,
+  "spacesAutoBackupLast": 1695930030150,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
@@ -92,6 +89,6 @@
   "fmKeyColor": "color",
   "fmKeySticker": "sticker",
   "openSpacesOnLaunch": true,
-  "indexSVG": false,
+  "indexSVG": true,
   "readableLineWidth": true
 }
