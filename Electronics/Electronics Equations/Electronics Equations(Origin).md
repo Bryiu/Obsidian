@@ -88,19 +88,17 @@ $V_2-V_1=x$
 
 When you have two voltage dividers use these formula's
 
->[!Warning]
->This is in the NIDA bridge Circuits and needs photos
-
+![[Selection_006.png]]
 
 
 | Ohms Law Method                       |                                        |
 | ------------------------------------- | -------------------------------------- |
-| Calculate $V_1$                       | Calculate $V_2$                        |
+| How to calculate $V_1$ using Ohms Law Method  | How to calculate $V_2$ Using Ohms Law Method                        |
 | $I_1= (\frac {V_A}{R_1+R_2})$         | $I_2=\frac{V_A}{R_x+R_s}$              |
 | $V_1=I_1* R_o$                        | $V_2=I_2*R_o$                          |
 | Ratio Method                          |                                        
 | Calculate $V_1$                       | Calculate $V_2$                        |
-| $\frac{V_A}{V_1}=\frac{R_1+R_2}{R_2}$ | $\frac{V_A}{V_2}=\frac {R_x+R_s}{R_s}$
+| $\frac{V_A}{V_1}=\frac{R_1+R_2}{R_2}$ | $\frac{V_A}{V_2}=\frac {R_x+R_s}{R_s}$ |
 
 
 ## Finding the unknown value in a balanced bridge circuit
@@ -135,9 +133,18 @@ $$R_t=\frac{R_1R_2}{R_1+R_2}$$
 $$R_t=\frac{1}{\frac{1}{R_1}+\frac{1}{R_2}}$$
 # Series Parallel
 ## Resistance
-Calculate the Parallel circuit first with $R_t=\frac {R_1R_2}{R_1+R_2}$ then add that to the series circuit with $R_t+R_{series-total}$ 
-## Voltage Drops
+Calculate the Parallel circuit first with $R_t=\frac {R_1R_2}{R_1+R_2}$ then add that to the series circuit with $R_t+R_{series-total}$
 
+## Voltage 
+
+Determining $V_o$ or $V_{out}$ using the ratio method
+
+$\frac {V_{in}}{V_{out}} = \frac {R_{total}}{R_{out}}$
+
+![[Selection_005.png]]
+
+
+### Voltage drops
 Determining voltage drops
 1. Find total resistance
 2. Calculate total current
