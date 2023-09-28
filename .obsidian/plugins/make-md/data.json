@@ -41,9 +41,9 @@
       "Windows/Windows Terminal",
       "Electronics/Process's",
       "Electronics/Equipment",
-      "/",
+      "Electronics/Electronics Equations",
       "Electronics",
-      "Electronics/Electronics Equations"
+      "/"
     ]
   },
   "expandedSpaces": [
@@ -81,7 +81,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695930030150,
+  "spacesAutoBackupLast": 1695930247974,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
