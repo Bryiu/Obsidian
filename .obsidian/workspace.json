@@ -93,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics/Electronics Equations.md"
+              }
             }
           },
           {
@@ -102,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics/Electronics Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics/Electronics Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,44 +185,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6eabd510a2108276",
+  "active": "11f54b6ee53d0032",
   "lastOpenFiles": [
-    "Electronics/Electronics Equations.md",
-    "Electronics/Electronic Components.md",
-    "Windows/Windows.md",
-    "Windows/Windows Terminal/Windows Terminal.md",
+    "Selection_005.png",
     "Selection_004.png",
     "Selection_003.png",
-    "R Lang/R Lang.md",
+    "Index.md",
+    "Windows/Windows.md",
+    "Windows/Windows Terminal/Windows Terminal.md",
+    "Windows/Windows Terminal/00 Windows Terminal Home.md",
+    "Windows/00 Windows Home.md",
     "R Lang/Deployment/Deployment.md",
+    "R Lang/00 R Home.md",
+    "R Lang/Deployment/00 R Deployment Home.md",
+    "R Lang/R Lang.md",
     "Quasar/Quasar.md",
     "Quasar/Quasar Process's/Quasar Process's.md",
+    "Quasar/Quasar Process's/00 Quasar Process's Home.md",
+    "Quasar/00 Quasar Home.md",
     "Linux/Linux.md",
-    "Electronics/Process's/Process's.md",
-    "Electronics/Equipment/Equipment.md",
+    "Linux/00 Linux Home.md",
     "Electronics/Electronics.md",
+    "Electronics/00 Electronics Home.md",
+    "Electronics/Equipment/00 Equipment Home.md",
+    "Electronics/Process's/00 Electronics Process's Home.md",
+    "Electronics/Equipment/Equipment.md",
+    "Electronics/Equipment/Test.md",
+    "Electronics/Process's/Process's.md",
     "Electronics/Electronic Theory.md",
+    "Electronics/Electronics Equations.md",
+    "Electronics/Electronic Components.md",
     "Source/Selection_002.png",
-    "Source/Source.md",
     "Source/Selection_001.png",
-    "Electronics Equations-answer.md",
     "Context/spacesLastSync.log",
     "Context",
-    "R Lang/Deployment/Plotly Dash.md",
-    "README.md",
     "Source/obsnote2.jpg",
     "Source/Obsnote1.jpg",
     "Source/Obsnote.jpg",
     "Source/Pasted image 20230922125504.png",
-    "Linux/Process's/Bash Scripting.md",
-    "Linux/Process's/AUR.md",
-    "Linux/Process's/Gnome Commands.md",
-    "Linux/Process's/Extending LVM.md",
-    "Windows/00 Windows Home.md",
-    "Index.md",
-    "Windows/Windows Terminal/00 Windows Terminal Home.md",
-    "Electronics/00 Electronics Home.md",
-    "Source/gaming.sh.md",
     "Quasar/Quasar Process's",
     "Source/Pasted image 20230922130649.png",
     "Source",
