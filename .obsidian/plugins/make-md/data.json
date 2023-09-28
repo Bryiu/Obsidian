@@ -37,7 +37,8 @@
   "expandedFolders": {
     "Obsidian": [
       "/",
-      "Electronics"
+      "Electronics",
+      "Electronics/Electronics Equations"
     ]
   },
   "expandedSpaces": [
@@ -75,7 +76,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695936282593,
+  "spacesAutoBackupLast": 1695936786361,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

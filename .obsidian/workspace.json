@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Electronic Theory.md",
+                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Electronic Theory.md"
+                "file": "Electronics/Electronics Equations/Complex Circuits.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Electronic Theory.md",
+                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Electronic Theory.md",
+                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,16 +187,17 @@
   },
   "active": "11f54b6ee53d0032",
   "lastOpenFiles": [
+    "Electronics/Electronics Equations/Parallel Equations.md",
+    "Electronics/Electronics Equations/Complex Circuits.md",
     "Electronics/Electronics Equations/Electronics Equations.md",
-    "conflict-files-obsidian-git.md",
     "Electronics/Electronic Theory.md",
+    "conflict-files-obsidian-git.md",
     "Source/Selection_006.png",
     "Source/Selection_005.png",
     "Source/Selection_004.png",
     "Source/Selection_003.png",
     "Electronics/Electronics Equations/Series Parallel Equations.md",
     "Electronics/Electronics Equations/Series Equations.md",
-    "Electronics/Electronics Equations/Parallel Equations.md",
     "Electronics/Electronics Equations/Electronics Equations(Origin).md",
     "Electronics/Electronics Equations",
     "Electronics/Electronics Equations.md",
@@ -225,7 +226,6 @@
     "Source/Obsnote1.jpg",
     "Linux/Process's/Bash Scripting.md",
     "Linux/Process's/AUR.md",
-    "Linux/Process's/Gnome Commands.md",
     "Quasar/Quasar Process's",
     "Source",
     "Electronics/Equipment",
