@@ -36,6 +36,15 @@
   "deleteFileOption": "trash",
   "expandedFolders": {
     "Obsidian": [
+      "Electronics/Process's",
+      "Electronics/Equipment",
+      "Linux",
+      "Quasar/Quasar Process's",
+      "Quasar",
+      "R Lang/Deployment",
+      "R Lang",
+      "Windows/Windows Terminal",
+      "Windows",
       "/",
       "Electronics"
     ]
@@ -75,7 +84,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1695854325776,
+  "spacesAutoBackupLast": 1695924745207,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
