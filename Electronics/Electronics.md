@@ -12,5 +12,5 @@ Electronics: ""
 
 [[Equipment]]
 [[Process's]]
-[[Electronics Equations(Origin)]]
+[[Electronics Equations]]
 
