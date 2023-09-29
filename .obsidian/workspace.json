@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Electronics Equations/Series Parallel Equations.md",
+                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Electronics Equations/Series Parallel Equations.md"
+                "file": "Electronics/Electronics Equations/Complex Circuits.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Electronics Equations/Series Parallel Equations.md",
+                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Electronics Equations/Series Parallel Equations.md",
+                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2789616d1f92cb4",
+  "active": "11f54b6ee53d0032",
   "lastOpenFiles": [
     "Electronics/Electronics Equations/Complex Circuits.md",
     "Electronics/Electronics.md",
