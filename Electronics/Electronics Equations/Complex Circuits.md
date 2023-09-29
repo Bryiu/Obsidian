@@ -8,8 +8,7 @@
 3. solve the equations
 
 >[!Warning]
->Notes need to be updated in Kirchhoff's Volt and current.
->1. Photo from 2150
+>1. Need to understand Complex Circuites Kirchoff's volatage and current laws
 
 ![[Pasted image 20230929154256.png]]
 
