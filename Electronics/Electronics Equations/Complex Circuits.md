@@ -10,7 +10,8 @@
 >[!Warning]
 >Notes need to be updated in Kirchhoff's Volt and current.
 >1. Photo from 2150
->2. 
+
+![[Pasted image 20230929154256.png]]
 
 2150
 $-V_A + I_1R_1+I_1R_2+V_B=0$
