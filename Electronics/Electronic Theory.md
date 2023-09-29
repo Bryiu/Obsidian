@@ -1,6 +1,8 @@
 # Terms
 
 1. ==Reference_Ground== : 0 Volts. Other than the earth.
+2. ==Kirchhoff's Current Law==: The sum of all currents into a point must equal the sum of all currents out of a point
+3. ==Kirchhoff's Voltage Law==: The algebraic sum of the voltage sources and voltage drops in a loop must equal zero
 
 # Series 
 
