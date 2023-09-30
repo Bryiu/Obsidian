@@ -10,6 +10,8 @@
 >[!Warning]
 >1. Need to understand Complex Circuites Kirchoff's volatage and current laws
 
+
+![[Selection_007.png]]
 ![[Pasted image 20230929154256.png]]
 
 2150
