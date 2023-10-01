@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Electronics Equations/Electronics Equations.md"
+                "file": "Electronics/Electronics Equations/Complex Circuits.md"
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Electronics Equations/Electronics Equations.md",
+                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Electronics Equations/Electronics Equations.md",
+                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,6 +195,8 @@
   "active": "00e7636c38bca74b",
   "lastOpenFiles": [
     "Electronics/Electronics Equations/Complex Circuits.md",
+    "Pasted image 20230930210206.png",
+    "Electronics/Electronics Equations/Electronics Equations.md",
     "Source/Pasted image 20230930184750.png",
     "Source/Pasted image 20230930162514.png",
     "Source/Pasted image 20230929154256.png",
@@ -204,9 +206,7 @@
     "Source/Selection_017.png",
     "Source/Selection_016.png",
     "Source/Selection_015.png",
-    "Source/Selection_014.png",
     "Electronics/Electronics.md",
-    "Electronics/Electronics Equations/Electronics Equations.md",
     "Electronics/Electronics Equations/Electronics Equations(Origin).md",
     "Electronics/Electronic Theory.md",
     "Electronics/Electronics Equations/Series Parallel Equations.md",
