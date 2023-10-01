@@ -63,8 +63,20 @@ $V_{R_2}=5.04V$
 ## Nortons Theorem
 
 >[!Info]
->A circuit is reduced to a single current source ($I_N$) in parallel with a single resistance ($R_N$)
+>1. A current source supplies a total current to be divided among parallel branches
+>2. A circuit is reduced to a single current source ($I_N$) in parallel with a single resistance ($R_N$)
+>3. The current produced when a short is applied across A and B is $I_N$
 
-![[Selection_024.png]]
+![[Selection_025.png]]
+The only resistance left in the circuit is $R_1$, which is in series with the $36V$ source ($I_N=\frac {V_A}{R}$). The current through the short circuit is $12A$. 
 
 The value for $R_N$ is calculated
+![[Selection_024.png]]
+
+Remove the short circuit.
+![[Selection_026.png]]
+
+$R_N$ is the resistance of the circuit looking back from the open terminals $A\,and\,B$  
+$R_N=\frac {R_1*R_2}{R_1+R_2}$ 
+
+![[Selection_027.png]]
