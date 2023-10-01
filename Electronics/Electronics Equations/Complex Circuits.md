@@ -86,3 +86,5 @@ Reinstall $R_L$ from step 1.
 Since they're equal and $I_N$ is $12A$ each branch gets $6A$ total. 
 
 ![[Selection_028.png]]
+
+Finding voltage is $V_{RL}=I_{RL}*RL$ 
