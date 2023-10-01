@@ -80,3 +80,6 @@ $R_N$ is the resistance of the circuit looking back from the open terminals $A\,
 $R_N=\frac {R_1*R_2}{R_1+R_2}$ 
 
 ![[Selection_027.png]]
+
+Once $I_N \,and\, R_N$ are determined, the equivalent Norton circuit can be drawn
+
