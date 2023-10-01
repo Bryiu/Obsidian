@@ -14,10 +14,8 @@
 ![[Selection_008.png]]
 ![[Pasted image 20230929154256.png]]
 
+![[Selection_009.png]]
 
-$-V_A + I_1R_1+I_1R_2+V_B=0$
-$-V_B-I_2R_2+I_3R_3=0$
-$-V_A+I_1R_1+I_3R_3=0$
 
 $I_1+I_2=I_3$
 $I_2+I_3=I_1$
