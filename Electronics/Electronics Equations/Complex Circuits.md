@@ -3,12 +3,6 @@
 # Process
 
 ## Kirchhoff's Law of Voltage
-1. Identify the branches and loops and assign current directions
-2. Use the voltage and current laws to write the loop and node equations
-3. solve the equations
-
->[!Warning]
->1. Need to understand Complex Circuites Kirchoff's volatage and current laws
 
 Step 1 Identify the loops and assign current directions
 ![[Selection_010.png]]
@@ -35,8 +29,6 @@ $I_2=-0.85$. The negative current indicates that current flows in the opposite d
 
 
 ## Voltage Drops
->[!Warning]
->Needs a photo from 2490
 
 Sometimes its possible to find a single voltage drop and solve for 1 loop
 
