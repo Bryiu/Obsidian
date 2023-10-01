@@ -82,4 +82,7 @@ $R_N=\frac {R_1*R_2}{R_1+R_2}$
 ![[Selection_027.png]]
 
 Once $I_N \,and\, R_N$ are determined, the equivalent Norton circuit can be drawn
+Reinstall $R_L$ from step 1.
+Since they're equal and $I_N$ is $12A$ each branch gets $6A$ total. 
 
+![[Selection_028.png]]
