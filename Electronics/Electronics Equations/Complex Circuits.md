@@ -61,3 +61,10 @@ $V_{R_2}=5.04V$
 > The correct answer was 6.9V for the voltage drop
 
 ## Nortons Theorem
+
+>[!Info]
+>A circuit is reduced to a single current source ($I_N$) in parallel with a single resistance ($R_N$)
+
+![[Selection_024.png]]
+
+The value for $R_N$ is calculated
