@@ -88,3 +88,10 @@ Since they're equal and $I_N$ is $12A$ each branch gets $6A$ total.
 ![[Selection_028.png]]
 
 Finding voltage is $V_{RL}=I_{RL}*RL$ 
+
+## Nortons Theorem Part II
+
+Short across A&B connects $R_2 \, and \, R_3$ in parallel
+![[Selection_029.png]]
+
+Find the parallel resistance of $R_2 \, and \, R_3$ with $R_e=\frac {R_2*R_3}{R_2+R_3}$
