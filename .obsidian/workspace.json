@@ -91,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md"
-              }
+              "state": {}
             }
           },
           {
@@ -102,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,9 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00e7636c38bca74b",
+  "active": "11f54b6ee53d0032",
   "lastOpenFiles": [
     "Electronics/Electronics Equations/Complex Circuits.md",
+    "Selection_023.png",
+    "Selection_022.png",
     "Pasted image 20230930210206.png",
     "Electronics/Electronics Equations/Electronics Equations.md",
     "Source/Pasted image 20230930184750.png",
@@ -204,8 +202,6 @@
     "Source/Selection_019.png",
     "Source/Selection_018.png",
     "Source/Selection_017.png",
-    "Source/Selection_016.png",
-    "Source/Selection_015.png",
     "Electronics/Electronics.md",
     "Electronics/Electronics Equations/Electronics Equations(Origin).md",
     "Electronics/Electronic Theory.md",

@@ -53,3 +53,10 @@ $V_{R_2}=5.04V$
 
 
 ![[Pasted image 20230930210206.png]]
+
+>[!Warning]
+>Question 2720 is also wrong. Its even wrong compared to the example in NIDA itself. its the same equation.
+
+![[Selection_022.png]]![[Selection_023.png]]
+> The correct answer was 6.9V for the voltage drop
+
