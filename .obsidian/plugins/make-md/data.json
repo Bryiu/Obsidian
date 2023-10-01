@@ -39,9 +39,9 @@
       "Quasar/Quasar Process's",
       "R Lang/Deployment",
       "Windows/Windows Terminal",
-      "Electronics/Electronics Equations",
       "/",
-      "Electronics"
+      "Electronics",
+      "Electronics/Electronics Equations"
     ]
   },
   "expandedSpaces": [
@@ -70,7 +70,7 @@
   ],
   "inlineBacklinks": false,
   "inlineContext": true,
-  "inlineBacklinksExpanded": false,
+  "inlineBacklinksExpanded": true,
   "inlineContextExpanded": true,
   "inlineContextSectionsExpanded": true,
   "dataviewInlineContext": true,
@@ -79,7 +79,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1696130719057,
+  "spacesAutoBackupLast": 1696181146301,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

@@ -60,3 +60,4 @@ $V_{R_2}=5.04V$
 ![[Selection_022.png]]![[Selection_023.png]]
 > The correct answer was 6.9V for the voltage drop
 
+## Nortons Theorem
