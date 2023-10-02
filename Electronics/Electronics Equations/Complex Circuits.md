@@ -91,7 +91,7 @@ Finding voltage is $V_{RL}=I_{RL}*RL$
 
 ## Nortons Theorem Part II
 
-## Calculating for amperage
+### Calculating for amperage
 
 Short across A&B connects $R_2 \, and \, R_3$ in parallel
 ![[Selection_029.png]]
@@ -102,7 +102,7 @@ Since $R_{eq}=4$ and in series with $R_1$ add them together for $R_T=8$ and $I_T
 Remove the short.
 
 Calculating amps across $R_2$ is $I_{R2}=\frac {R_{eq}}{R_2}*I_T$  or in this example $4A$
-$I_R3=\frac {R_{eq}}{R_3}*I_T$ or $2A$ since $2A$ is whats flowing to the A/B branch
+$I_R3=\frac {R_{eq}}{R_3}*I_T$ or $2A$ since $2A$ is whats flowing to the A/B branch aka $I_N$ 
 
 ### Calculating for norton values
 
@@ -110,3 +110,21 @@ When calculating for $R_N=\frac {R_1*R_2}{R_1+R_2} +R_3$
 
 Circuit redrawn with the norton values
 ![[Selection_031.png]]
+
+### Calculating for Load resistor
+
+![[Selection_032.png]]
+
+>[!Note]
+>This formula will only work for a parallel circuit such as this. Also instructions on how to find the values are under the equation
+
+![[Selection_033.png]]
+
+$I_{RL}=\frac {R_T}{R_L}*I_N$
+for $R_T=\frac {R_N*R_L}{R_N+R_L}$ ==ans is 3.7ohm==
+		for $I_RL = \frac {3.7}{5}*2=1.48A$
+
+
+$V_{RL}=I_{RL}*R_L$
+        ans. = 7.4
+![[Selection_034.png]]
