@@ -146,4 +146,28 @@ $V_{RL}=I_{RL}*R_L$
 # Thevenins Theorem
 
 Thevenin's theorem is used to reduce a large complex circuit to a simple circuit when repeated calculations of the load resistor are required.
+- The entire network connected to ==A== and ==B== can be replaced by a single voltage source ($V_{TH}$) and a single series resistance ($R_{TH}$) 
+- ![[Selection_035.png]]
 
+
+
+- $V_{TH}$ is the open-circuit voltage across ==A== and ==B==. 
+	- $V_{TH}$ is measured across $R_2$ and ==B==. 
+		- There is no current flow through $R_3$
+		- ![[Selection_036.png]]
+
+- $R_{TH}$ is the open-circuit resistance across terminals ==A== and ==B==, but with all voltage sources bypassed
+	- ![[Selection_037.png]]
+
+## Mentally disconnect the load resistor
+![[Selection_038.png]]
+
+
+## Find $V_{TH}$ across terminals ==A== and ==B==
+![[Selection_039.png]]
+- The voltage across terminals ==A== and ==B== is the voltage drop across $R_2$ 
+
+## Determine the voltage dropped across $R_2$
+- ![[Selection_040.png]]![[Selection_041.png]]
+	- $V_{R_2}=\frac {R_2}{R_1+R_2} * V_A$
+		- 
