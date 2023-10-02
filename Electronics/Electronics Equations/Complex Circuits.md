@@ -95,3 +95,14 @@ Short across A&B connects $R_2 \, and \, R_3$ in parallel
 ![[Selection_029.png]]
 
 Find the parallel resistance of $R_2 \, and \, R_3$ with $R_e=\frac {R_2*R_3}{R_2+R_3}$
+Since $R_{eq}=4$ and in series with $R_1$ add them together for $R_T=8$ and $I_T=6A$ 
+![[Selection_030.png]]
+Remove the short.
+
+Calculating amps across $R_2$ is $I_{R2}=\frac {R_{eq}}{R_2}*I_T$  or in this example $4A$
+$I_R3=\frac {R_{eq}}{R_3}*I_T$ or $2A$ since $2A$ is whats flowing to the A/B branch
+
+When calculating for $R_N=\frac {R_1*R_2}{R_1+R_2} +R_3$
+
+Circuit redrawn with the norton values
+![[Selection_031.png]]
