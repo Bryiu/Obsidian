@@ -91,6 +91,8 @@ Finding voltage is $V_{RL}=I_{RL}*RL$
 
 ## Nortons Theorem Part II
 
+## Calculating for amperage
+
 Short across A&B connects $R_2 \, and \, R_3$ in parallel
 ![[Selection_029.png]]
 
@@ -101,6 +103,8 @@ Remove the short.
 
 Calculating amps across $R_2$ is $I_{R2}=\frac {R_{eq}}{R_2}*I_T$  or in this example $4A$
 $I_R3=\frac {R_{eq}}{R_3}*I_T$ or $2A$ since $2A$ is whats flowing to the A/B branch
+
+### Calculating for norton values
 
 When calculating for $R_N=\frac {R_1*R_2}{R_1+R_2} +R_3$
 
