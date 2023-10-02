@@ -89,6 +89,18 @@ Since they're equal and $I_N$ is $12A$ each branch gets $6A$ total.
 
 Finding voltage is $V_{RL}=I_{RL}*RL$ 
 
+>From other formula
+$I_{RL}=\frac {R_T}{R_L}*I_N$
+for $R_T=\frac {R_N*R_L}{R_N+R_L}$ ==ans is 3.7ohm==
+		for $I_RL = \frac {3.7}{5}*2=1.48A$
+				
+>$V_{RL}=I_{RL}*R_L$
+        ans. = 7.4
+![[Selection_034.png]]
+
+
+
+
 ## Nortons Theorem Part II
 
 ### Calculating for amperage
