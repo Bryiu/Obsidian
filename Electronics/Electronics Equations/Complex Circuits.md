@@ -144,8 +144,11 @@ $V_{RL}=I_{RL}*R_L$
 ![[Selection_034.png]]
 
 # Thevenins Theorem
+## Thevenins Theorem Simple
 
+>[!Note]
 Thevenin's theorem is used to reduce a large complex circuit to a simple circuit when repeated calculations of the load resistor are required.
+
 - The entire network connected to ==A== and ==B== can be replaced by a single voltage source ($V_{TH}$) and a single series resistance ($R_{TH}$) 
 - ![[Selection_035.png]]
 
@@ -159,15 +162,71 @@ Thevenin's theorem is used to reduce a large complex circuit to a simple circuit
 - $R_{TH}$ is the open-circuit resistance across terminals ==A== and ==B==, but with all voltage sources bypassed
 	- ![[Selection_037.png]]
 
-## Mentally disconnect the load resistor
+### Mentally disconnect the load resistor
 ![[Selection_038.png]]
 
 
-## Find $V_{TH}$ across terminals ==A== and ==B==
+### Find $V_{TH}$ across terminals ==A== and ==B==
 ![[Selection_039.png]]
 - The voltage across terminals ==A== and ==B== is the voltage drop across $R_2$ 
 
-## Determine the voltage dropped across $R_2$
+- Determine the voltage dropped across $R_2$
 - ![[Selection_040.png]]![[Selection_041.png]]
 	- $V_{R_2}=\frac {R_2}{R_1+R_2} * V_A$
-		- 
+		- $48V=\frac{12ohms}{18ohms}*72V$
+
+### Determine $R_{TH}$
+- Mentally short the voltage supply
+	- ![[Selection_042.png]] ![[Selection_043.png]]
+		- $R_1$ and $R_2$ are now in parallel
+		- $R_{R_2(TH)}= \frac {R_1*R_2}{R_1+R_2}$
+			- 4 ohms
+- This is a Thevenized circuit
+	- ![[Selection_044.png]]
+		- These Thevenin equivalents apply for any value of $R_L$ because $R_L$ was disconnected at the time of calculations
+
+### Reconnect $R_L$ to terminals ==A== and ==B== 
+- ![[Selection_045.png]] ![[Selection_046.png]]
+
+### Determine voltage across the load $V_{RL}$
+- ![[Selection_047.png]] 
+	- $V_{RL}= \frac {R_L}{R_{TH}+R_L} *V_{TH}$
+		- $24V=\frac {4}{8}*48$
+
+### Finding load current
+- ![[Selection_048.png]] 
+	- $I_{RL}=\frac {V_{RL}}{R_L}$
+		- $6A=\frac {24V}{4ohm}$
+
+## Thevenins Theories - Simple, Dual, Bridge
+### Simple Circuit
+#### Remove Load Resistor
+- ![[Selection_050.png]] ![[Pasted image 20231002161827.png]] 
+
+#### Calculate Thevenin Voltage
+- ![[Selection_051.png]]
+	- After removing $R_L$ to calculate $V_{TH}$, there is no current going through $R_3$ due to an ==open circuit==. So there is no voltage going across it.
+	- $V_{R_2}=\frac {R_2}{R_1+R_2} * V_A$
+		- $24=\frac {6}{9}*36$
+
+#### Calculate Thevenin Resistance
+- Short the power supply
+- ![[Selection_052.png]] 
+	- $R_{R_2(TH)}= \frac {R_1*R_2}{R_1+R_2}+R_3$ 
+		- $6.25k=\frac {3*9}{12}+4$
+			- ans in Nida is 6k
+
+- Circuit can be redrawn with the new Thevenin values inserted and $R_L$ replaced
+	- ![[Selection_053.png]] 
+
+#### Calculate Voltage across the Load
+- ![[Pasted image 20231002164234.png]] 
+	- $V_{RL}= \frac {R_L}{R_{TH}+R_L} *V_{TH}$
+		- $12=\frac {6}{12}*24$
+
+#### Calculate Load Current
+- ![[Pasted image 20231002164234.png]] 
+	- $I_{RL}=\frac {V_{RL}}{R_L}$
+		- $0.002=\frac {12}{6000}$
+
+![[Selection_055.png]] 
