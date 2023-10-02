@@ -81,6 +81,8 @@ $R_N=\frac {R_1*R_2}{R_1+R_2}$
 
 ![[Selection_027.png]]
 
+In this circuit, because there is a short between A&B the parallel resistors are mute, therefore 3 ohms is left for the resistance
+
 Once $I_N \,and\, R_N$ are determined, the equivalent Norton circuit can be drawn
 Reinstall $R_L$ from step 1.
 Since they're equal and $I_N$ is $12A$ each branch gets $6A$ total. 
@@ -140,3 +142,8 @@ for $R_T=\frac {R_N*R_L}{R_N+R_L}$ ==ans is 3.7ohm==
 $V_{RL}=I_{RL}*R_L$
         ans. = 7.4
 ![[Selection_034.png]]
+
+# Thevenins Theorem
+
+Thevenin's theorem is used to reduce a large complex circuit to a simple circuit when repeated calculations of the load resistor are required.
+
