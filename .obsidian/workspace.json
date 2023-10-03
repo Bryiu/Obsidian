@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Equipment/Multimeter.md",
-                "mode": "source",
+                "file": "Electronics/Electronics Equations/Complex Circuits.md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "cb8fe2dab0e257e0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Equipment/Multimeter.md"
+                "file": "Electronics/Electronics Equations/Complex Circuits.md"
               }
             }
           },
@@ -115,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Equipment/Multimeter.md",
+                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Equipment/Multimeter.md",
+                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,8 +194,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb8fe2dab0e257e0",
+  "active": "112bd6ec267715ec",
   "lastOpenFiles": [
+    "Electronics/Equipment/Multimeter.md",
     "Selection_013.png",
     "Selection_012.png",
     "Selection_011.png",
@@ -216,11 +206,9 @@
     "Selection_006.png",
     "Selection_005.png",
     "Electronics/Equipment/Equipment.md",
-    "Electronics/Equipment/Multimeter.md",
     "Electronics/Electronics Equations/Complex Circuits.md",
     "Selection_004.png",
     "Selection_003.png",
-    "Selection_002.png",
     "Linux/Process's/Bash Scripting.md",
     "Linux/Bash Commands.md",
     "Linux/Linux.md",
