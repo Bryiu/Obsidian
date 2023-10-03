@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md",
+                "file": "Linux/Process's/Bash Scripting.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/Process's/Bash Scripting.md"
+              }
             }
           },
           {
@@ -102,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/Process's/Bash Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/Process's/Bash Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,9 +194,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2789616d1f92cb4",
+  "active": "112bd6ec267715ec",
   "lastOpenFiles": [
+    "Linux/Bash Commands.md",
+    "Linux/Linux.md",
     "Electronics/Electronics Equations/Complex Circuits.md",
+    "Electronics/Electronics Equations/Series Equations.md",
+    "Electronics/Electronics Equations/Electronics Equations(Origin).md",
     "Electronics/Electronics.md",
     "Index.md",
     "Context/Obsidian.mdb",
@@ -206,12 +214,10 @@
     "Source/Selection_064.png",
     "Source/Selection_063.png",
     "Source/Selection_062.png",
-    "Electronics/Electronics Equations/Electronics Equations(Origin).md",
     "Electronics/Electronics Equations/Electronics Equations.md",
     "Electronics/Electronic Theory.md",
     "Electronics/Electronics Equations/Series Parallel Equations.md",
     "Electronics/Electronics Equations/Parallel Equations.md",
-    "Electronics/Electronics Equations/Series Equations.md",
     "Untitled.md",
     "Electronics/Electronic Components.md",
     "Electronics/Electronics Equations",
@@ -227,7 +233,6 @@
     "Quasar/Quasar Process's/Quasar Process's.md",
     "Quasar/Quasar Process's/00 Quasar Process's Home.md",
     "Quasar/00 Quasar Home.md",
-    "Linux/Linux.md",
     "Linux/00 Linux Home.md",
     "Context/spacesLastSync.log",
     "Context",
