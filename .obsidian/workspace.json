@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Process's/Bash Scripting.md",
+                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Process's/Bash Scripting.md"
+                "file": "Electronics/Electronics Equations/Complex Circuits.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Process's/Bash Scripting.md",
+                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Process's/Bash Scripting.md",
+                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,8 +135,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -196,6 +195,11 @@
   },
   "active": "112bd6ec267715ec",
   "lastOpenFiles": [
+    "Selection_004.png",
+    "Selection_003.png",
+    "Selection_002.png",
+    "Selection_001.png",
+    "Linux/Process's/Bash Scripting.md",
     "Linux/Bash Commands.md",
     "Linux/Linux.md",
     "Electronics/Electronics Equations/Complex Circuits.md",
@@ -211,9 +215,6 @@
     "Source/Pasted image 20231002164234.png",
     "Source/Selection_066.png",
     "Source/Selection_065.png",
-    "Source/Selection_064.png",
-    "Source/Selection_063.png",
-    "Source/Selection_062.png",
     "Electronics/Electronics Equations/Electronics Equations.md",
     "Electronics/Electronic Theory.md",
     "Electronics/Electronics Equations/Series Parallel Equations.md",
@@ -232,8 +233,6 @@
     "Quasar/Quasar.md",
     "Quasar/Quasar Process's/Quasar Process's.md",
     "Quasar/Quasar Process's/00 Quasar Process's Home.md",
-    "Quasar/00 Quasar Home.md",
-    "Linux/00 Linux Home.md",
     "Context/spacesLastSync.log",
     "Context",
     "Quasar/Quasar Process's",

@@ -306,6 +306,26 @@ Calculate Load Current
 #### Determine $R_{TH}$
 - Short out source and redraw the circuit
 	- ![[Selection_069.png]] 
-2450
+		- How to redraw
+			- ![[Selection_001.png]] 
+			- ![[Selection_002.png]] 
+		- Find parallel resistance
+			- $R_{R_A}=\frac {R_3*R_4}{R_3+R_4}$
+				- $2k=\frac {3k*6k}{9k}$
+			- $R_{R_B}=\frac {R_1*R_2}{R_1+R_2}$
+				- $2.4k=\frac {6k*4k}{10k}$
+			- Now the circuit looks like this
+				- ![[Selection_003.png]] 
+			- Add ==A== and ==B== together
+				- 4.4k ohm
+			- Redrawn to:
+				- ![[Selection_004.png]] 
+					- From the *original* drawing the RL was 2k
 
-# twe
+#### Determine $V_{RL}$ and $I_{RL}$
+- ![[Selection_004.png]] 
+	- $V_{RL}= \frac {R_L}{R_{TH}+R_L} *V_{TH}$
+		- $=2.5V$
+	- $I_{RL}=\frac {V_{RL}}{R_L}$
+		- $=1.25mA$
+
