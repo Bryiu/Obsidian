@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -104,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,11 +190,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "112bd6ec267715ec",
+  "active": "f2789616d1f92cb4",
   "lastOpenFiles": [
-    "Electronics/Electronics.md",
-    "Context/Obsidian.mdb",
     "Electronics/Electronics Equations/Complex Circuits.md",
+    "Electronics/Electronics.md",
+    "Index.md",
+    "Context/Obsidian.mdb",
     "Selection_069.png",
     "Selection_068.png",
     "Selection_067.png",
@@ -218,7 +215,6 @@
     "Untitled.md",
     "Electronics/Electronic Components.md",
     "Electronics/Electronics Equations",
-    "Index.md",
     "Windows/Windows.md",
     "Windows/Windows Terminal/Windows Terminal.md",
     "Windows/Windows Terminal/00 Windows Terminal Home.md",

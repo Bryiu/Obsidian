@@ -1,5 +1,5 @@
 ---
-Electronics: ""
+Electronics:
 ---
 # Root Files
 

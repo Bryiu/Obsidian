@@ -307,3 +307,5 @@ Calculate Load Current
 - Short out source and redraw the circuit
 	- ![[Selection_069.png]] 
 2450
+
+# twe
