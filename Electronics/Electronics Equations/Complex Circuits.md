@@ -299,4 +299,10 @@ Calculate Load Current
 
 - ![[Selection_067.png]] 
 	- $B(R_2)-A(R_4)=V_{TH}$ *Potential difference*
-	- $-20V-(-12V)=-8V$
+	- $-20V-(-12V)=-8V_{TH}$
+		- ![[Selection_068.png]] 
+		- For the purpose of Thevenin's Theorem, use an absolute value instead of *Potential Difference*
+
+#### Determine $R_{TH}$
+- Short out source and redraw the circuit
+	- ![[Selection_069.png]] 
