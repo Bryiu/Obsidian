@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3e79ba575efc4baa",
+        "id": "47358cd07642538b",
         "type": "tabs",
         "children": [
           {
-            "id": "11f54b6ee53d0032",
+            "id": "112bd6ec267715ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md"
+                "file": "Index.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,22 +180,25 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "graph:Open graph view": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "11f54b6ee53d0032",
+  "active": "112bd6ec267715ec",
   "lastOpenFiles": [
+    "Electronics/Electronics.md",
+    "Context/Obsidian.mdb",
+    "Electronics/Electronics Equations/Complex Circuits.md",
     "Selection_069.png",
     "Selection_068.png",
     "Selection_067.png",
@@ -206,11 +209,8 @@
     "Source/Selection_064.png",
     "Source/Selection_063.png",
     "Source/Selection_062.png",
-    "Source/Selection_061 1.png",
     "Electronics/Electronics Equations/Electronics Equations(Origin).md",
-    "Electronics/Electronics Equations/Complex Circuits.md",
     "Electronics/Electronics Equations/Electronics Equations.md",
-    "Electronics/Electronics.md",
     "Electronics/Electronic Theory.md",
     "Electronics/Electronics Equations/Series Parallel Equations.md",
     "Electronics/Electronics Equations/Parallel Equations.md",
