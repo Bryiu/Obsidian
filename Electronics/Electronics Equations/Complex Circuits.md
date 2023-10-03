@@ -286,6 +286,13 @@ Calculate Load Current
 - $V_{R_4}=\frac {R_4}{R_3+R_4}*V_A$
 	- $20V=\frac {6k}{9k}*30V$
 - $V_{R_3}=V_A-V_{R_4}$
-	- $10=30V-20V$
+	- $10V=30V-20V$
 
 ##### Solve for $R_1$ and $R_2$
+- $V_{R_2}=\frac {R_2}{R_1+R_2}*V_A$
+	- $\frac{4k}{10k}*30V=12V$
+- $V_{R_1}=V_A-V_{R_2}$
+	- $30V-12V=18V$
+
+#### Determine Potential Differences
+- 
