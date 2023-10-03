@@ -306,3 +306,4 @@ Calculate Load Current
 #### Determine $R_{TH}$
 - Short out source and redraw the circuit
 	- ![[Selection_069.png]] 
+2450
