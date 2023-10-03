@@ -230,3 +230,62 @@ Thevenin's theorem is used to reduce a large complex circuit to a simple circuit
 		- $0.002=\frac {12}{6000}$
 
 ![[Selection_055.png]] 
+
+### Dual Circuit
+
+- ![[Selection_056.png]] 
+
+#### Remove Load resistor
+- ![[Selection_057.png]] 
+#### Short one power supply at a time
+##### Short $V_2$ 
+- ![[Selection_058.png]] 
+	- $V_{R_2}=\frac {R_2}{R_1+R_2} * V_A$
+		- $-16.8=\frac {3k}{15k}*84$
+			- Notice its location and the negative reading
+
+##### Short $V_1$
+- ![[Selection_059.png]] 
+	- $V_{R1}= \frac {R_1}{R_1+R_2}*V_A$
+		- $-16.8=\frac {12k}{15k}*21$
+			- Notice its location and the negative reading
+
+- Since they both have the same polarity, they are added. Therefore $V_{TH}=-33.6V$
+
+#### Find $R_{TH}$ 
+- Short both voltage sources
+- ![[Selection_060.png]] 
+	- Both are in parallel across terminal ==A== and ==B== 
+	- $R_{TH}= \frac {R_1*R_2}{R_1+R_2}$ 
+		- $2.4k=\frac {12k*3k}{12k+3k}$
+
+- Circuit is redrawn with the Thevenin values
+	- ![[Selection_061.png]] 
+
+#### Calculate load voltage
+- ![[Selection_061 1.png]] 
+	- $V_{RL}= \frac {R_L}{R_{TH}+R_L} *V_{TH}$
+		- $-24=\frac {6k}{8.4k}*-33.6V_{TH}$
+
+Calculate Load Current
+- ![[Selection_062.png]] 
+	- $I_{RL}=\frac {V_{RL}}{R_L}$
+		- $-0.004=\frac {-24}{6000}$
+
+![[Selection_063.png]] 
+
+### Bridge Circuit
+- ![[Selection_064.png]] 
+- Remove $R_L$ 
+	- ![[Selection_065.png]] aka ![[Selection_066.png]]
+
+- $R_1\,and\,R_2$; $R_3\,and\,R_4$ have been made into two voltage dividers
+
+#### Determine the Voltage Drop
+##### Solve for $R_3$ and $R_4$
+- $V_{R_4}=\frac {R_4}{R_3+R_4}*V_A$
+	- $20V=\frac {6k}{9k}*30V$
+- $V_{R_3}=V_A-V_{R_4}$
+	- $10=30V-20V$
+
+##### Solve for $R_1$ and $R_2$
