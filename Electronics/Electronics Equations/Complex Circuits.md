@@ -294,5 +294,9 @@ Calculate Load Current
 - $V_{R_1}=V_A-V_{R_2}$
 	- $30V-12V=18V$
 
-#### Determine Potential Differences
-- 
+#### Determine Potential Differences $V_{TH}$
+- The potential from terminals ==A== and ==B== to *Chassis ground* need to be determined
+
+- ![[Selection_067.png]] 
+	- $B(R_2)-A(R_4)=V_{TH}$ *Potential difference*
+	- $-20V-(-12V)=-8V$
