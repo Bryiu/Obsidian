@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md",
+                "file": "Electronics/Equipment/Multimeter.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md"
+                "file": "Electronics/Equipment/Multimeter.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md",
+                "file": "Electronics/Equipment/Multimeter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md",
+                "file": "Electronics/Equipment/Multimeter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,26 +195,28 @@
   },
   "active": "112bd6ec267715ec",
   "lastOpenFiles": [
+    "Selection_013.png",
+    "Selection_012.png",
+    "Selection_011.png",
+    "Selection_010.png",
+    "Selection_009.png",
+    "Selection_008.png",
+    "Selection_006.png",
+    "Selection_005.png",
+    "Electronics/Equipment/Equipment.md",
+    "Electronics/Equipment/Multimeter.md",
+    "Electronics/Electronics Equations/Complex Circuits.md",
     "Selection_004.png",
     "Selection_003.png",
     "Selection_002.png",
-    "Selection_001.png",
     "Linux/Process's/Bash Scripting.md",
     "Linux/Bash Commands.md",
     "Linux/Linux.md",
-    "Electronics/Electronics Equations/Complex Circuits.md",
     "Electronics/Electronics Equations/Series Equations.md",
     "Electronics/Electronics Equations/Electronics Equations(Origin).md",
     "Electronics/Electronics.md",
     "Index.md",
     "Context/Obsidian.mdb",
-    "Selection_069.png",
-    "Selection_068.png",
-    "Selection_067.png",
-    "Source/Pasted image 20231002164240.png",
-    "Source/Pasted image 20231002164234.png",
-    "Source/Selection_066.png",
-    "Source/Selection_065.png",
     "Electronics/Electronics Equations/Electronics Equations.md",
     "Electronics/Electronic Theory.md",
     "Electronics/Electronics Equations/Series Parallel Equations.md",
@@ -231,8 +233,6 @@
     "R Lang/Deployment/00 R Deployment Home.md",
     "R Lang/R Lang.md",
     "Quasar/Quasar.md",
-    "Quasar/Quasar Process's/Quasar Process's.md",
-    "Quasar/Quasar Process's/00 Quasar Process's Home.md",
     "Context/spacesLastSync.log",
     "Context",
     "Quasar/Quasar Process's",
