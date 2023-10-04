@@ -44,22 +44,6 @@ Substitute known values
 $-6V-0.96V-V_{R_2}+12V=0$
 $V_{R_2}=5.04V$
 
-
->[!Warning]
->This practice question 2710 in Kirchhoff's Voltage and Current Laws is incorrect. 
->1. Its not possible to have a higher voltage output than the voltage provided. The voltage drops are higher than the applied voltage
->2. If you mathematically reduce the formula's provided in the question mark in the toolbar, the equations are not equal.
->	1. Loop#2 $I_3=2-2I_2$ does not equal Loop #3 $I_3=4+2I_2$
-
-
-![[Pasted image 20230930210206.png]]
-
->[!Warning]
->Question 2720 is also wrong. Its even wrong compared to the example in NIDA itself. its the same equation.
-
-![[Selection_022.png]]![[Selection_023.png]]
-> The correct answer was 6.9V for the voltage drop
-
 ## Nortons Theorem
 
 >[!Info]
@@ -171,7 +155,7 @@ Thevenin's theorem is used to reduce a large complex circuit to a simple circuit
 - The voltage across terminals ==A== and ==B== is the voltage drop across $R_2$ 
 
 - Determine the voltage dropped across $R_2$
-- ![[Selection_040.png]]![[Selection_041.png]]
+- ![[Selection_040.png]]  ![[Selection_041.png]]
 	- $V_{R_2}=\frac {R_2}{R_1+R_2} * V_A$
 		- $48V=\frac{12ohms}{18ohms}*72V$
 

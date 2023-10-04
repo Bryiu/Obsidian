@@ -89,16 +89,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfde1e9bd8aa9c18",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md"
-              }
-            }
-          },
-          {
             "id": "e5771709dbc81e89",
             "type": "leaf",
             "state": {
@@ -133,6 +123,16 @@
             "state": {
               "type": "make-context-view",
               "state": {}
+            }
+          },
+          {
+            "id": "dfde1e9bd8aa9c18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Electronics/Electronics Equations/Complex Circuits.md"
+              }
             }
           }
         ],
@@ -196,6 +196,8 @@
   },
   "active": "112bd6ec267715ec",
   "lastOpenFiles": [
+    "Electronics/Electronics Equations/Series Parallel Equations.md",
+    "Electronics/Electronics Equations/Complex Circuits.md",
     "Electronics/Electronics Equations/Parallel Equations.md",
     "Electronics/Electronics Equations/Series Equations.md",
     "Electronics/Equipment/Multimeter.md",
@@ -210,7 +212,6 @@
     "Source/Selection_004A.png",
     "Source/Selection_003A.png",
     "Electronics/Equipment/Equipment.md",
-    "Electronics/Electronics Equations/Complex Circuits.md",
     "Linux/Process's/Bash Scripting.md",
     "Linux/Bash Commands.md",
     "Linux/Linux.md",
@@ -220,7 +221,6 @@
     "Context/Obsidian.mdb",
     "Electronics/Electronics Equations/Electronics Equations.md",
     "Electronics/Electronic Theory.md",
-    "Electronics/Electronics Equations/Series Parallel Equations.md",
     "Untitled.md",
     "Electronics/Electronic Components.md",
     "Electronics/Electronics Equations",
