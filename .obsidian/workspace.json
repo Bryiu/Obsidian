@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md",
-                "mode": "preview",
+                "file": "Electronics/Electronics Equations/Parallel Equations.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md"
+                "file": "Electronics/Electronics Equations/Parallel Equations.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md",
+                "file": "Electronics/Electronics Equations/Parallel Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md",
+                "file": "Electronics/Electronics Equations/Parallel Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,23 +196,23 @@
   },
   "active": "112bd6ec267715ec",
   "lastOpenFiles": [
+    "Electronics/Electronics Equations/Series Equations.md",
     "Electronics/Equipment/Multimeter.md",
-    "Selection_013.png",
-    "Selection_012.png",
-    "Selection_011.png",
-    "Selection_010.png",
-    "Selection_009.png",
-    "Selection_008.png",
-    "Selection_006.png",
-    "Selection_005.png",
+    "Source/Selection_013A.png",
+    "Source/Selection_012A.png",
+    "Source/Selection_011A.png",
+    "Source/Selection_010A.png",
+    "Source/Selection_009A.png",
+    "Source/Selection_008A.png",
+    "Source/Selection_006A.png",
+    "Source/Selection_005A.png",
+    "Source/Selection_004A.png",
+    "Source/Selection_003A.png",
     "Electronics/Equipment/Equipment.md",
     "Electronics/Electronics Equations/Complex Circuits.md",
-    "Selection_004.png",
-    "Selection_003.png",
     "Linux/Process's/Bash Scripting.md",
     "Linux/Bash Commands.md",
     "Linux/Linux.md",
-    "Electronics/Electronics Equations/Series Equations.md",
     "Electronics/Electronics Equations/Electronics Equations(Origin).md",
     "Electronics/Electronics.md",
     "Index.md",
