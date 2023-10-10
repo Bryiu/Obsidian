@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "47358cd07642538b",
+        "id": "8080fbf83f2a5fff",
         "type": "tabs",
         "children": [
           {
-            "id": "112bd6ec267715ec",
+            "id": "cd59785ae2d107e5",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "Electronics/Process's"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -146,17 +144,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "f2789616d1f92cb4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "84720ef2ae0498ba",
@@ -188,7 +177,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2789616d1f92cb4",
+  "active": "cd59785ae2d107e5",
   "lastOpenFiles": [
     "Electronics/Process's/Process's.md",
     "Electronics/Electronics Equations/Complex Circuits.md",
