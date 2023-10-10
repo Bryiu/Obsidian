@@ -1,65 +1,30 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Electronics  ",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 16514816
-      }
-    },
-    {
-      "query": "path:Linux  ",
-      "color": {
-        "a": 1,
-        "rgb": 464882
-      }
-    },
-    {
-      "query": "path:Quasar  ",
-      "color": {
-        "a": 1,
-        "rgb": 15075850
-      }
-    },
-    {
-      "query": "path:\"R Lang\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431406
-      }
-    },
-    {
-      "query": "path:Windows ",
-      "color": {
-        "a": 1,
-        "rgb": 16384242
-      }
-    },
-    {
-      "query": "file:README",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
+        "rgb": 14701138
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.993229166666667,
-  "lineSizeMultiplier": 1.01875,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.463541666666667,
-  "repelStrength": 20,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 121,
-  "scale": 0.059326171875,
+  "linkDistance": 250,
+  "scale": 0.01171875,
   "close": true
 }

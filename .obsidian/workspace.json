@@ -62,7 +62,7 @@
             }
           },
           {
-            "id": "ddfa5a34119cbd44",
+            "id": "02b642a22dc057f9",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "1ac24f9adfb80870",
@@ -148,11 +148,11 @@
         ]
       },
       {
-        "id": "84720ef2ae0498ba",
+        "id": "5cc9bc2e765302ee",
         "type": "tabs",
         "children": [
           {
-            "id": "14bedec87a75e5cf",
+            "id": "92b2e3d915daf29a",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -173,8 +173,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "cd59785ae2d107e5",

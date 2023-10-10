@@ -1,9 +1,10 @@
 [
-  "obsidian-icons-plugin",
-  "calendar",
-  "obsidian-excalidraw-plugin",
+  "obsidian-git",
   "obsidian-charts",
-  "table-editor-obsidian",
+  "obsidian-mind-map",
   "make-md",
-  "obsidian-mind-map"
+  "obsidian-icons-plugin",
+  "obsidian-excalidraw-plugin",
+  "calendar",
+  "table-editor-obsidian"
 ]
