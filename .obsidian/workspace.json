@@ -11,11 +11,9 @@
             "id": "112bd6ec267715ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md",
-                "mode": "source",
-                "source": false
+                "contextPath": "Electronics/Process's"
               }
             }
           }
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,13 +126,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Electronics/Electronics Equations/Complex Circuits.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1ac24f9adfb80870",
@@ -194,10 +188,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "112bd6ec267715ec",
+  "active": "f2789616d1f92cb4",
   "lastOpenFiles": [
-    "Electronics/Electronics Equations/Series Parallel Equations.md",
+    "Electronics/Process's/Process's.md",
     "Electronics/Electronics Equations/Complex Circuits.md",
+    "Electronics/Electronics Equations/Series Parallel Equations.md",
     "Electronics/Electronics Equations/Parallel Equations.md",
     "Electronics/Electronics Equations/Series Equations.md",
     "Electronics/Equipment/Multimeter.md",

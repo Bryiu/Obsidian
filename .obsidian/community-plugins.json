@@ -1,10 +1,10 @@
 [
   "obsidian-icons-plugin",
-  "obsidian-mind-map",
   "calendar",
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "obsidian-charts",
   "table-editor-obsidian",
-  "make-md"
+  "make-md",
+  "obsidian-mind-map"
 ]
