@@ -7,3 +7,9 @@
 	- *==Period*== is determined by the time taken to complete once cycle of the sine wave
 	- ==*Frequency*== is calculated by the cycles per second
 - $f = \frac {1}{0.0018}=555 Hz$
+
+# Wavelength
+- This is the distance between the beginning and end of one cycle
+	- represented by $\lambda = distance$ 
+	- expressed in meters or centimeters
+- $\lambda = \frac {300*10^6}{f}$ 
