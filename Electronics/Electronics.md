@@ -3,8 +3,6 @@ Electronics:
 ---
 # Root Files
 
-[[Electronic Components]]
-[[Electronic Theory]]
 
 ---
 
@@ -12,5 +10,5 @@ Electronics:
 
 [[Equipment]]
 [[Process's]]
-[[Electronics Equations]]
-
+[[AC]]
+[[DC]]
