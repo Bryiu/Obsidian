@@ -40,10 +40,10 @@
       "R Lang/Deployment",
       "Windows/Windows Terminal",
       "Linux/Process's",
-      "Electronics/Equipment",
+      "Electronics/Electronics Equations/AC",
       "/",
       "Electronics",
-      "Electronics/Electronics Equations"
+      "Electronics/AC"
     ]
   },
   "expandedSpaces": [
@@ -81,7 +81,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697068595076,
+  "spacesAutoBackupLast": 1697070133300,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
