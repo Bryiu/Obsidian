@@ -43,7 +43,8 @@
       "Electronics/Electronics Equations/AC",
       "/",
       "Electronics",
-      "Electronics/AC"
+      "Electronics/AC",
+      "Electronics/AC/Calculations"
     ]
   },
   "expandedSpaces": [
@@ -81,7 +82,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697070133300,
+  "spacesAutoBackupLast": 1697072633207,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",

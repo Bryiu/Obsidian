@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/AC/Untitled.md",
+                "file": "Electronics/AC/Calculations/General.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Untitled.md",
+                "file": "Electronics/AC/Calculations/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Untitled.md",
+                "file": "Electronics/AC/Calculations/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Untitled.md"
+                "file": "Electronics/AC/Calculations/General.md"
               }
             }
           }
@@ -196,13 +196,15 @@
   },
   "active": "75d30088d4f3e6b9",
   "lastOpenFiles": [
+    "Electronics/AC/Untitled.md",
+    "Electronics/AC/Calculations/General.md",
+    "Electronics/AC/Calculations",
     "Electronics/DC/Complex Circuits.md",
     "Electronics/DC/Untitled.md",
     "Electronics/DC/Equations",
     "Electronics/DC/DC.md",
     "Excalidraw/Drawing 2023-10-11 19.20.51.excalidraw.md",
     "Excalidraw",
-    "Electronics/AC/Untitled.md",
     "Electronics/AC/AC.md",
     "Electronics/DC",
     "Electronics/AC",
@@ -239,7 +241,6 @@
     "Windows/Windows Terminal/00 Windows Terminal Home.md",
     "Context/spacesLastSync.log",
     "Context",
-    "Quasar/Quasar Process's",
-    "Source"
+    "Quasar/Quasar Process's"
   ]
 }
