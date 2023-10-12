@@ -14,3 +14,25 @@
 	- a conductor
 	- a magnetic field
 	- relative motion
+- Non standard sine waves are waves that dont begin at $0\degree$ 
+
+# Describing AC Voltage
+- ![[Selection_017.png]]
+## RMS and Average
+- These values state the usable amount of voltage being produced
+
+### Average
+
+-  Calculated by using the sum of all angles contained in $180\degree$ 
+	- The constant $0.637$ is used
+
+## Phase Angle
+- The amount by which waveforms lead or lag one another is called phase angle
+	- ![[Selection_022.png]]
+
+## Vector
+- represents the magnitude and angle of a current
+	- ![[Selection_023.png]]
+- The phase angle of two waveforms are expressed using two vectors called Phasors
+	- ![[Selection_024.png]]
+- 
