@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md",
+                "file": "Electronics/AC/Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md",
+                "file": "Electronics/AC/Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md"
+                "file": "Electronics/AC/Theory.md"
               }
             }
           }
@@ -224,10 +223,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5bee3a6e841bc48a",
+  "active": "183c52c07b68ba7f",
   "lastOpenFiles": [
-    "Electronics/DC/Equations/Complex Circuits.md",
+    "Selection_016.png",
+    "Electronics/AC/Calculations/General.md",
     "Electronics/AC/Theory.md",
+    "Electronics/DC/Equations/Complex Circuits.md",
     "Electronics/Equipment/Oscilliscope (Rigol DS1104Z).md",
     "Electronics/Equipment/Multimeter.md",
     "Electronics/AC/Calculations/Calculations.md",
@@ -235,7 +236,6 @@
     "Electronics/DC/Equations/Equations.md",
     "Electronics/DC/Equations",
     "Excalidraw/Drawing 2023-10-11 19.20.51.excalidraw.md",
-    "Electronics/AC/Calculations/General.md",
     "Electronics/AC/Calculations",
     "Electronics/DC/Untitled.md",
     "Excalidraw",
@@ -267,7 +267,6 @@
     "Electronics/Electronics Equations/Electronics Equations.md",
     "Electronics/DC/Electronic Theory.md",
     "Untitled.md",
-    "Electronics/DC/Electronic Components.md",
     "Electronics/Electronics Equations",
     "Context/spacesLastSync.log",
     "Context",

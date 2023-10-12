@@ -13,3 +13,5 @@
 	- represented by $\lambda = distance$ 
 	- expressed in meters or centimeters
 - $\lambda = \frac {300*10^6}{f}$ 
+
+# Induction
