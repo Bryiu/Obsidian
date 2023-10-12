@@ -13,7 +13,7 @@
             "state": {
               "type": "make-folder-view",
               "state": {
-                "contextPath": "Electronics/AC/Calculations"
+                "contextPath": "Electronics/Equipment"
               }
             }
           }
@@ -122,14 +122,6 @@
             }
           },
           {
-            "id": "dfde1e9bd8aa9c18",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
             "id": "ba1196744f1d9591",
             "type": "leaf",
             "state": {
@@ -143,23 +135,7 @@
         "currentTab": 2
       },
       {
-        "id": "1a6ac14e9baad208",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "75d30088d4f3e6b9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
-        "id": "1ac24f9adfb80870",
+        "id": "95ead45c14e427c6",
         "type": "tabs",
         "children": [
           {
@@ -171,6 +147,31 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "dfde1e9bd8aa9c18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1a6ac14e9baad208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75d30088d4f3e6b9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -206,6 +207,8 @@
   },
   "active": "183c52c07b68ba7f",
   "lastOpenFiles": [
+    "Electronics/Equipment/Multimeter.md",
+    "Electronics/Equipment/Oscilliscope (Rigol DS1104Z).md",
     "Electronics/AC/Calculations/Calculations.md",
     "Electronics/DC/DC.md",
     "Electronics/DC/Equations/Equations.md",
@@ -224,7 +227,6 @@
     "Electronics/DC/Equations/Series Parallel Equations.md",
     "Electronics/DC/Equations/Parallel Equations.md",
     "Electronics/DC/Equations/Series Equations.md",
-    "Electronics/Equipment/Multimeter.md",
     "Source/Selection_013A.png",
     "Source/Selection_012A.png",
     "Source/Selection_011A.png",
@@ -248,7 +250,6 @@
     "Untitled.md",
     "Electronics/DC/Electronic Components.md",
     "Electronics/Electronics Equations",
-    "Windows/Windows.md",
     "Context/spacesLastSync.log",
     "Context",
     "Quasar/Quasar Process's"
