@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8080fbf83f2a5fff",
+        "id": "9ba54824643c2031",
         "type": "tabs",
         "children": [
           {
-            "id": "cd59785ae2d107e5",
+            "id": "96677fddf0590cbb",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -62,7 +62,7 @@
             }
           },
           {
-            "id": "02b642a22dc057f9",
+            "id": "ddfa5a34119cbd44",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -144,15 +144,24 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "112bd6ec267715ec",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "5cc9bc2e765302ee",
+        "id": "84720ef2ae0498ba",
         "type": "tabs",
         "children": [
           {
-            "id": "92b2e3d915daf29a",
+            "id": "14bedec87a75e5cf",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -167,19 +176,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "graph:Open graph view": false
     }
   },
-  "active": "cd59785ae2d107e5",
+  "active": "112bd6ec267715ec",
   "lastOpenFiles": [
-    "Electronics/Process's/Process's.md",
+    "Electronics/Electronics Equations/AC.md",
     "Electronics/Electronics Equations/Complex Circuits.md",
     "Electronics/Electronics Equations/Series Parallel Equations.md",
     "Electronics/Electronics Equations/Parallel Equations.md",
