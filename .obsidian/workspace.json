@@ -4,41 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c1e426664518cb41",
-        "type": "split",
+        "id": "acb63227a1942ca1",
+        "type": "tabs",
         "children": [
           {
-            "id": "0749d105d43b00c2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "75d30088d4f3e6b9",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
-                }
-              }
-            ]
-          },
-          {
-            "id": "aa08cf539a3a326e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "93248e00be00401a",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
+            "id": "655c6bd856de55a8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,6 +131,22 @@
         "currentTab": 2
       },
       {
+        "id": "1a6ac14e9baad208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75d30088d4f3e6b9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
         "id": "1ac24f9adfb80870",
         "type": "tabs",
         "children": [
@@ -200,8 +193,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "9e3b282dadb2e444",
+  "active": "655c6bd856de55a8",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-10-11 19.20.51.excalidraw.md",
     "Electronics/AC/Calculations/General.md",
     "Electronics/AC/Untitled.md",
     "Electronics/AC/Calculations",
@@ -209,7 +203,6 @@
     "Electronics/DC/Untitled.md",
     "Electronics/DC/Equations",
     "Electronics/DC/DC.md",
-    "Excalidraw/Drawing 2023-10-11 19.20.51.excalidraw.md",
     "Excalidraw",
     "Electronics/AC/AC.md",
     "Electronics/DC",
