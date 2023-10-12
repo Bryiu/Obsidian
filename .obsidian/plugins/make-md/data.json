@@ -41,11 +41,13 @@
       "Windows/Windows Terminal",
       "Linux/Process's",
       "Electronics/Electronics Equations/AC",
-      "Electronics/AC/Calculations",
-      "Electronics/AC",
+      "Electronics/Equipment",
+      "Electronics/DC",
+      "Electronics/DC/Equations",
       "/",
       "Electronics",
-      "Electronics/Equipment"
+      "Electronics/AC",
+      "Electronics/AC/Calculations"
     ]
   },
   "expandedSpaces": [
@@ -83,7 +85,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697126119430,
+  "spacesAutoBackupLast": 1697130569918,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
