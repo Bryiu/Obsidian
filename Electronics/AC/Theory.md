@@ -44,4 +44,5 @@
 	- ![[Selection_025.png]]
 		- $2^{nd}$ harmonic frequency=$fundamental frequency *2$
 		- $3^{rd} = fundamental frequency*3$
-- When combined with the fundamental frequency non-sinusoidal waveforms are produced
+- When combined with the fundamental frequency non-sinusoidal wave forms are produced
+	- The square wave is developed using only odd harmonics
