@@ -35,4 +35,13 @@
 	- ![[Selection_023.png]]
 - The phase angle of two waveforms are expressed using two vectors called Phasors
 	- ![[Selection_024.png]]
-- 
+
+# Non Sinusoidal waves
+- Wave forms that are not plotted in a 360$\degree$ radius
+
+## Harmonic frequencies 
+- Harmonic frequencies are determined by multiplying the fundamental frequency times the harmonic number
+	- ![[Selection_025.png]]
+		- $2^{nd}$ harmonic frequency=$fundamental frequency *2$
+		- $3^{rd} = fundamental frequency*3$
+- When combined with the fundamental frequency non-sinusoidal waveforms are produced
