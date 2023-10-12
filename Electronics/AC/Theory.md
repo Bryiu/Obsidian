@@ -46,3 +46,8 @@
 		- $3^{rd} = fundamental frequency*3$
 - When combined with the fundamental frequency non-sinusoidal wave forms are produced
 	- The square wave is developed using only odd harmonics
+	- Adding 3rd harmonic
+		- ![[Selection_026.png]]
+	- Adding 5th harmonic
+		- ![[Selection_027.png]]
+		- 
