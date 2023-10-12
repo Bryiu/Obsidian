@@ -4,22 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "482e0f7c207a5473",
-        "type": "tabs",
+        "id": "c1e426664518cb41",
+        "type": "split",
         "children": [
           {
-            "id": "75d30088d4f3e6b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronics/AC/Calculations/General.md",
-                "mode": "source",
-                "source": false
+            "id": "0749d105d43b00c2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "75d30088d4f3e6b9",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "aa08cf539a3a326e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "93248e00be00401a",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -48,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Voltage_Drop",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Electronics/AC/Calculations/General.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -152,17 +167,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "112bd6ec267715ec",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "84720ef2ae0498ba",
@@ -194,10 +200,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "75d30088d4f3e6b9",
+  "active": "9e3b282dadb2e444",
   "lastOpenFiles": [
-    "Electronics/AC/Untitled.md",
     "Electronics/AC/Calculations/General.md",
+    "Electronics/AC/Untitled.md",
     "Electronics/AC/Calculations",
     "Electronics/DC/Complex Circuits.md",
     "Electronics/DC/Untitled.md",
