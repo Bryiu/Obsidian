@@ -43,9 +43,9 @@
       "Electronics/Electronics Equations/AC",
       "Electronics/AC/Calculations",
       "Electronics/AC",
-      "Electronics/Equipment",
       "/",
-      "Electronics"
+      "Electronics",
+      "Electronics/Equipment"
     ]
   },
   "expandedSpaces": [
