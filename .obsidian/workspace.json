@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "acb63227a1942ca1",
+        "id": "d61e6e9e8cca810c",
         "type": "tabs",
         "children": [
           {
-            "id": "655c6bd856de55a8",
+            "id": "183c52c07b68ba7f",
             "type": "leaf",
             "state": {
               "type": "make-folder-view",
@@ -92,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics/DC/DC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics/DC/DC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics/DC/DC.md"
+              }
             }
           }
         ],
@@ -195,24 +199,25 @@
       "graph:Open graph view": false
     }
   },
-  "active": "75d30088d4f3e6b9",
+  "active": "183c52c07b68ba7f",
   "lastOpenFiles": [
     "Electronics/DC/DC.md",
+    "Electronics/DC/Equations/Equations.md",
+    "Electronics/DC/Equations/Complex Circuits.md",
+    "Electronics/DC/Equations",
     "Excalidraw/Drawing 2023-10-11 19.20.51.excalidraw.md",
     "Electronics/AC/Calculations/General.md",
     "Electronics/AC/Untitled.md",
     "Electronics/AC/Calculations",
-    "Electronics/DC/Complex Circuits.md",
     "Electronics/DC/Untitled.md",
-    "Electronics/DC/Equations",
     "Excalidraw",
     "Electronics/AC/AC.md",
     "Electronics/DC",
     "Electronics/AC",
     "Electronics/Electronics Equations/AC.md",
-    "Electronics/DC/Series Parallel Equations.md",
-    "Electronics/DC/Parallel Equations.md",
-    "Electronics/DC/Series Equations.md",
+    "Electronics/DC/Equations/Series Parallel Equations.md",
+    "Electronics/DC/Equations/Parallel Equations.md",
+    "Electronics/DC/Equations/Series Equations.md",
     "Electronics/Equipment/Multimeter.md",
     "Source/Selection_013A.png",
     "Source/Selection_012A.png",
@@ -228,7 +233,7 @@
     "Linux/Process's/Bash Scripting.md",
     "Linux/Bash Commands.md",
     "Linux/Linux.md",
-    "Electronics/DC/Electronics Equations(Origin).md",
+    "Electronics/DC/Equations/Electronics Equations(Origin).md",
     "Electronics/Electronics.md",
     "Index.md",
     "Context/Obsidian.mdb",
@@ -239,7 +244,6 @@
     "Electronics/Electronics Equations",
     "Windows/Windows.md",
     "Windows/Windows Terminal/Windows Terminal.md",
-    "Windows/Windows Terminal/00 Windows Terminal Home.md",
     "Context/spacesLastSync.log",
     "Context",
     "Quasar/Quasar Process's"
