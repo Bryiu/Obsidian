@@ -2,11 +2,14 @@
 
 # Frequency
 - When finding the frequency on the oscilliscope, multiply the SEC/DIV setting by the number of divisions
-	- ex in WISC $.2ms*9(divisions)=0.0018$
-- $T(period)=\frac {1}{f (frequency)}$
+
+
 	- *==Period*== is determined by the time taken to complete once cycle of the sine wave
+		-  $T(period)=\frac {1}{f (frequency)}$
+			-  ex in WISC $.2ms*9(divisions)=0.0018 \,seconds$
 	- ==*Frequency*== is calculated by the cycles per second
-- $f = \frac {1}{0.0018}=555 Hz$
+		- $f=\frac{1}{T}$
+			- $f = \frac {1}{0.0018}=555 Hz$
 
 # Wavelength
 - This is the distance between the beginning and end of one cycle

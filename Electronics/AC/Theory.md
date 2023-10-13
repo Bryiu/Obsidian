@@ -50,4 +50,5 @@
 		- ![[Selection_026.png]]
 	- Adding 5th harmonic
 		- ![[Selection_027.png]]
-		- 
+## AC Square Wave
+- The AC square wave can be symmetrical or Asymmetrical in amplitude, to a 0V reference
