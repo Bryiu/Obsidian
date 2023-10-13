@@ -38,3 +38,12 @@
 - ![[Selection_021.png]]
 	- 120 VAC = 120 VDC
 - 
+# Ramp Wave forms
+- Below is a sawtooth 
+- ![[Selection_028.png]]
+	- Measured in Volts/Second or Amps/second
+		- $\frac{\Delta V}{\Delta t}=\frac{V}{s}$
+			- ![[Selection_029.png]]
+- ![[Selection_030.png]]
+- $f=\frac{1}{T}$
+- $T(period)=\frac {1}{f (frequency)}$ 
