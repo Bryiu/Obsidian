@@ -45,10 +45,10 @@
       "Electronics/DC",
       "Electronics/DC/Equations",
       "Source",
+      "Electronics/AC/Calculations",
       "/",
       "Electronics",
-      "Electronics/AC",
-      "Electronics/AC/Calculations"
+      "Electronics/AC"
     ]
   },
   "expandedSpaces": [

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md",
+                "file": "Electronics/AC/Theory.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md",
+                "file": "Electronics/AC/Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md",
+                "file": "Electronics/AC/Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md"
+                "file": "Electronics/AC/Theory.md"
               }
             }
           }
@@ -225,6 +225,7 @@
   },
   "active": "183c52c07b68ba7f",
   "lastOpenFiles": [
+    "Electronics/AC/Calculations/General.md",
     "Selection_030.png",
     "Selection_029.png",
     "Selection_028.png",
@@ -236,8 +237,6 @@
     "Selection_023.png",
     "Source/Selection_022.png",
     "Source/Selection_021.png",
-    "Source/Selection_019.png",
-    "Electronics/AC/Calculations/General.md",
     "Source/DC",
     "Electronics/DC/Equations/Complex Circuits.md",
     "Electronics/Equipment/Oscilliscope (Rigol DS1104Z).md",
