@@ -1,4 +1,9 @@
 ![[Pasted image 20230922114921.png]]
+> like this
+
+>[!Example]
+>whatever is in this
+
 
 # Frequency
 - When finding the frequency on the oscilliscope, multiply the SEC/DIV setting by the number of divisions

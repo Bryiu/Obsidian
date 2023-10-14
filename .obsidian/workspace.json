@@ -133,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +195,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Electronics/AC/Theory.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -250,7 +246,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6bba1444d83fe2d7",
+  "active": "183c52c07b68ba7f",
   "lastOpenFiles": [
     "Electronics/AC/Calculations/General.md",
     "Electronics/AC/Theory.md",
