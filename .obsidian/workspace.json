@@ -4,23 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "d61e6e9e8cca810c",
+        "id": "2df9aacd291868dc",
+        "type": "split",
+        "children": [
+          {
+            "id": "d61e6e9e8cca810c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "183c52c07b68ba7f",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "1eceb0a83d949ede",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6bba1444d83fe2d7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Electronics/AC/Theory.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "02752dcf8b048731",
         "type": "tabs",
         "children": [
           {
-            "id": "183c52c07b68ba7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronics/AC/Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bee3a6e841bc48a",
+            "id": "031d61380a106c30",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -223,13 +250,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "183c52c07b68ba7f",
+  "active": "6bba1444d83fe2d7",
   "lastOpenFiles": [
     "Electronics/AC/Calculations/General.md",
+    "Electronics/AC/Theory.md",
     "Selection_030.png",
     "Selection_029.png",
     "Selection_028.png",
-    "Electronics/AC/Theory.md",
     "Selection_027.png",
     "Selection_026.png",
     "Selection_025.png",
