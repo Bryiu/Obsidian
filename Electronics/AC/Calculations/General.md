@@ -1,8 +1,4 @@
 ![[Pasted image 20230922114921.png]]
-> like this
-
->[!Example]
->whatever is in this
 
 
 # Frequency
@@ -52,3 +48,16 @@
 - ![[Selection_030.png]]
 - $f=\frac{1}{T}$
 - $T(period)=\frac {1}{f (frequency)}$ 
+
+# Ohms Law in AC
+## Determining RMS
+- ![[Selection_031.png]]
+	- find peak voltage
+		- $P_V=\frac {Vpp}{2}=10Vp$
+	- Calculate $V_{rms}$
+		- $V_{rms}=0.707*Vp=7.07V_{rms}$
+	- Calculate current
+		- $I=\frac {V_rms}{R_t}=0.28mA$
+>[!Note]
+>To find peak from $V{rms}$. $Peak=V_{rms}*\frac{1}{0.707}$
+

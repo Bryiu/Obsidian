@@ -4,18 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "f02fb6a40f72bce7",
-        "type": "tabs",
+        "id": "06709d2fc9d07dc0",
+        "type": "split",
         "children": [
           {
-            "id": "838abf07124e21ef",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+            "id": "f02fb6a40f72bce7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "838abf07124e21ef",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "38c6ec33736e482f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Electronics/AC/Theory.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "b47c1221a00a7cd1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8265288eb851e6a8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Electronics/AC/Calculations/General.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -90,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics/AC/Calculations/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics/AC/Calculations/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +192,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics/AC/Calculations/General.md"
+              }
             }
           }
         ],
@@ -203,20 +245,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "9e3b282dadb2e444",
+  "active": "8265288eb851e6a8",
   "lastOpenFiles": [
-    "Electronics/AC/Calculations/General.md",
+    "Selection_031.png",
     "Electronics/AC/Theory.md",
+    "Source/Selection_030.png",
+    "Source/Selection_029.png",
+    "Source/Selection_028.png",
+    "Source/Selection_027.png",
+    "Source/Selection_026.png",
+    "Source/Selection_025.png",
+    "Source/Selection_024.png",
+    "Source/Selection_023.png",
+    "Electronics/AC/Calculations/General.md",
     "Selection_030.png",
     "Selection_029.png",
-    "Selection_028.png",
-    "Selection_027.png",
-    "Selection_026.png",
-    "Selection_025.png",
-    "Selection_024.png",
-    "Selection_023.png",
-    "Source/Selection_022.png",
-    "Source/Selection_021.png",
     "Source/DC",
     "Electronics/DC/Equations/Complex Circuits.md",
     "Electronics/Equipment/Oscilliscope (Rigol DS1104Z).md",
