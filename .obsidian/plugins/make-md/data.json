@@ -42,10 +42,12 @@
       "Linux/Process's",
       "Electronics/Electronics Equations/AC",
       "Electronics/DC/Equations",
+      "Electronics/AC",
+      "Electronics/AC/Calculations",
       "/",
       "Electronics",
-      "Electronics/AC",
-      "Electronics/AC/Calculations"
+      "Electronics/Equipment",
+      "Electronics/Equipment/Oscilliscopes"
     ]
   },
   "expandedSpaces": [
@@ -83,7 +85,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697402786510,
+  "spacesAutoBackupLast": 1697408390551,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
