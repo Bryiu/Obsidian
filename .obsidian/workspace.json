@@ -4,58 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2df9aacd291868dc",
-        "type": "split",
-        "children": [
-          {
-            "id": "d61e6e9e8cca810c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "183c52c07b68ba7f",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ]
-          },
-          {
-            "id": "1eceb0a83d949ede",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6bba1444d83fe2d7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Electronics/AC/Theory.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "02752dcf8b048731",
+        "id": "f02fb6a40f72bce7",
         "type": "tabs",
         "children": [
           {
-            "id": "031d61380a106c30",
+            "id": "838abf07124e21ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronics/AC/Calculations/General.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -246,7 +203,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "183c52c07b68ba7f",
+  "active": "9e3b282dadb2e444",
   "lastOpenFiles": [
     "Electronics/AC/Calculations/General.md",
     "Electronics/AC/Theory.md",
