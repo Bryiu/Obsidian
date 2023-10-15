@@ -128,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,9 +190,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Electronics/AC/Calculations/General.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -245,8 +241,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8265288eb851e6a8",
+  "active": "75d30088d4f3e6b9",
   "lastOpenFiles": [
+    "Electronics/AC/Calculations/General.md",
+    "Selection_033.png",
+    "Selection_032.png",
     "Selection_031.png",
     "Electronics/AC/Theory.md",
     "Source/Selection_030.png",
@@ -256,10 +255,6 @@
     "Source/Selection_026.png",
     "Source/Selection_025.png",
     "Source/Selection_024.png",
-    "Source/Selection_023.png",
-    "Electronics/AC/Calculations/General.md",
-    "Selection_030.png",
-    "Selection_029.png",
     "Source/DC",
     "Electronics/DC/Equations/Complex Circuits.md",
     "Electronics/Equipment/Oscilliscope (Rigol DS1104Z).md",

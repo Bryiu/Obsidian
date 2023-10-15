@@ -50,7 +50,7 @@
 - $T(period)=\frac {1}{f (frequency)}$ 
 
 # Ohms Law in AC
-## Determining RMS
+## Determining VRMS
 - ![[Selection_031.png]]
 	- find peak voltage
 		- $P_V=\frac {Vpp}{2}=10Vp$
@@ -60,4 +60,14 @@
 		- $I=\frac {V_rms}{R_t}=0.28mA$
 >[!Note]
 >To find peak from $V{rms}$. $Peak=V_{rms}*\frac{1}{0.707}$
+
+# Calculating IRMS
+
+- ![[Selection_033.png]]
+	- Find peak voltage
+		- $P_V=\frac{V_{pp}}{2}=\frac {20}{2}=10V_p$
+	- Calculate $V_{rms}$
+		- $V_{rms}=0.707*V_p=0.707*10=7.07V_{rms}$
+	- Calculate Current
+		- $I_T=\frac{V_{rms}}{R_T}=\frac{7.07}{3k}=2.4mA$
 
