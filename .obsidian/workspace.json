@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Electronics/Equipment/Oscilliscopes/Intro to Oscilliscopes.md",
+                    "file": "Electronics/AC/Theory.md",
                     "mode": "source",
                     "source": false
                   }
@@ -45,9 +45,11 @@
                 "id": "8265288eb851e6a8",
                 "type": "leaf",
                 "state": {
-                  "type": "make-folder-view",
+                  "type": "markdown",
                   "state": {
-                    "contextPath": "Electronics/Equipment"
+                    "file": "Electronics/AC/Calculations/General.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
@@ -129,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Equipment/Oscilliscopes/Intro to Oscilliscopes.md",
+                "file": "Electronics/AC/Calculations/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Equipment/Oscilliscopes/Intro to Oscilliscopes.md",
+                "file": "Electronics/AC/Calculations/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Equipment/Oscilliscopes/Intro to Oscilliscopes.md"
+                "file": "Electronics/AC/Calculations/General.md"
               }
             }
           }
@@ -246,17 +248,17 @@
       "graph:Open graph view": false
     }
   },
-  "active": "838abf07124e21ef",
+  "active": "8265288eb851e6a8",
   "lastOpenFiles": [
-    "Electronics/Equipment/Oscilliscopes/Oscilliscopes.md",
+    "Electronics/AC/Theory.md",
+    "Electronics/AC/Calculations/General.md",
     "Electronics/Equipment/Oscilliscopes/Intro to Oscilliscopes.md",
+    "Electronics/Equipment/Oscilliscopes/Oscilliscopes.md",
     "Electronics/Equipment/Oscilliscopes",
     "Electronics/Equipment/Oscilliscopes/Oscilliscope (Rigol DS1104Z).md",
-    "Electronics/AC/Calculations/General.md",
     "Selection_033.png",
     "Selection_032.png",
     "Selection_031.png",
-    "Electronics/AC/Theory.md",
     "Source/Selection_030.png",
     "Source/Selection_029.png",
     "Source/Selection_028.png",

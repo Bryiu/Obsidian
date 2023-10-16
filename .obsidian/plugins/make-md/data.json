@@ -42,12 +42,12 @@
       "Linux/Process's",
       "Electronics/Electronics Equations/AC",
       "Electronics/DC/Equations",
-      "Electronics/AC",
-      "Electronics/AC/Calculations",
+      "Electronics/Equipment",
+      "Electronics/Equipment/Oscilliscopes",
       "/",
       "Electronics",
-      "Electronics/Equipment",
-      "Electronics/Equipment/Oscilliscopes"
+      "Electronics/AC",
+      "Electronics/AC/Calculations"
     ]
   },
   "expandedSpaces": [

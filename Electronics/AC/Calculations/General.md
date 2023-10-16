@@ -71,3 +71,7 @@
 	- Calculate Current
 		- $I_T=\frac{V_{rms}}{R_T}=\frac{7.07}{3k}=2.4mA$
 
+# Phase Angle
+
+-  The time axis represents 360$\degree$. The 50 subdivisions each represent 7.2$\degree$. 
+	- To find the phase angle, multiply the subdivision 
