@@ -56,8 +56,23 @@
 
 >Green section
 >![[Selection_036.png]]
+![[Selection_041.png]]
 
+- When the buttons are out, the top selections are applied
+>[!Note]
+>AM stands for Amplitude Modulation
+>FM is Frequency Modulation
 
+- To modulate FM
+	- ON and INT must be applied
 
+- The %Modulation control adjusts the amount of modulation placed on a signal
 
+- The VCG/MOD INPUT is used to operate the function generator as a voltage-controlled generator or as a modulation input source
+	- When the Modulation is off, the VCO input is enabled
+		- Function Generator frequency can be controlled by the application of an external voltage to the VCO/MOD INPUT
+			- Voltage should never exceed 15VDC
+	- When the Modulation is on, the VCG/MOD INPUT jack allows the application of an external modulation signal
+- Modulation FM/AM switch is for the type of modulation sent to the VCG/MOD INPUT jack. 
+	- ON and EXT must be enabled for external modulation
 ## Sweep Section
