@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md",
+                "file": "Electronics/Equipment/Function Generator.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md",
+                "file": "Electronics/Equipment/Function Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md",
+                "file": "Electronics/Equipment/Function Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md"
+                "file": "Electronics/Equipment/Function Generator.md"
               }
             }
           }
@@ -211,8 +211,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "75d30088d4f3e6b9",
+  "active": "8265288eb851e6a8",
   "lastOpenFiles": [
+    "Electronics/Equipment/Function Generator.md",
     "Electronics/AC/Calculations/General.md",
     "Electronics/AC/Theory.md",
     "Electronics/Equipment/Oscilliscopes/Intro to Oscilliscopes.md",
@@ -256,7 +257,6 @@
     "Index.md",
     "Context/Obsidian.mdb",
     "Electronics/Electronics Equations/Electronics Equations.md",
-    "Electronics/DC/Electronic Theory.md",
     "Electronics/Electronics Equations",
     "Context/spacesLastSync.log"
   ]
