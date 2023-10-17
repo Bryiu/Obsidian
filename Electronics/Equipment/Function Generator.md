@@ -83,4 +83,6 @@
 
 - The START and any RANGE buttons are used together to select the start frequency of the sweep
 	- Once the start frequency has been selected, the Sweep RUN/SET button is pushed in (SET)
-	- 
+- The STOP control and any of the range buttons select stopping frequency of the sweep operation.
+	- To select the frequency where you want the sweep to stop, first select STOP
+- RUN/SET to sweep from the start frequency to stop frequency
