@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Equipment/Function Generator.md",
+                "file": "Electronics/Equipment/Frequency Counter.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Equipment/Function Generator.md",
+                "file": "Electronics/Equipment/Frequency Counter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Equipment/Function Generator.md",
+                "file": "Electronics/Equipment/Frequency Counter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Equipment/Function Generator.md"
+                "file": "Electronics/Equipment/Frequency Counter.md"
               }
             }
           }
@@ -213,6 +213,9 @@
   },
   "active": "8265288eb851e6a8",
   "lastOpenFiles": [
+    "Selection_043.png",
+    "Electronics/Equipment/Function Generator.md",
+    "Electronics/Equipment/Frequency Counter.md",
     "Selection_042.png",
     "Selection_041.png",
     "Selection_040.png",
@@ -220,7 +223,6 @@
     "Selection_038.png",
     "Selection_037.png",
     "Selection_036.png",
-    "Electronics/Equipment/Function Generator.md",
     "Selection_035.png",
     "Electronics/AC/Calculations/General.md",
     "Electronics/AC/Theory.md",
@@ -230,7 +232,6 @@
     "Electronics/Equipment/Oscilliscopes/Oscilliscope (Rigol DS1104Z).md",
     "Selection_033.png",
     "Selection_032.png",
-    "Selection_031.png",
     "Source/DC",
     "Electronics/DC/Equations/Complex Circuits.md",
     "Electronics/Equipment/Multimeter.md",
@@ -255,7 +256,6 @@
     "Linux/Linux.md",
     "Electronics/DC/Equations/Electronics Equations(Origin).md",
     "Electronics/Electronics.md",
-    "Index.md",
     "Context/Obsidian.mdb",
     "Electronics/Electronics Equations",
     "Context/spacesLastSync.log"
