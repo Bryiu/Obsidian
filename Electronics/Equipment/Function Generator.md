@@ -76,3 +76,11 @@
 - Modulation FM/AM switch is for the type of modulation sent to the VCG/MOD INPUT jack. 
 	- ON and EXT must be enabled for external modulation
 ## Sweep Section
+>[!Note]
+>For the Sweep section to be used, the Sweep must be selected to INT and the Frequency must be fully CCW
+
+![[Selection_042.png]]
+
+- The START and any RANGE buttons are used together to select the start frequency of the sweep
+	- Once the start frequency has been selected, the Sweep RUN/SET button is pushed in (SET)
+	- 
