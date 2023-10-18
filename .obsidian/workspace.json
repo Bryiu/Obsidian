@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Electronic Components.md",
+                "file": "Electronics/AC/Calculations/RL Series Circuits.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "bac1ead7b59ae0a3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Electronic Components.md",
+                "file": "Electronics/AC/Calculations/RL Series Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Electronic Components.md",
+                "file": "Electronics/AC/Calculations/RL Series Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Electronic Components.md"
+                "file": "Electronics/AC/Calculations/RL Series Circuits.md"
               }
             }
           },
@@ -214,8 +203,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "bac1ead7b59ae0a3",
+  "active": "75d30088d4f3e6b9",
   "lastOpenFiles": [
+    "Electronics/Electronic Components.md",
+    "Electronics/AC/Calculations/RL Series Circuits.md",
     "Electronics/AC/Calculations/General.md",
     "Untitled.md",
     "Source/Selection_021.png",
@@ -235,7 +226,6 @@
     "Electronics/Equipment/Oscilliscopes",
     "Electronics/Equipment/Function Generator.md",
     "Electronics/Equipment/Frequency Counter.md",
-    "Electronics/Electronic Components.md",
     "Electronics/DC/Equations/Series Parallel Equations.md",
     "Electronics/DC/Equations/Series Equations.md",
     "Electronics/DC/Equations/Parallel Equations.md",
@@ -258,7 +248,6 @@
     "Electronics/Electronics Equations/AC.md",
     "Electronics/DC/Series Parallel Equations.md",
     "Electronics/DC/Parallel Equations.md",
-    "Electronics/DC/Series Equations.md",
     "Context/Obsidian.mdb",
     "Electronics/Electronics Equations",
     "Context/spacesLastSync.log"
