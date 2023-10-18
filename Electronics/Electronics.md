@@ -2,7 +2,7 @@
 Electronics:
 ---
 # Root Files
-
+[[Electronic Components]]
 
 ---
 
