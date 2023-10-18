@@ -22,14 +22,6 @@
                 }
               },
               {
-                "id": "cebae6168fd65b44",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
                 "id": "059818a55dd13583",
                 "type": "leaf",
                 "state": {
@@ -42,7 +34,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "16a0523352a31bda",
@@ -257,21 +249,21 @@
   },
   "active": "0e98dd4696c4e297",
   "lastOpenFiles": [
+    "Selection_055.png",
+    "Selection_054.png",
+    "Selection_053.png",
+    "Selection_052.png",
+    "Selection_051.png",
+    "Selection_050.png",
     "Selection_049.png",
     "Selection_048.png",
     "Selection_047.png",
     "Selection_046.png",
     "Selection_045.png",
-    "Selection_044.png",
     "Electronics/AC/Calculations/General.md",
     "Untitled.md",
     "Electronics/Equipment/Frequency Counter.md",
-    "Selection_043.png",
     "Electronics/Equipment/Function Generator.md",
-    "Selection_042.png",
-    "Selection_041.png",
-    "Selection_040.png",
-    "Pasted image 20231017105550.png",
     "Electronics/AC/Theory.md",
     "Electronics/Equipment/Oscilliscopes/Intro to Oscilliscopes.md",
     "Electronics/Equipment/Oscilliscopes/Oscilliscopes.md",
