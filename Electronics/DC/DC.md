@@ -1,1 +1,2 @@
-[[Complex Circuits]]
+[[Equations]]
+[[Electronic Theory]]
