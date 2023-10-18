@@ -52,8 +52,12 @@
                 "id": "0e98dd4696c4e297",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Electronics/Electronic Components.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -134,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md",
+                "file": "Electronics/Electronic Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md",
+                "file": "Electronics/Electronic Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md"
+                "file": "Electronics/Electronic Components.md"
               }
             }
           }
@@ -251,8 +255,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "059818a55dd13583",
+  "active": "0e98dd4696c4e297",
   "lastOpenFiles": [
+    "Electronics/AC/Calculations/General.md",
     "Untitled.md",
     "Electronics/Equipment/Frequency Counter.md",
     "Selection_043.png",
@@ -265,7 +270,6 @@
     "Selection_037.png",
     "Selection_036.png",
     "Selection_035.png",
-    "Electronics/AC/Calculations/General.md",
     "Electronics/AC/Theory.md",
     "Electronics/Equipment/Oscilliscopes/Intro to Oscilliscopes.md",
     "Electronics/Equipment/Oscilliscopes/Oscilliscopes.md",

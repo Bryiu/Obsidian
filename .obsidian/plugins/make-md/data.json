@@ -44,10 +44,10 @@
       "Electronics/DC/Equations",
       "Electronics/Equipment",
       "Electronics/DC",
-      "/",
-      "Electronics",
       "Electronics/AC",
-      "Electronics/AC/Calculations"
+      "Electronics/AC/Calculations",
+      "/",
+      "Electronics"
     ]
   },
   "expandedSpaces": [
