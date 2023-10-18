@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md",
+                "file": "Electronics/Electronic Components.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "bac1ead7b59ae0a3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md",
+                "file": "Electronics/Electronic Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md",
+                "file": "Electronics/Electronic Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Calculations/General.md"
+                "file": "Electronics/Electronic Components.md"
+              }
+            }
+          },
+          {
+            "id": "b88b0da0b9a6d7c5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -190,12 +211,12 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "graph:Open graph view": false
     }
   },
-  "active": "75d30088d4f3e6b9",
+  "active": "bac1ead7b59ae0a3",
   "lastOpenFiles": [
+    "Electronics/AC/Calculations/General.md",
     "Untitled.md",
     "Source/Selection_021.png",
     "Source/DC/Selection_069.png",
@@ -224,7 +245,6 @@
     "Electronics/AC/Theory.md",
     "Electronics/AC/Calculations/Calculations.md",
     "Electronics/AC/Untitled.md",
-    "Electronics/AC/Calculations/General.md",
     "Electronics/AC/Calculations",
     "Electronics/DC/Complex Circuits.md",
     "Electronics/DC/Untitled.md",
