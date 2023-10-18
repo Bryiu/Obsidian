@@ -75,3 +75,7 @@
 
 -  The time axis represents 360$\degree$. The 50 subdivisions each represent 7.2$\degree$. 
 	- To find the phase angle, multiply the subdivision 
+
+## Determining Voltage at a Phase angle
+- $Voltage\,at\,angle=sin(wave\degree)*max\, voltage$
+- 
