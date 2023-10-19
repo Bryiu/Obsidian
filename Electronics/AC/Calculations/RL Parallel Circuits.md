@@ -73,3 +73,5 @@
 - $P_L=V_L*I_L$
 ## Apparent
 - $P_A=V_A*I_T$
+
+# Faults
