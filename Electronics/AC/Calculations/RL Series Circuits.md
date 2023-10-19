@@ -89,3 +89,7 @@
 
 - Use voltage measurements to determine if the circuit is working correctly
 - Use resistance measurements to determine which component is faulty or unserviceable
+
+# Troubleshooting
+
+- If they're not within $+\over-$ 20%  then check for faulty
