@@ -78,3 +78,7 @@
 
 - The combination of Real and Reactive power
 - $P_A=V_A*I_T$
+
+# LAB RL Circuit Operation
+- When finding the Voltage across a resistor in series with two inductors
+	- Add the two signals together with the channel B signal inverted
