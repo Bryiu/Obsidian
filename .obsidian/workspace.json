@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "1ac24f9adfb80870",
@@ -205,6 +205,8 @@
   },
   "active": "75d30088d4f3e6b9",
   "lastOpenFiles": [
+    "Electronics/AC/Calculations/RL Series Circuits.md",
+    "Electronics/AC/Calculations/RL Parallel Circuits.md",
     "Selection_063.png",
     "Selection_062.png",
     "Selection_061.png",
@@ -212,14 +214,11 @@
     "Selection_059.png",
     "Selection_058.png",
     "Selection_057.png",
-    "Electronics/AC/Calculations/RL Series Circuits.md",
-    "Electronics/AC/Calculations/RL Parallel Circuits.md",
     "Pasted image 20231019130351.png",
     "Selection_056.png",
     "Electronics/AC/Calculations/RL Filters.md",
     "Untitled.md",
     "Source/Pasted image 20231017105550.png",
-    "Source/Selection_055.png",
     "Electronics/AC/Calculations/General.md",
     "Electronics/Electronic Components.md",
     "Source/DC",

@@ -35,7 +35,7 @@
 
 ## Impedance (Inductors and resistors)
 
-- $Z_T=\frac {R*X_L}{\sqrt {R^2+{X_L}^2}}$
+- $Z_T=\frac {R*X_{LT}}{\sqrt {R^2+{X_{LT}}^2}}$
 	- Accounts for the 90$\degree$ difference
 
 - $I_T=\frac {V_{pp}}{Z_T}$
@@ -66,3 +66,10 @@
 ## Check results; calculate total current
 ![[Selection_063.png]]
 
+# Power
+## Real
+- $P_R=V_R*I_R$
+## Reactive
+- $P_L=V_L*I_L$
+## Apparent
+- $P_A=V_A*I_T$
