@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1ac24f9adfb80870",
@@ -205,9 +205,9 @@
   },
   "active": "75d30088d4f3e6b9",
   "lastOpenFiles": [
-    "Electronics/Electronic Components.md",
-    "Electronics/AC/Calculations/RL Series Circuits.md",
     "Electronics/AC/Calculations/General.md",
+    "Electronics/AC/Calculations/RL Series Circuits.md",
+    "Electronics/Electronic Components.md",
     "Untitled.md",
     "Source/Selection_021.png",
     "Source/DC/Selection_069.png",

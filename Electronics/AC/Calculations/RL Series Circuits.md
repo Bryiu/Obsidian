@@ -60,4 +60,21 @@
 >Because of the 90$\degree$ phase difference adding the impedence and resistance voltages will not add up to the applied voltage
 
 - $V_A=\sqrt{{V_R}^2+{V_L}^2}$
--  
+
+# Reactance Power Calculations
+## Real
+
+- Power consumed by the resistor
+- $P_R=V_R*I_R$
+
+
+## Reactive
+
+- Power in the inductor
+- $P_L=V_L*I_L$
+
+
+## Apparent
+
+- The combination of Real and Reactive power
+- $P_A=V_A*I_T$
