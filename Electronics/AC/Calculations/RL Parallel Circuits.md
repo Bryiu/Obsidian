@@ -20,4 +20,12 @@
 - $L_T=\frac {L_1*L_2}{L_1+L_2}$
 - $X_L=2 \pi f L$
 	- Measured in ohms
+	- As frequency increases $X_L$ increases
+	- As inductance increases $X_L$ increases
+
+# Finding Current
+## Inductors Only
+- $I_T=\frac {V_{pp}}{X_{L_T}}$
+	- $I_{L_1}=\frac {V_{pp}}{X_{L_1}}$
+	- $I_{L_2}=\frac {V_{pp}}{X_{L_2}}$
 - 
