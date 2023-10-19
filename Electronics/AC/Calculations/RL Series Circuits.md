@@ -1,3 +1,6 @@
+![[Pasted image 20231019130351.png]]
+
+
 - All calculations are based *in this lesson* are $V_{pp}$
 - Inductance describes the induced voltage produced by a changing magnetic field
 	- Greater inductance = Greater induced voltage

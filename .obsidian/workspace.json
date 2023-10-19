@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cbee075eb612d4d2",
-            "type": "leaf",
-            "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "Electronics/AC/Calculations"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics/AC/Calculations/RL Parallel Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics/AC/Calculations/RL Parallel Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics/AC/Calculations/RL Parallel Circuits.md"
+              }
             }
           },
           {
@@ -210,11 +203,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "cbee075eb612d4d2",
+  "active": "75d30088d4f3e6b9",
   "lastOpenFiles": [
-    "Electronics/AC/Calculations/RL Filters.md",
-    "Electronics/AC/Calculations/RL Parallel Circuits.md",
     "Electronics/AC/Calculations/RL Series Circuits.md",
+    "Electronics/AC/Calculations/RL Parallel Circuits.md",
+    "Pasted image 20231019130351.png",
+    "Selection_056.png",
+    "Electronics/AC/Calculations/RL Filters.md",
     "Untitled.md",
     "Source/Pasted image 20231017105550.png",
     "Source/Selection_055.png",
@@ -224,8 +219,6 @@
     "Source/Selection_051.png",
     "Source/Selection_050.png",
     "Source/Selection_049.png",
-    "Source/Selection_048.png",
-    "Source/Selection_047.png",
     "Electronics/AC/Calculations/General.md",
     "Electronics/Electronic Components.md",
     "Source/DC",
@@ -254,7 +247,6 @@
     "Electronics/AC/AC.md",
     "Electronics/DC",
     "Electronics/AC",
-    "Electronics/Electronics Equations/AC.md",
     "Context/Obsidian.mdb",
     "Electronics/Electronics Equations",
     "Context/spacesLastSync.log"
