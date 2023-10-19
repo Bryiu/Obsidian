@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "1ac24f9adfb80870",
@@ -205,20 +205,20 @@
   },
   "active": "75d30088d4f3e6b9",
   "lastOpenFiles": [
-    "Electronics/AC/Calculations/General.md",
-    "Electronics/AC/Calculations/RL Series Circuits.md",
-    "Electronics/Electronic Components.md",
     "Untitled.md",
-    "Source/Selection_021.png",
-    "Source/DC/Selection_069.png",
-    "Source/DC/Selection_068.png",
-    "Source/DC/Selection_067.png",
-    "Source/DC/Selection_066.png",
-    "Source/DC/Selection_065.png",
-    "Source/DC/Selection_064.png",
-    "Source/DC/Selection_063.png",
-    "Source/DC/Selection_062.png",
-    "Source/DC/Selection_061.png",
+    "Electronics/AC/Calculations/RL Series Circuits.md",
+    "Source/Pasted image 20231017105550.png",
+    "Source/Selection_055.png",
+    "Source/Selection_054.png",
+    "Source/Selection_053.png",
+    "Source/Selection_052.png",
+    "Source/Selection_051.png",
+    "Source/Selection_050.png",
+    "Source/Selection_049.png",
+    "Source/Selection_048.png",
+    "Source/Selection_047.png",
+    "Electronics/AC/Calculations/General.md",
+    "Electronics/Electronic Components.md",
     "Source/DC",
     "Electronics/Equipment/Oscilliscopes/Oscilliscopes.md",
     "Electronics/Equipment/Oscilliscopes/Oscilliscope (Rigol DS1104Z).md",
@@ -247,7 +247,6 @@
     "Electronics/AC",
     "Electronics/Electronics Equations/AC.md",
     "Electronics/DC/Series Parallel Equations.md",
-    "Electronics/DC/Parallel Equations.md",
     "Context/Obsidian.mdb",
     "Electronics/Electronics Equations",
     "Context/spacesLastSync.log"

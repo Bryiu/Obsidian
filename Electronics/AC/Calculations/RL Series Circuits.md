@@ -67,12 +67,10 @@
 - Power consumed by the resistor
 - $P_R=V_R*I_R$
 
-
 ## Reactive
 
 - Power in the inductor
 - $P_L=V_L*I_L$
-
 
 ## Apparent
 
@@ -80,5 +78,8 @@
 - $P_A=V_A*I_T$
 
 # LAB RL Circuit Operation
+
 - When finding the Voltage across a resistor in series with two inductors
 	- Add the two signals together with the channel B signal inverted
+
+# RL Series Circuit Faults
