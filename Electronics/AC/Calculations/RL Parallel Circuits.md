@@ -29,3 +29,40 @@
 	- $I_{L_1}=\frac {V_{pp}}{X_{L_1}}$
 	- $I_{L_2}=\frac {V_{pp}}{X_{L_2}}$
 - 
+
+>[!Warning]
+>$X_L$ and R cannot be added directly
+
+## Impedance (Inductors and resistors)
+
+- $Z_T=\frac {R*X_L}{\sqrt {R^2+{X_L}^2}}$
+	- Accounts for the 90$\degree$ difference
+
+- $I_T=\frac {V_{pp}}{Z_T}$
+	- $I_R=\frac {V_{pp}}{R}$
+	- $I_L=\frac {V_{pp}}{X_L}$
+### Total current using branch circuits
+- $I_T=\sqrt{{I_R}^2+{I_L}^2}$
+
+# Process
+## Calculate total inductance
+![[Selection_057.png]]
+
+## Find total inductance reactance
+![[Selection_058.png]]
+
+## Determine total resistance
+![[Selection_059.png]]
+
+## Solve for total impedance
+![[Selection_060.png]]
+
+## Solve for total current
+![[Selection_061.png]]
+
+## Calculate branch circuits
+![[Selection_062.png]]
+
+## Check results; calculate total current
+![[Selection_063.png]]
+
