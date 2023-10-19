@@ -83,3 +83,6 @@
 	- Add the two signals together with the channel B signal inverted
 
 # RL Series Circuit Faults
+
+- Use voltage measurements to determine if the circuit is working correctly
+- Use resistance measurements to determine which component is faulty or unserviceable
