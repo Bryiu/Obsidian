@@ -17,4 +17,6 @@
 	- ![[Pasted image 20231020152711.png]]
 - $C_T=\frac {1}{\frac{1}{C_1}+\frac{1}{C_2}+\frac{1}{C_3}}$
 	- ![[Pasted image 20231020152728.png]]
-- 
+
+## Capacitive Reactance $X_C$
+
