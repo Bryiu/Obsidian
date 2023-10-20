@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/AC/Calculations/RL Parallel Circuits.md",
+                "file": "Electronics/AC/Calculations/RL Filters.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/RL Parallel Circuits.md",
+                "file": "Electronics/AC/Calculations/RL Filters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/RL Parallel Circuits.md",
+                "file": "Electronics/AC/Calculations/RL Filters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Calculations/RL Parallel Circuits.md"
+                "file": "Electronics/AC/Calculations/RL Filters.md"
               }
             }
           },
@@ -205,8 +205,8 @@
   },
   "active": "75d30088d4f3e6b9",
   "lastOpenFiles": [
-    "Electronics/AC/Calculations/RL Series Circuits.md",
     "Electronics/AC/Calculations/RL Parallel Circuits.md",
+    "Electronics/AC/Calculations/RL Series Circuits.md",
     "Source/Selection_063.png",
     "Source/Selection_062.png",
     "Source/Selection_061.png",
