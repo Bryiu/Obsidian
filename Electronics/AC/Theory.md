@@ -64,4 +64,27 @@
 - Capacitors discharge through leakage in the dielectric
 	- To do it manually, a circuit path must exist between the two plates
 - When AC is applied to the capacitor, it changes frequency at the same frequency as the AC input voltage
+	- Because the AC voltage is oscillating the effect is similar to current flowing through the capacitor, though the dielectric blocks it
+		- This is why its said capacitors pass AC, but block DC
+
+## Classifications of Capacitors
+![[Pasted image 20231020114432.png]]
+
+### Non-Polarized
+
+- General purpose
+- Isolates one circuit from another
+- Block DC signals
+- Filter unwanted AC signals to ground
+- Produce wave shapes
+- Inserted into a circuit without regard to polarity
+- The flat line indicates the plate is connected to the low side
+	- Not an indicator of polarity
+
+### Electrolytic
+
+- Polarity sensitive
+- filters unwanted AC signals from DC power supplies
 - 
+
+### Variable
