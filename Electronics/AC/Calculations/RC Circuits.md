@@ -3,5 +3,18 @@
 - $I_{pk}=\frac{I_{pp}}{2}$
 - $I_{rms}=I_{pk}*0.707$
 
+# Series
 >[!Important]
 >Total capacitance $C_T$ of a series circuit is always less than the smallest capacitor
+
+- Placing capacitors in series has the same effect as moving the plates of a capacitor farther apart
+	- The greater the distance between the plates, the lower the capacitance.
+	- The junction between C1 and C2 is essentially neutral
+		- ![[Pasted image 20231020152212.png]]
+			- Capacitance is developed between the left plate of C1 and the right plate of C2
+## Finding total capacitance
+- $C_T= \frac {C_1*C_2}{C_1+C_2}$
+	- ![[Pasted image 20231020152711.png]]
+- $C_T=\frac {1}{\frac{1}{C_1}+\frac{1}{C_2}+\frac{1}{C_3}}$
+	- ![[Pasted image 20231020152728.png]]
+- 

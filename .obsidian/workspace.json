@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics/AC/Calculations/RC Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics/AC/Calculations/RC Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics/AC/Calculations/RC Circuits.md"
+              }
             }
           },
           {
@@ -199,8 +203,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "112bd6ec267715ec",
+  "active": "75d30088d4f3e6b9",
   "lastOpenFiles": [
+    "Source/Pasted image 20231020152728.png",
+    "Source/Pasted image 20231020152711.png",
+    "Source/Pasted image 20231020152212.png",
     "Electronics/AC/Calculations/RC Circuits.md",
     "Electronics/AC/Calculations/RL Parallel Circuits.md",
     "Electronics/AC/Calculations/RL Series Circuits.md",
@@ -214,8 +221,6 @@
     "Source/10/Pasted image 20231020131048.png",
     "Source/10/Pasted image 20231020132036.png",
     "Source/10/Pasted image 20231020132410.png",
-    "Source/10/Pasted image 20231020133116.png",
-    "Source/10/Selection_017.png",
     "Source/10/20/2023",
     "Source/10/20",
     "Source/10",
@@ -242,7 +247,6 @@
     "Electronics/AC/Untitled.md",
     "Electronics/AC/Calculations",
     "Electronics/DC/Complex Circuits.md",
-    "Electronics/DC/Untitled.md",
     "Electronics/DC/Equations",
     "Excalidraw",
     "Electronics/DC",
