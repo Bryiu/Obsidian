@@ -20,3 +20,12 @@
 
 ## Capacitive Reactance $X_C$
 
+- $X_C$ expresses the amount of opposition to current flow in the circuit
+- The greater the capacitance the greater the stored charge
+- AC voltage causes electrons to move from one plate to the other. The more electron movement, the higher current.
+	- as capacitance increases, current increases, decreasing capacitive reactance
+	- ![[Pasted image 20231020173738.png]]
+	- As frequency increases, current increases, capacitive reactance decreases
+	- ![[Pasted image 20231020174602.png]]
+- $X_C=\frac {1}{2 \pi f C}$
+- 
