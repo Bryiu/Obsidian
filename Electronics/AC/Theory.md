@@ -88,3 +88,5 @@
 - 
 
 ### Variable
+- used in transmitters and recievers
+- 
