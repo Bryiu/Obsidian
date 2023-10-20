@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/AC/Theory.md",
+                "file": "Linux/Process's/Bash Scripting.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Theory.md",
+                "file": "Linux/Process's/Bash Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Theory.md",
+                "file": "Linux/Process's/Bash Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Theory.md"
+                "file": "Linux/Process's/Bash Scripting.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1ac24f9adfb80870",
@@ -205,21 +205,26 @@
   },
   "active": "75d30088d4f3e6b9",
   "lastOpenFiles": [
-    "Pasted image 20231020114432.png",
-    "Selection_068.png",
-    "Selection_067.png",
-    "Selection_066.png",
-    "Selection_065.png",
-    "Electronics/Electronic Components.md",
+    "Linux/Bash Commands.md",
+    "Electronics/AC/Calculations/RC Circuits.md",
+    "Source/10/Pasted image 20231017105550.png",
+    "Source/10/Pasted image 20231019130351.png",
+    "Source/10/Pasted image 20231020114432.png",
+    "Source/10/Pasted image 20231020130858.png",
+    "Source/10/Pasted image 20231020130915.png",
+    "Source/10/Pasted image 20231020131048.png",
+    "Source/10/Pasted image 20231020132036.png",
+    "Source/10/Pasted image 20231020132410.png",
+    "Source/10/Pasted image 20231020133116.png",
+    "Source/10/Selection_017.png",
+    "Source/10/20/2023",
+    "Source/10/20",
+    "Source/10",
+    "Source/Untitled.md",
     "Electronics/AC/Theory.md",
+    "Electronics/Electronic Components.md",
     "Electronics/AC/Calculations/RL Filters.md",
     "Electronics/AC/Calculations/RL Parallel Circuits.md",
-    "Source/Pasted image 20231019130351.png",
-    "Source/Selection_063.png",
-    "Source/Selection_062.png",
-    "Source/Selection_061.png",
-    "Source/Selection_060.png",
-    "Source/Selection_059.png",
     "Electronics/AC/Calculations/RL Series Circuits.md",
     "Untitled.md",
     "Electronics/AC/Calculations/General.md",
@@ -243,13 +248,8 @@
     "Electronics/DC/Untitled.md",
     "Electronics/DC/Equations",
     "Electronics/DC/DC.md",
-    "Excalidraw/Drawing 2023-10-11 19.20.51.excalidraw.md",
     "Excalidraw",
-    "Electronics/AC/AC.md",
     "Electronics/DC",
-    "Electronics/AC",
-    "Context/Obsidian.mdb",
-    "Electronics/Electronics Equations",
-    "Context/spacesLastSync.log"
+    "Electronics/AC"
   ]
 }

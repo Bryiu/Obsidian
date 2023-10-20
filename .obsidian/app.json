@@ -7,5 +7,7 @@
   "strictLineBreaks": false,
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "Source"
 }

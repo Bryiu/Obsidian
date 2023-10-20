@@ -69,7 +69,7 @@
 
 ## Classifications of Capacitors
 ![[Pasted image 20231020114432.png]]
-
+![[Pasted image 20231020133116.png]]
 ### Non-Polarized
 
 - General purpose
@@ -89,4 +89,23 @@
 
 ### Variable
 - used in transmitters and recievers
-- 
+
+## Labels
+
+- Shows capacitance and working voltage
+	- Labels in Farad
+		- One farrad is very large
+		- micro and pico are common
+	- Working voltage should not be exceeded
+![[Pasted image 20231020130858.png]]![[Pasted image 20231020130915.png]]
+![[Pasted image 20231020131048.png]]
+
+- Farad is determined by
+	- Plate size
+		- the larger the plate the more capacitance
+	- Distance between plates
+		- The closer the plates the more capacitance
+	- Dielectric material
+		- The higher dielectric value, the greater capacitance
+		- ![[Pasted image 20231020132036.png]]![[Pasted image 20231020132410.png]]
+		- 

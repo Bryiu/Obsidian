@@ -39,12 +39,14 @@
       "Quasar/Quasar Process's",
       "R Lang/Deployment",
       "Windows/Windows Terminal",
-      "Linux/Process's",
       "Electronics/Electronics Equations/AC",
+      "Source",
+      "Electronics",
+      "Electronics/AC",
       "Electronics/AC/Calculations",
       "/",
-      "Electronics",
-      "Electronics/AC"
+      "Linux",
+      "Linux/Process's"
     ]
   },
   "expandedSpaces": [
@@ -82,7 +84,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1697823873275,
+  "spacesAutoBackupLast": 1697830915905,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
