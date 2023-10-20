@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Process's/Bash Scripting.md",
+                "file": "Electronics/AC/Calculations/RC Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Process's/Bash Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Process's/Bash Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/Process's/Bash Scripting.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,10 +199,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "75d30088d4f3e6b9",
+  "active": "112bd6ec267715ec",
   "lastOpenFiles": [
-    "Linux/Bash Commands.md",
     "Electronics/AC/Calculations/RC Circuits.md",
+    "Electronics/AC/Calculations/RL Parallel Circuits.md",
+    "Electronics/AC/Calculations/RL Series Circuits.md",
+    "Linux/Process's/Bash Scripting.md",
+    "Linux/Bash Commands.md",
     "Source/10/Pasted image 20231017105550.png",
     "Source/10/Pasted image 20231019130351.png",
     "Source/10/Pasted image 20231020114432.png",
@@ -224,8 +223,6 @@
     "Electronics/AC/Theory.md",
     "Electronics/Electronic Components.md",
     "Electronics/AC/Calculations/RL Filters.md",
-    "Electronics/AC/Calculations/RL Parallel Circuits.md",
-    "Electronics/AC/Calculations/RL Series Circuits.md",
     "Untitled.md",
     "Electronics/AC/Calculations/General.md",
     "Source/DC",
@@ -247,7 +244,6 @@
     "Electronics/DC/Complex Circuits.md",
     "Electronics/DC/Untitled.md",
     "Electronics/DC/Equations",
-    "Electronics/DC/DC.md",
     "Excalidraw",
     "Electronics/DC",
     "Electronics/AC"
