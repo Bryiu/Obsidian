@@ -56,3 +56,12 @@
 
 - Electrons accumulate on the lower plate of the capacitor
 ![[Selection_065.png]]
+- Current does not travel through the capacitor. The dielectric blocks current
+![[Selection_066.png]]
+- Voltage is stored in the plates of the capacitor; even when a switch is opened or the battery is removed
+- Capacitors charge rapidly at first
+![[Selection_068.png]]
+- Capacitors discharge through leakage in the dielectric
+	- To do it manually, a circuit path must exist between the two plates
+- When AC is applied to the capacitor, it changes frequency at the same frequency as the AC input voltage
+- 
