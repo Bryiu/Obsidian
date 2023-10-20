@@ -53,3 +53,6 @@
 - The AC square wave can be symmetrical or Asymmetrical in amplitude, to a 0V reference
 
 # Capacitors
+
+- Electrons accumulate on the lower plate of the capacitor
+![[Selection_065.png]]

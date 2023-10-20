@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1ac24f9adfb80870",
@@ -205,6 +205,9 @@
   },
   "active": "75d30088d4f3e6b9",
   "lastOpenFiles": [
+    "Selection_065.png",
+    "Electronics/Electronic Components.md",
+    "Electronics/AC/Theory.md",
     "Electronics/AC/Calculations/RL Filters.md",
     "Electronics/AC/Calculations/RL Parallel Circuits.md",
     "Source/Pasted image 20231019130351.png",
@@ -220,7 +223,6 @@
     "Selection_063.png",
     "Untitled.md",
     "Electronics/AC/Calculations/General.md",
-    "Electronics/Electronic Components.md",
     "Source/DC",
     "Electronics/Equipment/Oscilliscopes/Oscilliscopes.md",
     "Electronics/Equipment/Oscilliscopes/Oscilliscope (Rigol DS1104Z).md",
@@ -234,7 +236,6 @@
     "Electronics/DC/Equations/Equations.md",
     "Electronics/DC/Equations/Electronics Equations(Origin).md",
     "Electronics/DC/Equations/Complex Circuits.md",
-    "Electronics/AC/Theory.md",
     "Electronics/AC/Calculations/Calculations.md",
     "Electronics/AC/Untitled.md",
     "Electronics/AC/Calculations",
