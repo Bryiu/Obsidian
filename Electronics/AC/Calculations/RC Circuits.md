@@ -28,4 +28,5 @@
 	- As frequency increases, current increases, capacitive reactance decreases
 	- ![[Pasted image 20231020174602.png]]
 - $X_C=\frac {1}{2 \pi f C}$
-- 
+
+## RC Series Circuits
