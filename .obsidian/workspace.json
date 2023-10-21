@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/AC/Calculations/RC Circuits.md",
+                "file": "Linux/Process's/Bash Scripting.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/RC Circuits.md",
+                "file": "Linux/Process's/Bash Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/RC Circuits.md",
+                "file": "Linux/Process's/Bash Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Calculations/RC Circuits.md"
+                "file": "Linux/Process's/Bash Scripting.md"
               }
             }
           },
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +205,8 @@
   },
   "active": "75d30088d4f3e6b9",
   "lastOpenFiles": [
-    "Electronics/AC/Calculations/RL Series Circuits.md",
     "Electronics/AC/Calculations/RC Circuits.md",
+    "Electronics/AC/Calculations/RL Series Circuits.md",
     "Source/Pasted image 20231020193237.png",
     "Source/Pasted image 20231020193221.png",
     "Source/Pasted image 20231020192737.png",
