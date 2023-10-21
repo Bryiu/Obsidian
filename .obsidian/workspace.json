@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "482e0f7c207a5473",
+        "id": "e2b347f18ecd872e",
         "type": "tabs",
         "children": [
           {
-            "id": "75d30088d4f3e6b9",
+            "id": "dbbdb75f89484950",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Process's/Bash Scripting.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Process's/Bash Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Process's/Bash Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/Process's/Bash Scripting.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,8 +195,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "75d30088d4f3e6b9",
+  "active": "dbbdb75f89484950",
   "lastOpenFiles": [
+    "Linux/Process's/Bash Scripting.md",
     "Electronics/AC/Calculations/RC Circuits.md",
     "Electronics/AC/Calculations/RL Series Circuits.md",
     "Source/Pasted image 20231020193237.png",
@@ -218,7 +211,6 @@
     "Source/Pasted image 20231020173738.png",
     "Source/Pasted image 20231020152728.png",
     "Electronics/AC/Calculations/RL Parallel Circuits.md",
-    "Linux/Process's/Bash Scripting.md",
     "Linux/Bash Commands.md",
     "Source/10/20/2023",
     "Source/10/20",

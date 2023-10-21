@@ -38,6 +38,12 @@ chmod +x gaming.sh
 
 # Giving the Script an Alias
 To make the alias persistent you have to append the .bashrc file.
+
+>[!Important]
+>When making changes in Manjaro, instead of updating bashrc update ~/.zshrc
+
+
+
 ```bash
 nano .bashrc
 ```
