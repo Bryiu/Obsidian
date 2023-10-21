@@ -30,3 +30,17 @@
 - $X_C=\frac {1}{2 \pi f C}$
 
 ## RC Series Circuits
+- Solve for $R_T$ and $C_T$. Then find $X_{C_T}$
+	- $R_T=R_1+R_2$
+	- $X_{C_T}=X_{C_1}+X_{C_2}$
+		- ![[Pasted image 20231020184800.png]]
+		- $C_T= \frac {C_1*C_2}{C_1+C_2}$
+		- $C_T=\frac {1}{\frac{1}{C_1}+\frac{1}{C_2}+\frac{1}{C_3}}$
+
+>[!Caution]
+>If only solving a circuit with capacitors
+
+- $I_T=\frac {V_{pp}}{X_{C_T}}$
+- $V_C=I_T*X_{C_T}$
+	- ![[Pasted image 20231020185851.png]] ![[Pasted image 20231020185910.png]] 
+- 
