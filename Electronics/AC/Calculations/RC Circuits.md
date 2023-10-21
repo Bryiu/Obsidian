@@ -62,4 +62,18 @@
 - $V_{R_1}=I_T*R_1$
 - $V_{C_1}=I_T*X_{C_1}$
 - $V_A=\sqrt {{V_{R_1}}^2+{V_{C_1}}^2}$
-- 
+## Power
+### Real
+
+- Power consumed by the resistor
+- $P_R=V_R*I_R$
+
+### Reactive
+
+- Power in the inductor
+- $P_L=V_L*I_L$
+
+### Apparent
+
+- The combination of Real and Reactive power
+- $P_A=V_A*I_T$
