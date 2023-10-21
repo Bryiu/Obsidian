@@ -57,4 +57,7 @@
 - $Z_T=\sqrt {R^2+{X_C}^2}$
 	- ![[Pasted image 20231020193221.png]] ![[Pasted image 20231020193237.png]] 
 - $I_T=\frac {V_{pp}}{Z_T}$
+#### Voltage Drops
+- $V_{R_1}=I_T*R_1$
+- $V_{C_1}=I_T*X_{C_1}$
 - 
