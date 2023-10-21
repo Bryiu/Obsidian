@@ -30,6 +30,7 @@
 - $X_C=\frac {1}{2 \pi f C}$
 
 ## RC Series Circuits
+- Best to solve itemized to find voltage drops
 - Solve for $R_T$ and $C_T$. Then find $X_{C_T}$
 	- $R_T=R_1+R_2$
 	- $C_T= \frac {C_1*C_2}{C_1+C_2}$
@@ -60,4 +61,5 @@
 #### Voltage Drops
 - $V_{R_1}=I_T*R_1$
 - $V_{C_1}=I_T*X_{C_1}$
+- $V_A=\sqrt {{V_{R_1}}^2+{V_{C_1}}^2}$
 - 
