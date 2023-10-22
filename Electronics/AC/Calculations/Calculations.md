@@ -3,3 +3,4 @@
 [[RL Parallel Circuits]]
 [[RL Filters]]
 [[RC Circuits]]
+[[RC Parallel Circuits]]

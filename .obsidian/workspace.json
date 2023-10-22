@@ -11,8 +11,10 @@
             "id": "dbbdb75f89484950",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "Electronics/AC/Calculations"
+              }
             }
           }
         ]
@@ -197,6 +199,7 @@
   },
   "active": "dbbdb75f89484950",
   "lastOpenFiles": [
+    "Electronics/AC/Calculations/RC Parallel Circuits.md",
     "Linux/Process's/Bash Scripting.md",
     "Electronics/AC/Calculations/RC Circuits.md",
     "Electronics/AC/Calculations/RL Series Circuits.md",
