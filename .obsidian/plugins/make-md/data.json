@@ -39,8 +39,8 @@
       "Quasar/Quasar Process's",
       "R Lang/Deployment",
       "Windows/Windows Terminal",
-      "Electronics/Electronics Equations/AC",
       "Linux/Process's",
+      "Electronics/Electronics Equations/AC",
       "/",
       "Electronics",
       "Electronics/AC",
@@ -71,7 +71,6 @@
   "hiddenExtensions": [
     ".mdb"
   ],
-  "newFileLocation": "root",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": true,
@@ -83,7 +82,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1698088132240,
+  "spacesAutoBackupLast": 1698100803223,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
