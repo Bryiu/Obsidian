@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e2b347f18ecd872e",
+        "id": "67fe61594d7a7e7f",
         "type": "tabs",
         "children": [
           {
-            "id": "dbbdb75f89484950",
+            "id": "70f5bb5c6c14b78d",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
-              "state": {
-                "contextPath": "Electronics/AC/Calculations"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -140,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1ac24f9adfb80870",
@@ -197,11 +195,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "dbbdb75f89484950",
+  "active": "70f5bb5c6c14b78d",
   "lastOpenFiles": [
+    "Electronics/AC/Calculations/RL Parallel Circuits.md",
     "Electronics/AC/Calculations/RC Parallel Circuits.md",
-    "Linux/Process's/Bash Scripting.md",
     "Electronics/AC/Calculations/RC Circuits.md",
+    "Source/Pasted image 20231022153432.png",
+    "Linux/Process's/Bash Scripting.md",
     "Electronics/AC/Calculations/RL Series Circuits.md",
     "Source/Pasted image 20231020193237.png",
     "Source/Pasted image 20231020193221.png",
@@ -212,8 +212,6 @@
     "Source/Pasted image 20231020184800.png",
     "Source/Pasted image 20231020174602.png",
     "Source/Pasted image 20231020173738.png",
-    "Source/Pasted image 20231020152728.png",
-    "Electronics/AC/Calculations/RL Parallel Circuits.md",
     "Linux/Bash Commands.md",
     "Source/10/20/2023",
     "Source/10/20",
@@ -240,7 +238,6 @@
     "Electronics/AC/Calculations/Calculations.md",
     "Electronics/AC/Untitled.md",
     "Electronics/AC/Calculations",
-    "Electronics/DC/Complex Circuits.md",
     "Electronics/DC/Equations",
     "Excalidraw",
     "Electronics/DC",
