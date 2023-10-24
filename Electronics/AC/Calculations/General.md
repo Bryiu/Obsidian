@@ -79,3 +79,9 @@
 ## Determining Voltage at a Phase angle
 - $Voltage\,at\,angle=sin(wave\degree)*max\, voltage$
 - 
+
+# Troubleshooting
+
+- When a capacitor is shorted, it reads 0 for resistance
+- A good capacitor will read INF
+	- Could also read INF when its open
