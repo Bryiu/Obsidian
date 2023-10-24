@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "482e0f7c207a5473",
+        "id": "356b2576d0e6601f",
         "type": "tabs",
         "children": [
           {
-            "id": "75d30088d4f3e6b9",
+            "id": "bace0bd9f44ec1e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Electronics/AC/Calculations/RL Parallel Circuits.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,27 +203,33 @@
       "graph:Open graph view": false
     }
   },
-  "active": "75d30088d4f3e6b9",
+  "active": "bace0bd9f44ec1e2",
   "lastOpenFiles": [
-    "Electronics/AC/Calculations/RL Filters.md",
+    "Electronics/AC/Calculations/RL Series Circuits.md",
+    "Electronics/AC/Calculations/RC Circuits.md",
+    "Electronics/AC/Calculations/General.md",
+    "Electronics/AC/RC Filters.md",
     "Source/Pasted image 20231023130851.png",
     "Source/Pasted image 20231023125638.png",
     "Source/Pasted image 20231023122643.png",
     "Source/Pasted image 20231023112520.png",
     "Source/Pasted image 20231023112452.png",
+    "Electronics/AC/Calculations/RL Parallel Circuits.md",
+    "Electronics/AC/Calculations/RC Parallel Circuits.md",
     "Source/Pasted image 20231022153432.png",
+    "Linux/Process's/Bash Scripting.md",
     "Source/Pasted image 20231020193237.png",
     "Source/Pasted image 20231020193221.png",
     "Source/Pasted image 20231020192737.png",
     "Source/Pasted image 20231020192702.png",
+    "Linux/Bash Commands.md",
+    "Source/10/20/2023",
+    "Source/10/20",
     "Source/10",
-    "Electronics/AC/RC Filters.md",
-    "Electronics/AC/Calculations/RC Parallel Circuits.md",
-    "Electronics/AC/Calculations/RC Circuits.md",
-    "Electronics/AC/Calculations/RL Parallel Circuits.md",
-    "Electronics/AC/Calculations/RL Series Circuits.md",
-    "Electronics/AC/Calculations/General.md",
+    "Source/Untitled.md",
+    "Electronics/AC/Theory.md",
     "Electronics/Electronic Components.md",
+    "Electronics/AC/Calculations/RL Filters.md",
     "Untitled.md",
     "Source/DC",
     "Electronics/Equipment/Oscilliscopes/Oscilliscopes.md",
@@ -238,18 +244,11 @@
     "Electronics/DC/Equations/Equations.md",
     "Electronics/DC/Equations/Electronics Equations(Origin).md",
     "Electronics/DC/Equations/Complex Circuits.md",
-    "Electronics/AC/Theory.md",
     "Electronics/AC/Calculations/Calculations.md",
-    "Electronics/AC/Untitled.md",
     "Electronics/AC/Calculations",
-    "Electronics/DC/Complex Circuits.md",
-    "Electronics/DC/Untitled.md",
     "Electronics/DC/Equations",
-    "Electronics/DC/DC.md",
     "Excalidraw",
     "Electronics/DC",
-    "Electronics/AC",
-    "Context/Obsidian.mdb",
-    "Electronics/Electronics Equations"
+    "Electronics/AC"
   ]
 }
