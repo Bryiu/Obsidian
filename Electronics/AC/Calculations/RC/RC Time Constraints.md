@@ -9,4 +9,11 @@
 	- If $T_{C_1}$ = 1 second then $T_{C_2} = 2 seconds, etc
 		- ![[Pasted image 20231025123922.png]] 
 	- It takes five time constants for a capacitor to charge fully
-	- 
+		- ![[Pasted image 20231025130236.png]] 
+	- 5 time constants to discharge fully (Less than 1%)
+		- ![[Pasted image 20231025130134.png]] 
+
+# Calculating Charge or Discharge Time
+
+- $\% V_A*V_A= charge$
+- 
