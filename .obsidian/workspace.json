@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b8740e99424a8069",
+        "id": "482e0f7c207a5473",
         "type": "tabs",
         "children": [
           {
-            "id": "466aff8244c7521e",
+            "id": "75d30088d4f3e6b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/AC/Calculations/General.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics/AC/Calculations/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics/AC/Calculations/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics/AC/Calculations/General.md"
+              }
             }
           },
           {
@@ -182,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 352.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,33 +203,27 @@
       "graph:Open graph view": false
     }
   },
-  "active": "466aff8244c7521e",
+  "active": "75d30088d4f3e6b9",
   "lastOpenFiles": [
-    "Electronics/AC/Calculations/RC Parallel Circuits.md",
-    "Electronics/AC/Calculations/RC Circuits.md",
     "Electronics/AC/Calculations/RL Parallel Circuits.md",
-    "Electronics/AC/Calculations/RL Series Circuits.md",
-    "Electronics/AC/Calculations/General.md",
-    "Electronics/AC/RC Filters.md",
+    "Electronics/AC/Calculations/RL Filters.md",
     "Source/Pasted image 20231023130851.png",
     "Source/Pasted image 20231023125638.png",
     "Source/Pasted image 20231023122643.png",
     "Source/Pasted image 20231023112520.png",
     "Source/Pasted image 20231023112452.png",
     "Source/Pasted image 20231022153432.png",
-    "Linux/Process's/Bash Scripting.md",
     "Source/Pasted image 20231020193237.png",
     "Source/Pasted image 20231020193221.png",
     "Source/Pasted image 20231020192737.png",
     "Source/Pasted image 20231020192702.png",
-    "Linux/Bash Commands.md",
-    "Source/10/20/2023",
-    "Source/10/20",
     "Source/10",
-    "Source/Untitled.md",
-    "Electronics/AC/Theory.md",
+    "Electronics/AC/RC Filters.md",
+    "Electronics/AC/Calculations/RC Parallel Circuits.md",
+    "Electronics/AC/Calculations/RC Circuits.md",
+    "Electronics/AC/Calculations/RL Series Circuits.md",
+    "Electronics/AC/Calculations/General.md",
     "Electronics/Electronic Components.md",
-    "Electronics/AC/Calculations/RL Filters.md",
     "Untitled.md",
     "Source/DC",
     "Electronics/Equipment/Oscilliscopes/Oscilliscopes.md",
@@ -236,11 +238,18 @@
     "Electronics/DC/Equations/Equations.md",
     "Electronics/DC/Equations/Electronics Equations(Origin).md",
     "Electronics/DC/Equations/Complex Circuits.md",
+    "Electronics/AC/Theory.md",
     "Electronics/AC/Calculations/Calculations.md",
+    "Electronics/AC/Untitled.md",
     "Electronics/AC/Calculations",
+    "Electronics/DC/Complex Circuits.md",
+    "Electronics/DC/Untitled.md",
     "Electronics/DC/Equations",
+    "Electronics/DC/DC.md",
     "Excalidraw",
     "Electronics/DC",
-    "Electronics/AC"
+    "Electronics/AC",
+    "Context/Obsidian.mdb",
+    "Electronics/Electronics Equations"
   ]
 }
