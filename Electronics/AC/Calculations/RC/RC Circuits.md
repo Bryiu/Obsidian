@@ -1,3 +1,8 @@
+
+>[!Warning]
+>Capacitive Reactance only applies to the sine wave
+
+
 - $V_{pk}=\frac{V_{pp}}{2}$
 - $V_{rms}=V_{pk}*0.707$
 - $I_{pk}=\frac{I_{pp}}{2}$

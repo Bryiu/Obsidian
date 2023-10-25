@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1ac24f9adfb80870",
@@ -205,6 +205,8 @@
   },
   "active": "75d30088d4f3e6b9",
   "lastOpenFiles": [
+    "Electronics/AC/Calculations/RC/RC Circuits.md",
+    "Electronics/AC/Calculations/General.md",
     "Electronics/AC/Calculations/RC/RC Transients.md",
     "conflict-files-obsidian-git.md",
     "Electronics/AC/Calculations/RC Parallel Circuits.md",
@@ -226,12 +228,10 @@
     "Electronics/AC/Calculations/RC/RC Time Constraints.md",
     "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
     "Electronics/AC/Calculations/RC/RC Filters.md",
-    "Electronics/AC/Calculations/RC/RC Circuits.md",
     "Electronics/AC/Calculations/RC",
     "Electronics/AC/RC Filters.md",
     "Electronics/AC/Calculations/RL Series Circuits.md",
     "Electronics/AC/Calculations/RL Parallel Circuits.md",
-    "Electronics/AC/Calculations/General.md",
     "Electronics/AC/Calculations/RL Filters.md",
     "Source/Pasted image 20231023130851.png",
     "Source/Pasted image 20231023125638.png",
