@@ -15,7 +15,7 @@
 - ==This is the principal of capacitive reactance==
 	- Capacitive reactance only applies to sine waves
 	- High capacitive reactance produces a short time constant
-	- Low capacitive reactance produces a short time constant
+	- Low capacitive reactance produces a long time constant
 
 # Coupling Capacitors
 
