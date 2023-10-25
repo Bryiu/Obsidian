@@ -1,0 +1,4 @@
+- Used to analyze the Capacitor's cycles
+	- ![[Pasted image 20231025112050.png]] ![[Pasted image 20231025112104.png]] 
+- Important in non-sinusoidal circuits to change the shape of input waveforms
+- 
