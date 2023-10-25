@@ -44,7 +44,9 @@
       "Electronics/AC/Calculations",
       "Electronics",
       "Electronics/AC",
-      "/"
+      "/",
+      "Electronics/AC/Calculations/RC",
+      "Electronics/AC/Calculations/RL"
     ]
   },
   "expandedSpaces": [
