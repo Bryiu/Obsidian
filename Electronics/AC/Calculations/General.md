@@ -78,7 +78,7 @@
 
 ## Determining Voltage at a Phase angle
 - $Voltage\,at\,angle=sin(wave\degree)*max\, voltage$
-- 
+
 
 # Troubleshooting
 
