@@ -5,3 +5,8 @@
 	- Charges and discharges
 - $R_L$ circuit represents Current
 	- energizes and de-energizes
+- $R_C$ time constants are the time it takes capacitors to charge or discharge
+	- If $T_{C_1}$ = 1 second then $T_{C_2} = 2 seconds, etc
+		- ![[Pasted image 20231025123922.png]] 
+	- It takes five time constants for a capacitor to charge fully
+	- 
