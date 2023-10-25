@@ -11,9 +11,11 @@
             "id": "466aff8244c7521e",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Electronics/AC/Calculations/RL"
+                "file": "Electronics/AC/Calculations/RC/RC Time Constraints.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -64,7 +66,7 @@
             }
           },
           {
-            "id": "9e3b282dadb2e444",
+            "id": "485e597201c76e19",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics/AC/Calculations/RC/RC Time Constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics/AC/Calculations/RC/RC Time Constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics/AC/Calculations/RC/RC Time Constraints.md"
+              }
             }
           },
           {
@@ -199,8 +205,9 @@
   },
   "active": "466aff8244c7521e",
   "lastOpenFiles": [
+    "Electronics/AC/Calculations/RC/RC Time Constraints.md",
+    "Electronics/AC/Calculations/RC/RC.md",
     "Electronics/AC/Calculations/RL/RL.md",
-    "Electronics/AC/Calculations/RC/Untitled.md",
     "Electronics/AC/Calculations/General.md",
     "Electronics/AC/Calculations/Untitled.md",
     "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
@@ -241,7 +248,6 @@
     "Electronics/Equipment/Oscilliscopes/Intro to Oscilliscopes.md",
     "Electronics/Equipment/Oscilliscopes",
     "Electronics/Equipment/Function Generator.md",
-    "Electronics/Equipment/Frequency Counter.md",
     "Electronics/AC/Calculations",
     "Electronics/DC/Equations",
     "Excalidraw"
