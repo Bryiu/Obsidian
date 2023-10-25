@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Time Constraints.md",
+                "file": "Electronics/AC/Calculations/RL/RL Time Constraints.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Time Constraints.md",
+                "file": "Electronics/AC/Calculations/RL/RL Time Constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Time Constraints.md",
+                "file": "Electronics/AC/Calculations/RL/RL Time Constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Time Constraints.md"
+                "file": "Electronics/AC/Calculations/RL/RL Time Constraints.md"
               }
             }
           },
@@ -205,12 +205,15 @@
   },
   "active": "466aff8244c7521e",
   "lastOpenFiles": [
+    "Source/Pasted image 20231025134136.png",
+    "Electronics/AC/Calculations/RC/RC Time Constraints.md",
+    "Electronics/AC/Calculations/RL/RL Time Constraints.md",
+    "Source/Pasted image 20231025132356.png",
     "Source/Pasted image 20231025130236.png",
     "Source/Pasted image 20231025130134.png",
     "Source/Pasted image 20231025123922.png",
     "Source/Pasted image 20231025112104.png",
     "Source/Pasted image 20231025112050.png",
-    "Electronics/AC/Calculations/RC/RC Time Constraints.md",
     "Electronics/AC/Calculations/RC/RC.md",
     "Electronics/AC/Calculations/RL/RL.md",
     "Electronics/AC/Calculations/General.md",
@@ -231,8 +234,6 @@
     "Source/Pasted image 20231023125638.png",
     "Source/Pasted image 20231023122643.png",
     "Source/Pasted image 20231023112520.png",
-    "Source/Pasted image 20231023112452.png",
-    "Source/Pasted image 20231022153432.png",
     "Linux/Process's/Bash Scripting.md",
     "Linux/Bash Commands.md",
     "Source/10/20/2023",
@@ -246,7 +247,6 @@
     "Source/DC",
     "Electronics/Equipment/Oscilliscopes/Oscilliscopes.md",
     "Electronics/Equipment/Oscilliscopes/Oscilliscope (Rigol DS1104Z).md",
-    "Electronics/Equipment/Oscilliscopes/Intro to Oscilliscopes.md",
     "Electronics/Equipment/Oscilliscopes",
     "Electronics/AC/Calculations",
     "Electronics/DC/Equations",
