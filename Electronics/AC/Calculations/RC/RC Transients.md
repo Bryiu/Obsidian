@@ -1,0 +1,6 @@
+- Occurs when the voltage across a capacitor changes
+- Transient - relation between change in current and change in voltage
+	- No change in applied voltage, no current
+- DC charge rate
+	- $T=R*C$
+- 

@@ -11,8 +11,12 @@
             "id": "75d30088d4f3e6b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/AC/Calculations/RC/RC Transients.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics/AC/Calculations/RC/RC Transients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics/AC/Calculations/RC/RC Transients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics/AC/Calculations/RC/RC Transients.md"
+              }
             }
           },
           {
@@ -197,6 +205,7 @@
   },
   "active": "75d30088d4f3e6b9",
   "lastOpenFiles": [
+    "Electronics/AC/Calculations/RC/RC Transients.md",
     "conflict-files-obsidian-git.md",
     "Electronics/AC/Calculations/RC Parallel Circuits.md",
     "Source/Pasted image 20231025140805.png",
@@ -237,7 +246,6 @@
     "Electronics/Equipment/Oscilliscopes",
     "Electronics/Equipment/Function Generator.md",
     "Electronics/Equipment/Frequency Counter.md",
-    "Electronics/DC/Equations/Series Parallel Equations.md",
     "Electronics/AC/Calculations",
     "Electronics/DC/Equations",
     "Excalidraw",
