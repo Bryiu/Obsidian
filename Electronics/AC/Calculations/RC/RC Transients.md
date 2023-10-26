@@ -23,3 +23,6 @@
 - For coupling capacitors to work, a long time constant is required so the capacitor has little time to charge and discharge with input variations
 	- A short time constant would cause capacitive reactance, dropping some of the AC signal
 - 
+
+# Transient Faults
+- need notes
