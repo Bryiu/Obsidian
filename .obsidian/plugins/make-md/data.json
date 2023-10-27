@@ -44,11 +44,11 @@
       "Electronics/AC/Calculations/RC",
       "Electronics/AC/Calculations/RL",
       "Electronics/AC/Calculations/LCR Circuits",
-      "Electronics/AC/Calculations/LCR",
       "/",
       "Electronics",
       "Electronics/AC",
-      "Electronics/AC/Calculations"
+      "Electronics/AC/Calculations",
+      "Electronics/AC/Calculations/LCR"
     ]
   },
   "expandedSpaces": [
@@ -87,7 +87,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1698424532891,
+  "spacesAutoBackupLast": 1698427179891,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
