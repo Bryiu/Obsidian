@@ -48,7 +48,8 @@
       "Electronics",
       "Electronics/AC",
       "Electronics/AC/Calculations",
-      "Electronics/AC/Calculations/LCR"
+      "Electronics/AC/Calculations/LCR",
+      "Electronics/AC/Calculations/Transformers"
     ]
   },
   "expandedSpaces": [
@@ -87,7 +88,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1698427179891,
+  "spacesAutoBackupLast": 1698449822290,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
