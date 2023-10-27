@@ -76,3 +76,11 @@
 
 - $I_T=\sqrt{{I_R}^2+(I_L-I_C)^2}$
 
+# Troubleshooting
+- Good resistor reads measured value
+- Good inductor reads a low ohm
+- Good capacitor reads infinity
+
+- Open Inductor reads infinity
+- Open resistor reads infinity
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Transients.md",
+                "file": "Electronics/AC/Calculations/LCR/LCR Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Transients.md",
+                "file": "Electronics/AC/Calculations/LCR/LCR Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Transients.md",
+                "file": "Electronics/AC/Calculations/LCR/LCR Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Transients.md"
+                "file": "Electronics/AC/Calculations/LCR/LCR Circuits.md"
               }
             }
           },
@@ -205,6 +205,8 @@
   },
   "active": "75d30088d4f3e6b9",
   "lastOpenFiles": [
+    "Electronics/AC/Calculations/LCR/Untitled.md",
+    "Electronics/AC/Calculations/RC/RC Transients.md",
     "Source/Pasted image 20231026155910.png",
     "Source/Pasted image 20231026155650.png",
     "Source/Pasted image 20231026155523.png",
@@ -215,7 +217,6 @@
     "Source/Pasted image 20231026151518.png",
     "Source/Pasted image 20231026151449.png",
     "Source/Pasted image 20231026151403.png",
-    "Source/Pasted image 20231026151306.png",
     "Electronics/AC/Calculations/LCR/Series Resonance.md",
     "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
     "Electronics/AC/Calculations/LCR/LCR.md",
@@ -223,7 +224,6 @@
     "Electronics/AC/Calculations/LCR",
     "Electronics/AC/Calculations/RC/RC Circuits.md",
     "Electronics/AC/Calculations/General.md",
-    "Electronics/AC/Calculations/RC/RC Transients.md",
     "conflict-files-obsidian-git.md",
     "Electronics/AC/Calculations/RC Parallel Circuits.md",
     "Electronics/AC/Calculations/RL/RL.md",
