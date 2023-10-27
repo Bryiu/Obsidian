@@ -21,7 +21,7 @@
   "spacesCompactMode": false,
   "defaultDateFormat": "MMM dd yyyy",
   "spacesEnabled": true,
-  "spacesPerformance": true,
+  "spacesPerformance": false,
   "collapsedTags": [],
   "enableFolderNote": true,
   "folderIndentationLines": true,
@@ -39,16 +39,14 @@
       "Quasar/Quasar Process's",
       "R Lang/Deployment",
       "Windows/Windows Terminal",
-      "Electronics/Electronics Equations/AC",
       "Linux/Process's",
-      "Electronics/AC/Calculations/RC",
+      "Electronics/Electronics Equations/AC",
       "Electronics/AC/Calculations/RL",
-      "Electronics/AC/Calculations/LCR Circuits",
       "/",
       "Electronics",
       "Electronics/AC",
       "Electronics/AC/Calculations",
-      "Electronics/AC/Calculations/LCR"
+      "Electronics/AC/Calculations/RC"
     ]
   },
   "expandedSpaces": [
@@ -87,7 +85,7 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1698357551707,
+  "spacesAutoBackupLast": 1698367597651,
   "spacesUseAlias": false,
   "precreateVaultSpace": true,
   "fmKeyAlias": "aliases",
