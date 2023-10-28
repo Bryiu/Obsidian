@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
+                "file": "Electronics/AC/Calculations/Transformers/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
+                "file": "Electronics/AC/Calculations/Transformers/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
+                "file": "Electronics/AC/Calculations/Transformers/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Calculations/LCR/Parallel Resonance.md"
+                "file": "Electronics/AC/Calculations/Transformers/Untitled.md"
               }
             }
           },
@@ -203,12 +203,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "485e597201c76e19",
+  "active": "a9620b17ad5fa584",
   "lastOpenFiles": [
+    "Index.md",
+    "Electronics/AC/Calculations/Transformers/Untitled.md",
+    "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
     "Electronics/AC/Calculations/Transformers",
     "Electronics/AC/Calculations/LCR/Series Resonance.md",
     "Source/Pasted image 20231027111938.png",
-    "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
     "Source/Pasted image 20231026155910.png",
     "Source/Pasted image 20231026155650.png",
     "Source/Pasted image 20231026155523.png",
@@ -243,13 +245,11 @@
     "Electronics/AC/Calculations/RC Circuits.md",
     "Electronics/AC/Calculations/RL Parallel Circuits.md",
     "Electronics/AC/Calculations/RC Filters.md",
-    "Linux/Process's/Bash Scripting.md",
     "Source/10/20/2023",
     "Source/10/20",
     "Source/10",
     "Source/DC",
     "Electronics/Equipment/Oscilliscopes",
-    "Electronics/AC/Calculations",
-    "Electronics/DC/Equations"
+    "Electronics/AC/Calculations"
   ]
 }
