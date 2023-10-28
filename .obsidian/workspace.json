@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/AC/Calculations/Transformers/Untitled.md",
+                "file": "Electronics/AC/Calculations/Transformers/Transformer.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/Transformers/Untitled.md",
+                "file": "Electronics/AC/Calculations/Transformers/Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/Transformers/Untitled.md",
+                "file": "Electronics/AC/Calculations/Transformers/Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Calculations/Transformers/Untitled.md"
+                "file": "Electronics/AC/Calculations/Transformers/Transformer.md"
               }
             }
           },
@@ -205,8 +205,16 @@
   },
   "active": "a9620b17ad5fa584",
   "lastOpenFiles": [
+    "Source/Pasted image 20231027192730.png",
+    "Source/Pasted image 20231027191428.png",
+    "Source/Pasted image 20231027190609.png",
+    "Source/Pasted image 20231027185019.png",
+    "Source/Pasted image 20231027184928.png",
+    "Source/Pasted image 20231027184909.png",
+    "Electronics/AC/Calculations/Transformers/Transformers.md",
+    "Electronics/AC/Calculations/Transformers/Transformer.md",
+    "Electronics/Electronic Components.md",
     "Index.md",
-    "Electronics/AC/Calculations/Transformers/Untitled.md",
     "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
     "Electronics/AC/Calculations/Transformers",
     "Electronics/AC/Calculations/LCR/Series Resonance.md",
@@ -215,12 +223,7 @@
     "Source/Pasted image 20231026155650.png",
     "Source/Pasted image 20231026155523.png",
     "Source/Pasted image 20231026155145.png",
-    "Source/Pasted image 20231026154904.png",
     "Electronics/AC/Calculations/LCR/LCR Circuits.md",
-    "Source/Pasted image 20231026152320.png",
-    "Source/Pasted image 20231026152054.png",
-    "Source/Pasted image 20231026151518.png",
-    "Source/Pasted image 20231026151449.png",
     "Electronics/AC/Calculations/Calculations.md",
     "Electronics/AC/Calculations/LCR/LCR.md",
     "Electronics/AC/AC.md",
@@ -242,9 +245,6 @@
     "Electronics/AC/Calculations/RC",
     "Electronics/AC/Calculations/RL",
     "Electronics/AC/Calculations/RC Parallel Circuits.md",
-    "Electronics/AC/Calculations/RC Circuits.md",
-    "Electronics/AC/Calculations/RL Parallel Circuits.md",
-    "Electronics/AC/Calculations/RC Filters.md",
     "Source/10/20/2023",
     "Source/10/20",
     "Source/10",
