@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/AC/Calculations/Transformers/Transformer.md",
+                "file": "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/Transformers/Transformer.md",
+                "file": "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/Transformers/Transformer.md",
+                "file": "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Calculations/Transformers/Transformer.md"
+                "file": "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md"
               }
             }
           },
@@ -205,8 +205,14 @@
   },
   "active": "a9620b17ad5fa584",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Source/Pasted image 20231029145512.png",
+    "Source/Pasted image 20231029144232.png",
+    "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md",
+    "Electronics/AC/Calculations/Relays and Switches/Relays and Switches.md",
+    "Electronics/AC/Calculations/Transformers/Transformer.md",
     "Electronics/AC/Calculations/LCR/Untitled.md",
+    "Electronics/AC/Calculations/Relays and Switches",
+    "conflict-files-obsidian-git.md",
     "Source/Pasted image 20231027192730.png",
     "Source/Pasted image 20231027191428.png",
     "Source/Pasted image 20231027190609.png",
@@ -214,7 +220,6 @@
     "Source/Pasted image 20231027184928.png",
     "Source/Pasted image 20231027184909.png",
     "Electronics/AC/Calculations/Transformers/Transformers.md",
-    "Electronics/AC/Calculations/Transformers/Transformer.md",
     "Electronics/Electronic Components.md",
     "Index.md",
     "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
@@ -223,7 +228,6 @@
     "Source/Pasted image 20231027111938.png",
     "Source/Pasted image 20231026155910.png",
     "Source/Pasted image 20231026155650.png",
-    "Source/Pasted image 20231026155523.png",
     "Electronics/AC/Calculations/LCR/LCR Circuits.md",
     "Electronics/AC/Calculations/Calculations.md",
     "Electronics/AC/Calculations/LCR/LCR.md",
@@ -240,16 +244,12 @@
     "Electronics/AC/Calculations/RC/RC Transients.md",
     "Electronics/AC/Calculations/RC/RC.md",
     "Electronics/AC/Calculations/RL/RL.md",
-    "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
-    "Electronics/AC/Calculations/RC/RC Filters.md",
-    "Electronics/AC/Calculations/RL/RL Filters.md",
     "Electronics/AC/Calculations/RC",
     "Electronics/AC/Calculations/RL",
     "Source/10/20/2023",
     "Source/10/20",
     "Source/10",
     "Source/DC",
-    "Electronics/Equipment/Oscilliscopes",
-    "Electronics/AC/Calculations"
+    "Electronics/Equipment/Oscilliscopes"
   ]
 }
