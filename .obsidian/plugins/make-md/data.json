@@ -44,13 +44,13 @@
       "Electronics/AC/Calculations/RC",
       "Electronics/AC/Calculations/RL",
       "Electronics/AC/Calculations/LCR Circuits",
-      "Electronics/AC/Calculations/LCR",
       "Electronics/AC/Calculations/Transformers",
-      "Electronics/AC",
-      "Electronics/AC/Calculations",
       "Electronics/AC/Calculations/Relays and Switches",
+      "Electronics/AC/Calculations/LCR",
       "/",
-      "Electronics"
+      "Electronics",
+      "Electronics/AC",
+      "Electronics/AC/Calculations"
     ]
   },
   "expandedSpaces": [
