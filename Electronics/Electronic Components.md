@@ -95,3 +95,10 @@
 
 - Varying the value of inductance. 
 - used in transmitters and recievers
+
+# Electrical circuits
+
+- Diodes rectify the AC to DC
+	- When a negative voltage is applied, the diode is reversed biased. No current flows through a reversed biased
+		- ![[Pasted image 20231029211217.png]] 
+- left off at 1260

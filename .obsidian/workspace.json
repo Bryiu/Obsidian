@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md",
+                "file": "Electronics/Electronic Components.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md",
+                "file": "Electronics/Electronic Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md",
+                "file": "Electronics/Electronic Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md"
+                "file": "Electronics/Electronic Components.md"
               }
             }
           },
@@ -205,9 +205,11 @@
   },
   "active": "a9620b17ad5fa584",
   "lastOpenFiles": [
+    "Source/Pasted image 20231029211217.png",
+    "Electronics/Electronic Components.md",
+    "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md",
     "Source/Pasted image 20231029145512.png",
     "Source/Pasted image 20231029144232.png",
-    "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md",
     "Electronics/AC/Calculations/Relays and Switches/Relays and Switches.md",
     "Electronics/AC/Calculations/Transformers/Transformer.md",
     "Electronics/AC/Calculations/LCR/Untitled.md",
@@ -220,14 +222,12 @@
     "Source/Pasted image 20231027184928.png",
     "Source/Pasted image 20231027184909.png",
     "Electronics/AC/Calculations/Transformers/Transformers.md",
-    "Electronics/Electronic Components.md",
     "Index.md",
     "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
     "Electronics/AC/Calculations/Transformers",
     "Electronics/AC/Calculations/LCR/Series Resonance.md",
     "Source/Pasted image 20231027111938.png",
     "Source/Pasted image 20231026155910.png",
-    "Source/Pasted image 20231026155650.png",
     "Electronics/AC/Calculations/LCR/LCR Circuits.md",
     "Electronics/AC/Calculations/Calculations.md",
     "Electronics/AC/Calculations/LCR/LCR.md",
