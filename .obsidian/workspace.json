@@ -11,9 +11,11 @@
             "id": "a9620b17ad5fa584",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Electronics/AC/Calculations/Relays and Switches"
+                "file": "Electronics/AC/Calculations/LCR/LCR Circuits.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -64,15 +66,14 @@
             }
           },
           {
-            "id": "485e597201c76e19",
+            "id": "4eb9c3cc7d53e095",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics/AC/Calculations/LCR/LCR Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics/AC/Calculations/LCR/LCR Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics/AC/Calculations/LCR/LCR Circuits.md"
+              }
             }
           },
           {
@@ -200,6 +205,12 @@
   "active": "a9620b17ad5fa584",
   "lastOpenFiles": [
     "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
+    "Electronics/AC/Calculations/LCR/LCR Circuits.md",
+    "Electronics/AC/Calculations/LCR/LCR.md",
+    "Context/Obsidian.mdb",
+    "Electronics/AC/Calculations/RL/RL Series Circuits.md",
+    "Index.md",
+    "Untitled.md",
     "Electronics/AC/Calculations/LCR/Series Resonance.md",
     "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md",
     "Electronics/Electronic Components.md",
@@ -218,15 +229,11 @@
     "Source/Pasted image 20231027184928.png",
     "Source/Pasted image 20231027184909.png",
     "Electronics/AC/Calculations/Transformers/Transformers.md",
-    "Index.md",
     "Electronics/AC/Calculations/Transformers",
     "Source/Pasted image 20231027111938.png",
-    "Electronics/AC/Calculations/LCR/LCR Circuits.md",
     "Electronics/AC/Calculations/Calculations.md",
-    "Electronics/AC/Calculations/LCR/LCR.md",
     "Electronics/AC/AC.md",
     "Electronics/AC/Theory.md",
-    "Electronics/AC/Calculations/RL/RL Series Circuits.md",
     "Electronics/AC/Calculations/RC/RC Circuits.md",
     "Electronics/AC/Calculations/RL/RL Parallel Circuits.md",
     "Electronics/AC/Calculations/General.md",
@@ -236,13 +243,11 @@
     "Electronics/AC/Calculations/RC/RC Time Constraints.md",
     "Electronics/AC/Calculations/RC/RC Transients.md",
     "Electronics/AC/Calculations/RC/RC.md",
-    "Electronics/AC/Calculations/RL/RL.md",
     "Electronics/AC/Calculations/RC",
     "Electronics/AC/Calculations/RL",
     "Source/10/20/2023",
     "Source/10/20",
     "Source/10",
-    "Source/DC",
-    "Electronics/Equipment/Oscilliscopes"
+    "Source/DC"
   ]
 }
