@@ -84,3 +84,5 @@
 - Open Inductor reads infinity
 - Open resistor reads infinity
 
+# Bandwidth
+

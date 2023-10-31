@@ -68,3 +68,20 @@
 # Magnification
 
 - At resonance, if the value of $R$ is a lot less than the values of $X_L$ and $X_C$ the voltage across the reactive components can be much larger than the applied voltage
+
+# Bandwidth
+
+
+
+- A highly selective circuit responds to a narrow group of frequencies
+	- frequency range that is 70.7% of the maximum circuit
+- $Q=\frac {f_r}{BW}$
+	- $Q$ for series resonant circuit is the reactive power in either the coil or capacitor divided by the true power
+	- $BW=f>(.707*I)$
+- $Q=\frac {1}{R}\sqrt{\frac{L}{C}}$
+- For a highly selective circuit R is minimum 
+	- $L/C$ ratio is made high
+- $Q$ can also be computed with
+	- $Q=\frac {X_L}{R}$
+	- Used because the resistance of the inductor is usually dominant
+- 
