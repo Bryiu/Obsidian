@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/AC/Calculations/LCR/Series Resonance.md",
+                "file": "Electronics/AC/Calculations/Transformers/Transformer.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/LCR/Series Resonance.md",
+                "file": "Electronics/AC/Calculations/Transformers/Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/LCR/Series Resonance.md",
+                "file": "Electronics/AC/Calculations/Transformers/Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Calculations/LCR/Series Resonance.md"
+                "file": "Electronics/AC/Calculations/Transformers/Transformer.md"
               }
             }
           },
@@ -217,6 +217,8 @@
   },
   "active": "01586397ce58c797",
   "lastOpenFiles": [
+    "Electronics/AC/Calculations/Transformers/Transformers.md",
+    "Electronics/AC/Calculations/LCR/Series Resonance.md",
     "Electronics/AC/Calculations/LCR/LCR Circuits.md",
     "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
     "Electronics/AC/Calculations/LCR/LCR.md",
@@ -225,7 +227,6 @@
     "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
     "Electronics/AC/Calculations/RL/RL Parallel Circuits.md",
     "Electronics/Electronic Components.md",
-    "Electronics/AC/Calculations/LCR/Series Resonance.md",
     "conflict-files-obsidian-git.md",
     "Source/Pasted image 20231029211217.png",
     "Source/Pasted image 20231029145512.png",
@@ -240,7 +241,6 @@
     "Source/Pasted image 20231027184928.png",
     "Source/Pasted image 20231027184909.png",
     "Source/Pasted image 20231027111938.png",
-    "Electronics/AC/Calculations/Transformers/Transformers.md",
     "Electronics/AC/Calculations/Transformers/Transformer.md",
     "Electronics/AC/Calculations/Transformers",
     "Electronics/AC/Calculations/LCR/Untitled.md",

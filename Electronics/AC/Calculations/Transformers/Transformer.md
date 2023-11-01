@@ -42,9 +42,8 @@
 # Voltage
 
 - $Voltage \, ratio= \frac {V_p}{V_s}=V_p:V_s$
-- $P_p=P_{S_1}+P_{S_2}$
-- $P_p=\frac {I_p}{V_p}$
-
+- $V_s=V_p*\frac {N_s}{N_p}$
+- 
 
 # Current
 
@@ -60,4 +59,7 @@
 
 ![[Pasted image 20231027192730.png]] 
 
-- 
+# Power
+
+- $P_p=P_{S_1}+P_{S_2}$
+- $P_p=\frac {I_p}{V_p}$

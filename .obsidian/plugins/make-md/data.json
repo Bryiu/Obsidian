@@ -43,11 +43,12 @@
       "Electronics/Electronics Equations/AC",
       "Electronics/AC/Calculations/RL",
       "Electronics/AC/Calculations/RC",
+      "Electronics/AC/Calculations/LCR",
       "/",
       "Electronics",
       "Electronics/AC",
       "Electronics/AC/Calculations",
-      "Electronics/AC/Calculations/LCR"
+      "Electronics/AC/Calculations/Transformers"
     ]
   },
   "expandedSpaces": [
