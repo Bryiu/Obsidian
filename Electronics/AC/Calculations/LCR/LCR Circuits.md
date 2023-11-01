@@ -86,6 +86,3 @@ banner: Source/10/Selection_026.png
 
 - Open Inductor reads infinity
 - Open resistor reads infinity
-
-# Bandwidth
-
