@@ -66,14 +66,15 @@
             }
           },
           {
-            "id": "4eb9c3cc7d53e095",
+            "id": "b0eee48cc19f0d56",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -204,10 +205,14 @@
   },
   "active": "a9620b17ad5fa584",
   "lastOpenFiles": [
+    "Spaces/Home/Home.md",
+    "Spaces/Home",
+    "Spaces/Obsidian",
+    "Spaces",
     "Electronics/AC/Calculations/LCR/LCR Circuits.md",
     "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
     "Electronics/AC/Calculations/LCR/LCR.md",
-    "Context/Obsidian.mdb",
+    "Spaces/Obsidian/.space/context.mdb",
     "Electronics/AC/Calculations/RL/RL Series Circuits.md",
     "Index.md",
     "Untitled.md",
@@ -245,9 +250,6 @@
     "Electronics/AC/Calculations/RC/RC.md",
     "Electronics/AC/Calculations/RC",
     "Electronics/AC/Calculations/RL",
-    "Source/10/20/2023",
-    "Source/10/20",
-    "Source/10",
-    "Source/DC"
+    "Source/10/20/2023"
   ]
 }
