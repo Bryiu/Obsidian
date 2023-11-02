@@ -1,3 +1,6 @@
+---
+banner: Source/10/Selection_026.png
+---
 - The circuit effect on the conductor and capacitor cancel each other
 	- ![[Pasted image 20231026114907.png]]
 - $X_L = X_C$
