@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be9e7b67b9d1f8ce",
+        "id": "c0394786d038c3d6",
         "type": "tabs",
         "children": [
           {
-            "id": "e63c85810a628a23",
+            "id": "711fef40a0d6c86d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -213,6 +213,9 @@
   },
   "active": "930efed7aed73fa7",
   "lastOpenFiles": [
+    "Source/11/Pasted image 20231029211217.png",
+    "Source/11/Pasted image 20231020184800.png",
+    "Source/11",
     "Electronics/DC/Equations/Electronics Equations(Origin).md",
     "Electronics/AC/Calculations/Transformers/Transformer.md",
     "Spaces/Home/Home.md",
@@ -229,22 +232,21 @@
     "Electronics/AC/Calculations/LCR/Series Resonance.md",
     "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md",
     "Electronics/Electronic Components.md",
-    "Source/Pasted image 20231029211217.png",
-    "Source/Pasted image 20231029145512.png",
-    "Source/Pasted image 20231029144232.png",
+    "Source/11/Pasted image 20231029145512.png",
+    "Source/11/Pasted image 20231029144232.png",
     "Electronics/AC/Calculations/Relays and Switches/Relays and Switches.md",
     "Electronics/AC/Calculations/LCR/Untitled.md",
     "Electronics/AC/Calculations/Relays and Switches",
     "conflict-files-obsidian-git.md",
-    "Source/Pasted image 20231027192730.png",
-    "Source/Pasted image 20231027191428.png",
-    "Source/Pasted image 20231027190609.png",
-    "Source/Pasted image 20231027185019.png",
-    "Source/Pasted image 20231027184928.png",
-    "Source/Pasted image 20231027184909.png",
+    "Source/11/Pasted image 20231027192730.png",
+    "Source/11/Pasted image 20231027191428.png",
+    "Source/11/Pasted image 20231027190609.png",
+    "Source/11/Pasted image 20231027185019.png",
+    "Source/11/Pasted image 20231027184928.png",
+    "Source/11/Pasted image 20231027184909.png",
     "Electronics/AC/Calculations/Transformers/Transformers.md",
     "Electronics/AC/Calculations/Transformers",
-    "Source/Pasted image 20231027111938.png",
+    "Source/11/Pasted image 20231027111938.png",
     "Electronics/AC/Calculations/Calculations.md",
     "Electronics/AC/AC.md",
     "Electronics/AC/Theory.md",
@@ -255,9 +257,7 @@
     "Electronics/AC/Calculations/Untitled.md",
     "Electronics/AC/Calculations/RL/RL Time Constraints.md",
     "Electronics/AC/Calculations/RC/RC Time Constraints.md",
-    "Electronics/AC/Calculations/RC/RC Transients.md",
     "Electronics/AC/Calculations/RC",
-    "Electronics/AC/Calculations/RL",
-    "Source/10/20/2023"
+    "Electronics/AC/Calculations/RL"
   ]
 }
