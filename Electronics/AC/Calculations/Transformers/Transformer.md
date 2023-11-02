@@ -36,7 +36,10 @@
 # Turns Ratio
 
 - Number of turns in the primary to the secondary
-	- $Turns \, ratio= \frac {N_p}{N_s}=N_p:N_s$
+	- $Turns \, ratio (n)= \frac {N_p}{N_s}=N_p:N_s$
+	- $V_s=nV_p$
+	- $n=\sqrt {\frac{R_{load}}{R_{source}}}$
+	- 
 
 
 # Voltage

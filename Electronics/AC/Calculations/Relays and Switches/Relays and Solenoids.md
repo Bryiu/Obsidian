@@ -21,4 +21,6 @@
 
 - Relays have a stationary core
 - Solenoids have a movable core
-	- 
+
+# Troubleshooting
+
