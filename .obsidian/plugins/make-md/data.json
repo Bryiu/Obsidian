@@ -45,11 +45,11 @@
       "Electronics/AC/Calculations/Relays and Switches",
       "Electronics/AC/Calculations/RC",
       "Electronics/AC/Calculations/RL",
+      "/",
       "Electronics",
       "Electronics/AC",
       "Electronics/AC/Calculations",
-      "Electronics/AC/Calculations/LCR",
-      "/"
+      "Electronics/AC/Calculations/LCR"
     ]
   },
   "expandedSpaces": [
