@@ -25,6 +25,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d6d2b7b713cf7e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/AC/Calculations/LCR/LCR Circuits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab63a01a925a1557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
@@ -32,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "phase angle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,53 +239,53 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0f11e0dacde2d182",
+  "active": "ab63a01a925a1557",
   "lastOpenFiles": [
-    "Electronics/AC/Calculations/RL/RL Parallel Circuits.md",
-    "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
-    "Electronics/AC/Calculations/RL/RL Series Circuits.md",
-    "Electronics/AC/Calculations/RL/RL Time Constraints.md",
-    "Electronics/AC/Calculations/RC/RC Circuits.md",
     "Electronics/AC/Calculations/LCR/LCR Circuits.md",
     "conflict-files-obsidian-git.md",
+    "Electronics/AC/Calculations/RL/RL Parallel Circuits.md",
+    "Electronics/AC/Calculations/General.md",
+    "Electronics/AC/Theory.md",
+    "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
+    "Electronics/AC/Calculations/RC/RC Circuits.md",
+    "Electronics/AC/Calculations/RC/RC Filters.md",
+    "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
+    "Electronics/AC/Calculations/RL/RL Filters.md",
+    "Spaces/Home/Home.md",
+    "Spaces/Obsidian",
+    "Spaces/Home",
+    "Spaces",
+    "Source/11/Pasted image 20231029211217.png",
+    "Source/11/Pasted image 20231029145512.png",
+    "Source/11/Pasted image 20231029144232.png",
+    "Source/11/Pasted image 20231027192730.png",
+    "Source/11/Pasted image 20231027191428.png",
+    "Source/11/Pasted image 20231027190609.png",
+    "Source/11/Pasted image 20231027185019.png",
+    "Source/11/Pasted image 20231027184928.png",
+    "Source/11/Pasted image 20231027184909.png",
+    "Source/11/Pasted image 20231027111938.png",
+    "Source/11",
+    "Electronics/AC/Calculations/RL/RL Series Circuits.md",
+    "Electronics/AC/Calculations/RL/RL Time Constraints.md",
     "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md",
     "Electronics/AC/Calculations/Relays and Switches/Relays and Switches.md",
     "Electronics/AC/Calculations/Transformers/Transformer.md",
     "Electronics/AC/Calculations/Transformers/Transformers.md",
     "Electronics/AC/Calculations/LCR/Series Resonance.md",
-    "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
     "Electronics/AC/Calculations/LCR/LCR.md",
-    "Electronics/AC/Calculations/General.md",
     "Electronics/Electronic Components.md",
-    "Source/Pasted image 20231029211217.png",
-    "Source/Pasted image 20231029145512.png",
-    "Source/Pasted image 20231029144232.png",
     "Electronics/AC/Calculations/Relays and Switches",
-    "Source/Pasted image 20231027192730.png",
-    "Source/Pasted image 20231027191428.png",
-    "Source/Pasted image 20231027190609.png",
-    "Source/Pasted image 20231027185019.png",
-    "Source/Pasted image 20231027184928.png",
-    "Source/Pasted image 20231027184909.png",
-    "Source/Pasted image 20231027111938.png",
     "Electronics/AC/Calculations/Transformers",
     "Electronics/AC/Calculations/LCR/Untitled.md",
     "Electronics/AC/Calculations/RC/RC Transients.md",
     "Electronics/AC/Calculations/LCR",
     "Electronics/AC/Calculations/RC Parallel Circuits.md",
     "Electronics/AC/Calculations/RL/RL.md",
-    "Electronics/AC/Calculations/RL/RL Filters.md",
     "Electronics/AC/Calculations/RL",
     "Electronics/AC/Calculations/RC/RC.md",
     "Electronics/AC/Calculations/RC/RC Time Constraints.md",
-    "Electronics/AC/Calculations/RC/RC Filters.md",
     "Electronics/AC/Calculations/RC",
-    "Electronics/AC/RC Filters.md",
-    "Electronics/AC/Calculations/RL Series Circuits.md",
-    "Source/10",
-    "Source/DC",
-    "Electronics/Equipment/Oscilliscopes",
-    "Electronics/AC/Calculations",
-    "Electronics/DC/Equations"
+    "Source/10"
   ]
 }
