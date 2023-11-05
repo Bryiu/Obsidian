@@ -11,8 +11,10 @@
             "id": "711fef40a0d6c86d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "mk-space",
+              "state": {
+                "path": "Electronics/Books"
+              }
             }
           }
         ]
@@ -46,8 +48,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "6336c61c4ec8b661",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "fdde66dbdf534b50",
@@ -68,17 +79,8 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "b0eee48cc19f0d56",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,8 +213,20 @@
       "graph:Open graph view": false
     }
   },
-  "active": "930efed7aed73fa7",
+  "active": "711fef40a0d6c86d",
   "lastOpenFiles": [
+    "Electronics/Books/OpAmps_for_eveyone.pdf",
+    "Electronics/Books/OpAmps_for_eveyone.pdf.crdownload",
+    "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
+    "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf.crdownload",
+    "Electronics/Analog/Amplifiers and Active Devices.md",
+    "Electronics/Books/Books.md",
+    "Electronics/Books",
+    "Electronics/Electronics.md",
+    "Electronics/Analog/Analog.md",
+    "Electronics/Equipment/Equipment.md",
+    "Electronics/Process's/Process's.md",
+    "Electronics/Analog",
     "Source/11/Pasted image 20231029211217.png",
     "Source/11/Pasted image 20231020184800.png",
     "Source/11",
@@ -236,7 +250,6 @@
     "Source/11/Pasted image 20231029144232.png",
     "Electronics/AC/Calculations/Relays and Switches/Relays and Switches.md",
     "Electronics/AC/Calculations/LCR/Untitled.md",
-    "Electronics/AC/Calculations/Relays and Switches",
     "conflict-files-obsidian-git.md",
     "Source/11/Pasted image 20231027192730.png",
     "Source/11/Pasted image 20231027191428.png",
@@ -245,19 +258,8 @@
     "Source/11/Pasted image 20231027184928.png",
     "Source/11/Pasted image 20231027184909.png",
     "Electronics/AC/Calculations/Transformers/Transformers.md",
-    "Electronics/AC/Calculations/Transformers",
-    "Source/11/Pasted image 20231027111938.png",
     "Electronics/AC/Calculations/Calculations.md",
     "Electronics/AC/AC.md",
-    "Electronics/AC/Theory.md",
-    "Electronics/AC/Calculations/RC/RC Circuits.md",
-    "Electronics/AC/Calculations/RL/RL Parallel Circuits.md",
-    "Electronics/AC/Calculations/General.md",
-    "Electronics/AC/Calculations/LCR",
-    "Electronics/AC/Calculations/Untitled.md",
-    "Electronics/AC/Calculations/RL/RL Time Constraints.md",
-    "Electronics/AC/Calculations/RC/RC Time Constraints.md",
-    "Electronics/AC/Calculations/RC",
-    "Electronics/AC/Calculations/RL"
+    "Electronics/AC/Theory.md"
   ]
 }

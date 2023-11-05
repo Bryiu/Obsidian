@@ -36,7 +36,13 @@
     "/",
     null,
     "Obsidian",
-    null
+    null,
+    "Spaces/Home//",
+    "Spaces/Home///Electronics",
+    "Spaces/Home///Electronics/Electronics/Analog",
+    "Spaces/Home///Electronics",
+    "Spaces/Home///Electronics/Electronics/Analog",
+    "Spaces/Home///Electronics/Electronics/Books"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -66,7 +72,8 @@
     "spaces://$tags"
   ],
   "rootSpaces": [
-    "Spaces/Home"
+    "Spaces/Home",
+    "Electronics/Books"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
