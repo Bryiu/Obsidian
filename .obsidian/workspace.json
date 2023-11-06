@@ -11,9 +11,11 @@
             "id": "711fef40a0d6c86d",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Electronics/Books"
+                "file": "Electronics/Analog/Diodes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics/Analog/Diodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics/Analog/Diodes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics/Analog/Diodes.md"
+              }
             }
           },
           {
@@ -156,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1ac24f9adfb80870",
@@ -215,12 +221,17 @@
   },
   "active": "711fef40a0d6c86d",
   "lastOpenFiles": [
+    "Source/Pasted image 20231105184041.png",
+    "Source/Pasted image 20231105183742.png",
+    "Source/Pasted image 20231105183545.png",
+    "Source/Pasted image 20231105183359.png",
+    "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
     "conflict-files-obsidian-git.md",
     "Electronics/Books/OpAmps_for_eveyone.pdf",
     "Electronics/Books/OpAmps_for_eveyone.pdf.crdownload",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf.crdownload",
-    "Electronics/Analog/Amplifiers and Active Devices.md",
+    "Electronics/Analog/Diodes.md",
     "Electronics/Books/Books.md",
     "Electronics/Books",
     "Electronics/Electronics.md",
@@ -236,7 +247,6 @@
     "Spaces/Home/Home.md",
     "Spaces/Home",
     "Spaces/Obsidian",
-    "Spaces",
     "Electronics/AC/Calculations/LCR/LCR Circuits.md",
     "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
     "Electronics/AC/Calculations/LCR/LCR.md",
@@ -253,9 +263,6 @@
     "Source/11/Pasted image 20231027192730.png",
     "Source/11/Pasted image 20231027191428.png",
     "Source/11/Pasted image 20231027190609.png",
-    "Source/11/Pasted image 20231027185019.png",
-    "Source/11/Pasted image 20231027184928.png",
-    "Source/11/Pasted image 20231027184909.png",
     "Electronics/AC/Calculations/Transformers/Transformers.md",
     "Electronics/AC/Calculations/Calculations.md",
     "Electronics/AC/AC.md",
