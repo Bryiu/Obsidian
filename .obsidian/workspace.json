@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06c455337bf69c7f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "1ac24f9adfb80870",
@@ -219,7 +230,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "711fef40a0d6c86d",
+  "active": "06c455337bf69c7f",
   "lastOpenFiles": [
     "Source/Pasted image 20231105184041.png",
     "Source/Pasted image 20231105183742.png",
