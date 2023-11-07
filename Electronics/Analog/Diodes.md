@@ -65,5 +65,81 @@
 
 # Diode Limiters
 
+## Function
+### Standard
+![[Pasted image 20231107104554.png]] 
+
 - Purpose is to limit the amplitude of the signal
+- ==Forward Bias== acts like a short circuit
+- ==Reverse Biased== acts like an open circuit
+
+
+
+## Series
+
+![[Pasted image 20231107113209.png]] 
+
+- ==Forward Biased== output signal is developed across the resistor
+	- Negative alternation is eliminated *Negative Limiter*
+- ==Reversed Biased== positive alternation is eliminated *Positive Limiter*
+
+## Parallel
+
+![[Pasted image 20231107114214.png]] 
+
+- Works opposite of the series limiter
+- ==Forward Biased== output is shunted to the ground
+	- Positive Limiter
+- ==Reversed Biased== Signal is passed to the output
+	- Becomes a negative limiter
+
+## Added Bias
+- Bias voltage changes the reverse bias point for the *Series Limiter* and the forward bias point for the *Parallel Limiter*
+- When bias is added, partial alternations can be eliminated
+	- ==Positive series or parallel *Positive Bias*== raises the limit point from $0V$ to the bias level
+		- ![[Pasted image 20231107121135.png]] 
+	- ==Positive Series or Positive Parallel *Negative Bias*== lowers the limit point from $0V$ to the bias level
+		- ![[Pasted image 20231107122122.png]] 
+	- ==Negative Series or Parallel *Positive Bias*== raises the limit point from $0V$ to the bias limit
+		- ![[Pasted image 20231107124948.png]] 
+	- ==Negative Series or Parallel *Negative Bias*== lowers the Limit point from $0V$ to the bias level
+		- ![[Pasted image 20231107124534.png]] 
+
+### Combining Alterations
+
+- Combining a biased positive parallel limiter and a biased negative parallel limiter changes both alternations
+	- ![[Pasted image 20231107125613.png]] 
+
+# Diode Clampers
+- ![[Pasted image 20231107133142.png]] 
+- Clampers change the AC voltage level by adding DC Voltage
+	- Used when AC needs to ride on a DC level
+
+## Positive Clampers
+
+>[!Note]
+>==Forward based== diode - Low resistance allows current to flow through the diode. Result is a fast time constant
+>==Reversed Biased== diode - High resistance allows current flow through the resistor. Result is a slow time constant
+
+- $TC=C*R$
+
+
+- ![[Pasted image 20231107140353.png]] 
+- Positive Clampers Pass a positive DC signal
+
+## Negative Clampers
+
+- ![[Pasted image 20231107144245.png]] 
+
+- Functions the same as Positive, but passes negative voltage
+- Points towards the ground
+
+## Adding Bias
+
+- Adding a positive Bias raises the output voltage DC level
+	- Positive Bias on a negative clamper raises the output voltage DC level
+- Negative Bias lowers the output voltage DC level
+	- Negative bias on a negative clamper lowers the output voltage DC level
+
+- ![[Pasted image 20231107144732.png]] 
 - 

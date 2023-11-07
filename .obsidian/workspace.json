@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0394786d038c3d6",
+        "id": "17c4c59a445d2e59",
         "type": "tabs",
         "children": [
           {
-            "id": "01cba6001b91c073",
+            "id": "a2d03d49a27d19a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1ac24f9adfb80870",
@@ -219,17 +219,20 @@
       "graph:Open graph view": false
     }
   },
-  "active": "01cba6001b91c073",
+  "active": "a2d03d49a27d19a2",
   "lastOpenFiles": [
-    "Source/Pasted image 20231106125523.png",
-    "Source/Pasted image 20231106122509.png",
-    "Source/Pasted image 20231106121033.png",
-    "Source/Pasted image 20231106120734.png",
+    "Source/Pasted image 20231107144732.png",
+    "Source/Pasted image 20231107144245.png",
+    "Source/Pasted image 20231107140353.png",
+    "Source/Pasted image 20231107135531.png",
+    "Source/Pasted image 20231107133142.png",
+    "Source/Pasted image 20231107125613.png",
+    "Source/Pasted image 20231107124948.png",
+    "Source/Pasted image 20231107124534.png",
+    "Source/Pasted image 20231107122122.png",
+    "Source/Pasted image 20231107121135.png",
+    "Source/Pasted image 20231107114214.png",
     "Electronics/Analog/Diodes.md",
-    "Source/Pasted image 20231105184041.png",
-    "Source/Pasted image 20231105183742.png",
-    "Source/Pasted image 20231105183545.png",
-    "Source/Pasted image 20231105183359.png",
     "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
     "conflict-files-obsidian-git.md",
     "Electronics/Books/OpAmps_for_eveyone.pdf",
@@ -243,8 +246,6 @@
     "Electronics/Equipment/Equipment.md",
     "Electronics/Process's/Process's.md",
     "Electronics/Analog",
-    "Source/11/Pasted image 20231029211217.png",
-    "Source/11/Pasted image 20231020184800.png",
     "Source/11",
     "Electronics/DC/Equations/Electronics Equations(Origin).md",
     "Electronics/AC/Calculations/Transformers/Transformer.md",
@@ -260,7 +261,6 @@
     "Electronics/AC/Calculations/LCR/Series Resonance.md",
     "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md",
     "Electronics/Electronic Components.md",
-    "Source/11/Pasted image 20231029145512.png",
     "Electronics/AC/Calculations/Relays and Switches/Relays and Switches.md",
     "Electronics/AC/Calculations/LCR/Untitled.md",
     "Electronics/AC/Calculations/Transformers/Transformers.md",
