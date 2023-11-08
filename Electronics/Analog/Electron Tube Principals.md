@@ -115,10 +115,10 @@
 	- Input signal negative, bias increases
 
 ### Configurations
-#### High Input Impedence
-#### High interelectrode capacitance
-#### High Gain
-#### 180 out of Phase 
+ High Input Impedence
+ High interelectrode capacitance
+ High Gain
+ 180 out of Phase 
 
 ## Common Anode
 
@@ -136,3 +136,42 @@
 
 
 ## Common Grid
+
+
+
+# CRT
+
+- Converts electrical signals to a visible image
+
+## Electrostatic
+
+- Deflects electrodes within the envelope
+- ![[Pasted image 20231108134412.png]] 
+- Schematic Symbols
+	- ![[Pasted image 20231108144231.png]] 
+
+## Electromagnetic
+
+![[Pasted image 20231108134758.png]] 
+
+- has two sets of deflection coils, vertical and horizontal
+	- Called a yoke
+
+
+## Electron Gun (Electrostatic)
+
+![[Pasted image 20231108135103.png]] 
+
+- focusing and accelerating anodes are positive with respect to the grid
+	- accelerating is the most positive
+- Aquadag coating is a thin, conductive coating on the inside wall of the tube
+	- prevents secondary emmision
+	- Highly positive to collect the loose electrons and return them to the power supply
+- Deflection plates send electrons to different parts of the screen
+	- varying the voltages will pass the beam to different parts of the screen
+	- 
+
+![[Pasted image 20231108135510.png]] 
+- Grid is negative to limit the amount of electrons
+- by changing the size of the electrostatic field, you can control where the beams will cross, changing the intensity
+
