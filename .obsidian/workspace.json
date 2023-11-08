@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Analog/Diodes.md",
+                "file": "Electronics/Analog/Electron Tube Principals.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a2dadebdc1118c35",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Analog/Diodes.md",
+                "file": "Electronics/Analog/Electron Tube Principals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Analog/Diodes.md",
+                "file": "Electronics/Analog/Electron Tube Principals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Analog/Diodes.md"
+                "file": "Electronics/Analog/Electron Tube Principals.md"
               }
             }
           },
@@ -162,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1ac24f9adfb80870",
@@ -221,17 +222,18 @@
   },
   "active": "a2d03d49a27d19a2",
   "lastOpenFiles": [
-    "Source/Pasted image 20231107144732.png",
-    "Source/Pasted image 20231107144245.png",
-    "Source/Pasted image 20231107140353.png",
-    "Source/Pasted image 20231107135531.png",
-    "Source/Pasted image 20231107133142.png",
-    "Source/Pasted image 20231107125613.png",
-    "Source/Pasted image 20231107124948.png",
-    "Source/Pasted image 20231107124534.png",
-    "Source/Pasted image 20231107122122.png",
-    "Source/Pasted image 20231107121135.png",
-    "Source/Pasted image 20231107114214.png",
+    "Source/Pasted image 20231107205348.png",
+    "Source/Pasted image 20231107204010.png",
+    "Source/Pasted image 20231107203650.png",
+    "Source/Pasted image 20231107202713.png",
+    "Source/Pasted image 20231107201617.png",
+    "Source/Pasted image 20231107201439.png",
+    "Source/Pasted image 20231107201245.png",
+    "Source/Pasted image 20231107201040.png",
+    "Source/Pasted image 20231107200821.png",
+    "Source/Pasted image 20231107200602.png",
+    "Source/Pasted image 20231107195833.png",
+    "Electronics/Analog/Electron Tube Principals.md",
     "Electronics/Analog/Diodes.md",
     "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
     "conflict-files-obsidian-git.md",
@@ -265,7 +267,6 @@
     "Electronics/AC/Calculations/LCR/Untitled.md",
     "Electronics/AC/Calculations/Transformers/Transformers.md",
     "Electronics/AC/Calculations/Calculations.md",
-    "Electronics/AC/AC.md",
-    "Electronics/AC/Theory.md"
+    "Electronics/AC/AC.md"
   ]
 }
