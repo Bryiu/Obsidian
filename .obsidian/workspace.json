@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 537.5
   },
   "right": {
     "id": "a2dadebdc1118c35",
@@ -219,20 +219,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a2d03d49a27d19a2",
+  "active": "6336c61c4ec8b661",
   "lastOpenFiles": [
-    "Electronics/Analog/Diodes.md",
-    "Electronics/Analog/Electron Tube Principals.md",
     "Source/Pasted image 20231108144231.png",
     "Source/Pasted image 20231108135510.png",
     "Source/Pasted image 20231108135103.png",
     "Source/Pasted image 20231108134758.png",
     "Source/Pasted image 20231108134412.png",
+    "Electronics/Analog/Electron Tube Principals.md",
+    "Electronics/Analog/Diodes.md",
     "Source/Pasted image 20231107205348.png",
     "Source/Pasted image 20231107204010.png",
     "Source/Pasted image 20231107203650.png",
     "Source/Pasted image 20231107202713.png",
     "Source/Pasted image 20231107201617.png",
+    "Source/Pasted image 20231107201439.png",
     "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
     "conflict-files-obsidian-git.md",
     "Electronics/Books/OpAmps_for_eveyone.pdf",
