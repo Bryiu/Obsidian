@@ -45,7 +45,9 @@
     "Spaces/Home///Electronics",
     "Spaces/Home///Electronics/Electronics/Analog",
     "Spaces/Home///Electronics/Electronics/Analog",
-    "Spaces/Home///Electronics/Electronics/Books"
+    "Spaces/Home///Electronics/Electronics/Books",
+    "Spaces/Home///Spaces",
+    "Spaces/Home///Spaces/Spaces/Home"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
