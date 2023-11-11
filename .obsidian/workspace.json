@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "17c4c59a445d2e59",
+        "id": "7599564ae2806895",
         "type": "tabs",
         "children": [
           {
-            "id": "a2d03d49a27d19a2",
+            "id": "8c7dcc894a40e3ca",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -100,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -221,8 +215,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a2d03d49a27d19a2",
+  "active": "8c7dcc894a40e3ca",
   "lastOpenFiles": [
+    "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Analog/Electron Tube Principals.md",
     "Spaces/Home/Home.md",
     "Source/Pasted image 20231108144231.png",
@@ -240,7 +235,6 @@
     "conflict-files-obsidian-git.md",
     "Electronics/Books/OpAmps_for_eveyone.pdf",
     "Electronics/Books/OpAmps_for_eveyone.pdf.crdownload",
-    "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf.crdownload",
     "Electronics/Books/Books.md",
     "Electronics/Books",
