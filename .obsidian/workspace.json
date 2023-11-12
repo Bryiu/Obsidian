@@ -11,8 +11,12 @@
             "id": "8c7dcc894a40e3ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/Analog/Transistors.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -98,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics/Analog/Transistors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics/Analog/Transistors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics/Analog/Transistors.md"
+              }
             }
           },
           {
@@ -182,9 +190,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3b9addf480aade8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "84720ef2ae0498ba",
@@ -215,8 +233,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8c7dcc894a40e3ca",
+  "active": "f3b9addf480aade8",
   "lastOpenFiles": [
+    "Electronics/Analog/Transistors.md",
+    "Source/Pasted image 20231111172257.png",
+    "Source/Pasted image 20231111172034.png",
+    "Source/Pasted image 20231111170715.png",
+    "Source/Pasted image 20231111164755.png",
+    "Source/Pasted image 20231111124609.png",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Analog/Electron Tube Principals.md",
     "Spaces/Home/Home.md",
@@ -226,11 +250,6 @@
     "Source/Pasted image 20231108134758.png",
     "Source/Pasted image 20231108134412.png",
     "Electronics/Analog/Diodes.md",
-    "Source/Pasted image 20231107205348.png",
-    "Source/Pasted image 20231107204010.png",
-    "Source/Pasted image 20231107203650.png",
-    "Source/Pasted image 20231107202713.png",
-    "Source/Pasted image 20231107201617.png",
     "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
     "conflict-files-obsidian-git.md",
     "Electronics/Books/OpAmps_for_eveyone.pdf",
@@ -260,7 +279,6 @@
     "Electronics/AC/Calculations/Relays and Switches/Relays and Switches.md",
     "Electronics/AC/Calculations/LCR/Untitled.md",
     "Electronics/AC/Calculations/Transformers/Transformers.md",
-    "Electronics/AC/Calculations/Calculations.md",
-    "Electronics/AC/AC.md"
+    "Electronics/AC/Calculations/Calculations.md"
   ]
 }
