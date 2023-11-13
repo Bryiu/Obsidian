@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7599564ae2806895",
+        "id": "17c4c59a445d2e59",
         "type": "tabs",
         "children": [
           {
-            "id": "8c7dcc894a40e3ca",
+            "id": "a2d03d49a27d19a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Analog/Transistors.md",
+                "file": "Electronics/Analog/Electron Tube Principals.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "a2dadebdc1118c35",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Analog/Transistors.md",
+                "file": "Electronics/Analog/Electron Tube Principals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Analog/Transistors.md",
+                "file": "Electronics/Analog/Electron Tube Principals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Analog/Transistors.md"
+                "file": "Electronics/Analog/Electron Tube Principals.md"
               }
             }
           },
@@ -183,26 +183,12 @@
             "id": "930efed7aed73fa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3b9addf480aade8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "84720ef2ae0498ba",
@@ -233,28 +219,27 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8c7dcc894a40e3ca",
+  "active": "a2d03d49a27d19a2",
   "lastOpenFiles": [
     "Source/Pasted image 20231112184343.png",
     "Source/Pasted image 20231112183651.png",
-    "Electronics/Analog/Transistors.md",
     "Source/Pasted image 20231112172646.png",
     "Source/Pasted image 20231111172257.png",
     "Source/Pasted image 20231111172034.png",
     "Source/Pasted image 20231111170715.png",
     "Source/Pasted image 20231111164755.png",
     "Source/Pasted image 20231111124609.png",
-    "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
+    "Electronics/Analog/Transistors.md",
+    "Electronics/Analog/Diodes.md",
     "Electronics/Analog/Electron Tube Principals.md",
-    "Spaces/Home/Home.md",
     "Source/Pasted image 20231108144231.png",
     "Source/Pasted image 20231108135510.png",
     "Source/Pasted image 20231108135103.png",
-    "Electronics/Analog/Diodes.md",
     "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
     "conflict-files-obsidian-git.md",
     "Electronics/Books/OpAmps_for_eveyone.pdf",
     "Electronics/Books/OpAmps_for_eveyone.pdf.crdownload",
+    "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf.crdownload",
     "Electronics/Books/Books.md",
     "Electronics/Books",
@@ -266,6 +251,7 @@
     "Source/11",
     "Electronics/DC/Equations/Electronics Equations(Origin).md",
     "Electronics/AC/Calculations/Transformers/Transformer.md",
+    "Spaces/Home/Home.md",
     "Spaces/Home",
     "Spaces/Obsidian",
     "Electronics/AC/Calculations/LCR/LCR Circuits.md",
