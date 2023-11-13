@@ -23,4 +23,19 @@
 	- Input
 	- Bias
 - Transistors transfer energy from low resistance to high resistance
-- 
+- Too much positive bias on the base of an NPN transistor causes it to lose its amplifying ability
+- Too little bias on the base will stop it conducting current
+- ![[Pasted image 20231112172646.png]] 
+- Saturation is when the base current is above the necessary current to turn the transmitter on 
+	- Collector current remains constant
+	- transmitter acts as a short
+	- ![[Pasted image 20231112183651.png]] 
+- Increasing $V_C$ has very little effect on $I_C$ 
+	- ![[Pasted image 20231112184343.png]] 
+	- $I_e=I_b+I_c$ 
+		- The ratio's of the currents are constant for each type of transistor
+			- This is called alpha ( $\alpha$ ) and beta ($\beta$ ), to describe transistor operation under any condition and bias level
+				- $\alpha = \frac{I_c}{I_e}$
+					- $\alpha$ never exceeds 1. Normal value ranges .97 and .99
+				- $\beta = \frac {I_c}{I_b}$
+					- $\beta$ values are larger than 1. Normal value between 20 and 400
