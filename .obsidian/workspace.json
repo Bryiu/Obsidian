@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "voltage divider",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1ac24f9adfb80870",
@@ -235,19 +235,22 @@
   },
   "active": "8c7dcc894a40e3ca",
   "lastOpenFiles": [
+    "Source/Pasted image 20231115133019.png",
+    "Source/Pasted image 20231115132148.png",
+    "Index.md",
+    "Obsidian.md/Obsidian.md",
+    "Obsidian.md",
+    "Electronics/Analog/Transistors.md",
+    "Source/Pasted image 20231115123504.png",
+    "Source/Pasted image 20231115121519.png",
+    "Source/Pasted image 20231115104516.png",
+    "Source/Pasted image 20231115103407.png",
     "Source/Pasted image 20231114164158.png",
     "Source/Pasted image 20231114163748.png",
     "Source/Pasted image 20231114163421.png",
     "Source/Pasted image 20231114163319.png",
     "Electronics/DC/Equations/Series Equations.md",
-    "Electronics/Analog/Transistors.md",
     "Source/Pasted image 20231114162051.png",
-    "Source/Pasted image 20231114161448.png",
-    "Source/Pasted image 20231114160511.png",
-    "Source/Pasted image 20231114154651.png",
-    "Source/Pasted image 20231114152034.png",
-    "Source/Pasted image 20231114143136.png",
-    "Source/Pasted image 20231114143058.png",
     "Electronics/Analog/Diodes.md",
     "Electronics/Analog/Electron Tube Principals.md",
     "Electronics/Electronic Components.md",
@@ -275,11 +278,8 @@
     "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
     "Electronics/AC/Calculations/LCR/LCR.md",
     "Electronics/AC/Calculations/RL/RL Series Circuits.md",
-    "Index.md",
     "Untitled.md",
     "Electronics/AC/Calculations/LCR/Series Resonance.md",
-    "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md",
-    "Electronics/AC/Calculations/Relays and Switches/Relays and Switches.md",
-    "Electronics/AC/Calculations/LCR/Untitled.md"
+    "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md"
   ]
 }

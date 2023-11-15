@@ -1,3 +1,5 @@
+[[Obsidian]]
+
 # Electronics
 ## [[Electronics]]
 # Linux
