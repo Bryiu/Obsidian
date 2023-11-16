@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "17c4c59a445d2e59",
+        "id": "7599564ae2806895",
         "type": "tabs",
         "children": [
           {
-            "id": "a2d03d49a27d19a2",
+            "id": "8c7dcc894a40e3ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Analog/Transistors.md",
+                "file": "Electronics/Analog/Power Supplies.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5
   },
   "right": {
     "id": "a2dadebdc1118c35",
@@ -97,12 +97,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "dfde1e9bd8aa9c18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Electronics/Analog/Power Supplies.md"
+              }
+            }
+          },
+          {
             "id": "e5771709dbc81e89",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Analog/Transistors.md",
+                "file": "Electronics/Analog/Power Supplies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Analog/Transistors.md",
+                "file": "Electronics/Analog/Power Supplies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,16 +141,6 @@
             "state": {
               "type": "make-context-view",
               "state": {}
-            }
-          },
-          {
-            "id": "dfde1e9bd8aa9c18",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Electronics/Analog/Transistors.md"
-              }
             }
           },
           {
@@ -161,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -183,12 +182,26 @@
             "id": "930efed7aed73fa7",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3b9addf480aade8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "84720ef2ae0498ba",
@@ -219,27 +232,38 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a2d03d49a27d19a2",
+  "active": "8c7dcc894a40e3ca",
   "lastOpenFiles": [
-    "Source/Pasted image 20231114164158.png",
-    "Source/Pasted image 20231114163748.png",
-    "Source/Pasted image 20231114163421.png",
-    "Source/Pasted image 20231114163319.png",
-    "Source/Pasted image 20231114162051.png",
-    "Source/Pasted image 20231114161448.png",
-    "Source/Pasted image 20231114160511.png",
-    "Source/Pasted image 20231114154651.png",
-    "Source/Pasted image 20231114152034.png",
-    "Source/Pasted image 20231114143136.png",
-    "Source/Pasted image 20231114143058.png",
-    "Electronics/Analog/Electron Tube Principals.md",
+    "Source/Pasted image 20231116152515.png",
+    "Source/Pasted image 20231116132807.png",
+    "Source/Pasted image 20231116131939.png",
+    "Source/Pasted image 20231116131551.png",
+    "Source/Pasted image 20231116131435.png",
+    "Source/Pasted image 20231116124125.png",
+    "Source/Pasted image 20231116123943.png",
+    "Source/Pasted image 20231116123650.png",
+    "Source/11.16/Pasted image 20231105183359.png",
+    "Source/11.16/Pasted image 20231105183545.png",
+    "Source/11.16/Pasted image 20231105183742.png",
+    "Source/11.16",
+    "Electronics/Analog/Power Supplies.md",
+    "Electronics/AC/Calculations/RC/RC Time Constraints.md",
+    "Electronics/AC/Theory.md",
     "Electronics/Analog/Transistors.md",
+    "Index.md",
+    "Obsidian.md/Obsidian.md",
+    "Obsidian.md",
+    "Electronics/DC/Equations/Series Equations.md",
     "Electronics/Analog/Diodes.md",
+    "Electronics/Analog/Electron Tube Principals.md",
+    "Electronics/Electronic Components.md",
+    "Electronics/DC/Electronic Theory.md",
+    "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
+    "Spaces/Home/Home.md",
     "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
     "conflict-files-obsidian-git.md",
     "Electronics/Books/OpAmps_for_eveyone.pdf",
     "Electronics/Books/OpAmps_for_eveyone.pdf.crdownload",
-    "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf.crdownload",
     "Electronics/Books/Books.md",
     "Electronics/Books",
@@ -251,21 +275,10 @@
     "Source/11",
     "Electronics/DC/Equations/Electronics Equations(Origin).md",
     "Electronics/AC/Calculations/Transformers/Transformer.md",
-    "Spaces/Home/Home.md",
     "Spaces/Home",
-    "Spaces/Obsidian",
     "Electronics/AC/Calculations/LCR/LCR Circuits.md",
     "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
     "Electronics/AC/Calculations/LCR/LCR.md",
-    "Electronics/AC/Calculations/RL/RL Series Circuits.md",
-    "Index.md",
-    "Untitled.md",
-    "Electronics/AC/Calculations/LCR/Series Resonance.md",
-    "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md",
-    "Electronics/Electronic Components.md",
-    "Electronics/AC/Calculations/Relays and Switches/Relays and Switches.md",
-    "Electronics/AC/Calculations/LCR/Untitled.md",
-    "Electronics/AC/Calculations/Transformers/Transformers.md",
-    "Electronics/AC/Calculations/Calculations.md"
+    "Electronics/AC/Calculations/RL/RL Series Circuits.md"
   ]
 }
