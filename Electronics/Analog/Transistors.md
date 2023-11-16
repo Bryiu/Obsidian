@@ -40,6 +40,8 @@
 				- $\beta = \frac {I_c}{I_b}$
 					- $\beta$ values are larger than 1. Normal value between 20 and 400
 					- *aka* gain
+- ==Swamping Resistor==: A resistor added to the emitter leads to compensate for current variations.
+	- Reduces distortion caused by non-linear changes in emitter current
 
 # Basic Bias Circuits
 ## Fixed
@@ -191,6 +193,7 @@
 			- $A_v=\frac {3}{.01}=300$
 		- Used to verify expected
 		- If unknown:
+			- $A_v = \frac{R_c}{R_{swamping}+(0.025 \div I_e}$      (if swamping resistor is between $R_4$ and emitter)
 			- $A_v=\frac {R_c}{0.025 \div I_e}$ 
 				- Load resistor $R_c$ and emitter current are needed
 				- Not exact value; checks normal operation
