@@ -181,7 +181,7 @@
 		- $A_v=\frac{E_{out}}{E_{in}}=\frac {1}{.01}=100$
 	- If bias dropped to .6V; the class becomes B
 		- ![[Pasted image 20231114162051.png]] 
-###### Calculating Base Bias
+##### Calculating Base Bias
 - ![[Pasted image 20231114163319.png]] 
 	- Solve the Voltage divider
 		- ![[Pasted image 20231114163421.png]] 
@@ -213,7 +213,9 @@
 ### Common Collector
 
 - ![[Pasted image 20231114142215.png]] 
-
+- ![[Pasted image 20231114142446.png]] 
+- *aka* emitter-follower
+- Collector can be to ground or common on battery
 - Used for impedance matching
 	- High impedance matched to a low impedance load
 - High current gain
@@ -222,10 +224,48 @@
 	- Input is applied to the reverse biased junction
 - Output resistance is low (50-1500$\ohm$)
 	- Output is taken from the forward biased junction
-- ![[Pasted image 20231114142446.png]] 
+	- Output controlled by the input signal
+	- Replica of input signal
+- Change in one circuit affects the other circuit
+	- A changing input signal changes the bias voltage on the base of the transistor
+
+#### Characteristics
+
+- ![[Pasted image 20231114163748.png]] 
+- ![[Pasted image 20231115104516.png]] 
+	- Transistor bias is determined by $R_1,R_2,R_3$ 
+		- $R_1,R_2$ establish fixed bias voltage 
+		- $R_3$ determines the output signal
+			- When emitter to collector current increases, more voltage drop across $R_3$; output signal increases
+		- $C_1$ prevents DC voltage from reaching base of transistor; couples AC signal from the previous stage
+		- $C_2$ prevents DC bias reaching output
+- Class of operation and $A_v$ are needed to identify normal operation
+	- Determined by bias on the base of $Q_1$ by $R_1,R_2$ 
+	- Gain ($A_v$) determined by the base to emitter PN junction
+		- Voltage gain always 1, Class A
+			- Determined by component values
+		- $A_v=\frac {E_{out}}{E_{in}}$ 
+#### Calculating Base Bias
+![[Pasted image 20231115121519.png]] 
+- Solve the voltage divider to find base voltage
+	- ![[Pasted image 20231114163421.png]] 
+		- .6V needed to forward bias base to emitter PN Junction
+- Solve gain
+	- $A_v=\frac {E_{out}}{E_{in}}$ 
+		- Expected value of 1
+	- Calculated
+		- $E_b - 0.6 = E_V$
+			- $E_b$ is blocked by $C_2$ at the output
+				- 0VDC passed; shunted through $R_3$ 
+		- Input added to $E_b$ 
+			- ex $1V_{pp} + 5.5VDC = 6.5V$
+				- $1V_{pp}$ passed through $C_2$; AC
+	- Base current is small; Emitter current is large
 
 ### Common Base
 
+![[Pasted image 20231114143058.png]] 
+![[Pasted image 20231115123504.png]] 
 ![[Pasted image 20231114142539.png]] 
 
 - Used for impedance matching
@@ -233,6 +273,45 @@
 - Large voltage gain
 - Input resistance low (30-160$\ohm$)
 	- input applied to the forward biased junction
+	- Changing input signal changes the bias voltage on the emitter
+		- Input increases; voltage increases; decreasing forward bias on base to emitter
+			- Decreased forward bias decreases collector to emitter current
+		- Input decreases emitter voltage decreases; increasing forward bias on base to emitter
+			- increased forward bias increases emitter to collector current
+		- Higher input = Higher output
+			- Lower input = Lower output
 - Output resistance is high (250k-550k$\ohm$)
 	- output taken from reversed biased
-- ![[Pasted image 20231114143058.png]] 
+	- Controlled by a small input signal; across the emitter
+	- Large replica of input
+
+#### Characteristics
+![[Pasted image 20231114163748.png]] 
+![[Pasted image 20231115133019.png]]
+
+- Bias determined by $R_1,R_2,R_3,R_4,C_1$
+	- $R_1,R_2$ determine base bias
+	- $C_1$ grounds any AC voltage that develops on the base
+	- $R_4$ establishes emitter bias
+	- $R_3$ Determines output signal
+- Increasing input signal decreases emitter to collector current
+	- Less voltage drops across $R_3$ 
+		- Output signal increases
+- Decreasing input signal increases emitter to collector current
+	- More voltage drops across $R_3$
+		- Output signal decreases
+- $C_2$ prevents DC from reaching the emitter
+- $C_3$ prevents DC from reaching the output
+	- 2&3 do not affect DC bias voltage
+- Class of Operation determined by $R_1,R_2$ 
+- Gain is determined by $R_4,R_3$ 
+
+#### Calculating Base Bias
+
+- Calculate voltage divider
+- Calculate gain by comparing input and output ($A_v$)
+	- if unkown
+		- $A_v=\frac {R_c}{0.025 \div I_e}$
+			- Load resistor on top, emitter current on bot
+			- solve for $I_e$ 
+		- check for normal operation
