@@ -69,6 +69,11 @@
 	- ![[Pasted image 20231116112942.png]] 
 		- Contain Zener diodes to maintain output
 			- ![[Pasted image 20231116113148.png]] 
+### Series Voltage Regulators
+
+
+
+### Parallel Voltage Regulator
 ## Protection
 
 - Prevents damage to the power supply if the load faults

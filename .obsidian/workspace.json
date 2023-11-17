@@ -142,26 +142,9 @@
               "type": "make-context-view",
               "state": {}
             }
-          },
-          {
-            "id": "b88b0da0b9a6d7c5",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          },
-          {
-            "id": "5c607b052cbd174c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "1ac24f9adfb80870",
