@@ -142,6 +142,16 @@
               "type": "make-context-view",
               "state": {}
             }
+          },
+          {
+            "id": "41601add93e9ce04",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -217,29 +227,29 @@
   },
   "active": "8c7dcc894a40e3ca",
   "lastOpenFiles": [
+    "Source/Pasted image 20231117185753.png",
+    "Source/Pasted image 20231117184832.png",
+    "Electronics/Analog/Power Supplies.md",
+    "Electronics/Electronic Components.md",
+    "Electronics/Analog/Transistors.md",
+    "Source/Pasted image 20231117183248.png",
+    "Source/Pasted image 20231117120452.png",
+    "Source/Pasted image 20231117105925.png",
+    "Source/Pasted image 20231117105535.png",
     "Source/Pasted image 20231116152515.png",
     "Source/Pasted image 20231116132807.png",
     "Source/Pasted image 20231116131939.png",
     "Source/Pasted image 20231116131551.png",
     "Source/Pasted image 20231116131435.png",
-    "Source/Pasted image 20231116124125.png",
-    "Source/Pasted image 20231116123943.png",
-    "Source/Pasted image 20231116123650.png",
-    "Source/11.16/Pasted image 20231105183359.png",
-    "Source/11.16/Pasted image 20231105183545.png",
-    "Source/11.16/Pasted image 20231105183742.png",
     "Source/11.16",
-    "Electronics/Analog/Power Supplies.md",
     "Electronics/AC/Calculations/RC/RC Time Constraints.md",
     "Electronics/AC/Theory.md",
-    "Electronics/Analog/Transistors.md",
     "Index.md",
     "Obsidian.md/Obsidian.md",
     "Obsidian.md",
     "Electronics/DC/Equations/Series Equations.md",
     "Electronics/Analog/Diodes.md",
     "Electronics/Analog/Electron Tube Principals.md",
-    "Electronics/Electronic Components.md",
     "Electronics/DC/Electronic Theory.md",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Spaces/Home/Home.md",

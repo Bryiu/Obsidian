@@ -71,9 +71,45 @@
 			- ![[Pasted image 20231116113148.png]] 
 ### Series Voltage Regulators
 
+![[Pasted image 20231117105535.png]] 
+![[Pasted image 20231117105925.png]] 
+- $R_1$ is the series voltage regulator.
+	- One end is not connected 
+	- Manually adjusted potentiometer to maintain voltage drop
+		- subtracts voltage from the source
+- Any changes to current drawn by the load also affect output voltage
+- 
 
 
 ### Parallel Voltage Regulator
+
+![[Pasted image 20231117120452.png]] 
+
+- Decreasing resistance in $R_1$ causes current in $R_1$ branch to increase
+	- Increases current through $R_2$ 
+		- $R_2$ voltage drop increases; dropping $V_{out}$ 
+- If source decreases; voltage drops decrease
+	- decreasing $R_1$ will decrease current; Decreasing $R_2$ 
+
+### Zener Diodes
+
+![[Pasted image 20231117183248.png]] 
+
+- Designed to operate in the break down condition. 
+	- With too much reverse bias
+- When the reversed biased voltage is higher than $V_z$ or *breakdown*, the diode acts like a resistor always having a voltage drop equal to $V_z$ 
+- Can be used as shunt regulators or fixed voltage references
+- ![[Pasted image 20231117184832.png]] 
+	- Shunt regulators are placed in parallel with the load ($R_L$)
+	- When forward biased
+		- Requires 0.7V
+		- $V_{out}$ is 0.7V
+		- Acts as an open
+	- When reversed biased
+		- Acts like an open switch
+		- Reverse current begins to flow through
+		- ![[Pasted image 20231117185753.png]] 
+
 ## Protection
 
 - Prevents damage to the power supply if the load faults
