@@ -94,7 +94,10 @@
 ### Zener Diodes
 
 ![[Pasted image 20231117183248.png]] 
-
+- Acts like a closed switch when forward biased
+- Acts like an open switch when reversed biased
+	- ![[Pasted image 20231118104135.png]] 
+	- ![[Pasted image 20231118104441.png]] 
 - Designed to operate in the break down condition. 
 	- With too much reverse bias
 - When the reversed biased voltage is higher than $V_z$ or *breakdown*, the diode acts like a resistor always having a voltage drop equal to $V_z$ 
@@ -109,6 +112,31 @@
 		- Acts like an open switch
 		- Reverse current begins to flow through
 		- ![[Pasted image 20231117185753.png]] 
+- Output voltage of a rectifier filter is applied to the collector
+	- ![[Pasted image 20231118175216.png]] 
+		- $R_L$ and $Q_1$ are in series
+		- Collector bias is obtained from the filter
+		- Emitter voltage is developed by the action of the transistor
+#### Operation of Zener Diodes
+- Maintains a constant voltage drop as long as it operating in the breakdown region
+	- ![[Pasted image 20231118181353.png]] 
+		- ![[Pasted image 20231118181756.png]] 
+			- $V_{ce}$ is the remainder from the source; with $V_e$ 
+			- If input voltage increases, collector to emitter resistance increased; and vice versa
+			- If $R_L$ decreases, $V_{out}$ decrease. Load current increases
+			- When $V_e$ decreases, base to emitter PN junction forward bias increases, decreasing emitter to collector resistance. 
+				- Causes $Q_1$; $I_{ce}$ to increase
+			- If $V_e$ & $R_L$ increases, $V_{out}$ will also increase
+				- This will cause load current to decrease
+>[!Important]
+>This is based off of potential difference. So biasing is based off of dominant charge
+
+
+
+#### Troubleshoot
+- Calculated = measured --> Ok
+	- Otherwise --> Fault
+	- ![[Pasted image 20231118112515.png]] ![[Pasted image 20231118112530.png]] tr
 
 ## Protection
 
