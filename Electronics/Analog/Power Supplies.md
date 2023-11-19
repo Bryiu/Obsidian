@@ -130,7 +130,11 @@
 				- This will cause load current to decrease
 >[!Important]
 >This is based off of potential difference. So biasing is based off of dominant charge
+### Voltage Regulator Operation
 
+- Typical variable series voltage regulator circuit
+- ![[Pasted image 20231119111915.png]] 
+- 
 
 
 #### Troubleshoot
