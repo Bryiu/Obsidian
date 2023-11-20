@@ -172,6 +172,38 @@
 ##### Variable
 
 - ![[Pasted image 20231119185306.png]] ![[Pasted image 20231119185338.png]] 
+- $D_1$ opens, $Q_1$ base voltage increases
+	- $Q_1$ goes into saturation
+	- ![[Pasted image 20231120112623.png]] 
+- $D_1$ shorts; $Q_1$ base voltage decreases
+	- Output decreases
+	- ![[Pasted image 20231120113838.png]] 
+- $Q_2$ Emitter opens; $D_1$ measures 0, E-C measures applied voltage, $R_1$ drops significantly
+	- ![[Pasted image 20231120115318.png]] 
+- $Q_2$ shorts
+	- ![[Pasted image 20231120115352.png]] ![[Pasted image 20231120115415.png]] 
+- $R_1$ opens;
+	- ![[Pasted image 20231120115523.png]] ![[Pasted image 20231120115533.png]] 
+- $Q_1$ shorts; output applied voltage
+- $Q_1$ collector shorts; output drops; voltage applied across collector
+- $Q_1$ short emitter; emitter reads base voltage
+- $Q_1$ emitter open; output 0V
+
+### IC Regulator
+
+- ![[Pasted image 20231120141605.png]] 
+	- Have overload protection 
+	- Short circuit limiting protection
+	- virtually no risk of overloading
+- ![[Pasted image 20231120141814.png]] 
+
+
+#### 7812 IC regulator
+
+- Will maintain a constant 12VDC output when input is between 14.5 and 30V
+- 
+
+
 
 ## Protection
 
