@@ -133,14 +133,45 @@
 ### Voltage Regulator Operation
 
 - Typical variable series voltage regulator circuit
-- ![[Pasted image 20231119111915.png]] 
-- 
+- ![[Pasted image 20231119111915.png]] ![[Pasted image 20231119120257.png]] 
+- $Q_1$ is the component that maintains a constant $V_{out}$ 
+- Since $R_L$ and $Q_1$ are in series, this circuit is a series voltage regulator
+	- $R_1,Q_2,D_1$ form the voltage divider that applies to the base of $Q_1$ 
+- $R_2$ is used to vary the conduction of $Q_2$ 
 
 
 #### Troubleshoot
 - Calculated = measured --> Ok
 	- Otherwise --> Fault
-	- ![[Pasted image 20231118112515.png]] ![[Pasted image 20231118112530.png]] tr
+	- ![[Pasted image 20231118112515.png]] ![[Pasted image 20231118112530.png]] 
+
+##### Fixed
+
+- The most common fault is semiconductor devices
+- ![[Pasted image 20231119181316.png]] 
+	- $D_1$ opens; base voltage increases
+	- $R_1$ Shorts; base voltage increases
+		- puts $Q_1$ into saturation
+	- $D_1$ shorts; Base voltage decreases
+	- $R_1$ opens; Base voltage decreases
+		- $Q_1$ in cutoff
+- ![[Pasted image 20231119183219.png]] ![[Pasted image 20231119183237.png]] 
+	- Short on $Q_{ec}$ puts $V_e$ at max
+	- Open at $V_c$
+		- ![[Pasted image 20231119183610.png]] 
+		- prevents collector current flow
+		- load current severely reduced
+	- Short at $V_e$ 
+		- ![[Pasted image 20231119184154.png]] 
+		- places $V_e$ at base voltage
+		- places base voltage higher than normal
+		- $D_1$ and $R_L$ now in parallel; dropping the voltage blow $V_Z$ 
+	- Open at $V_e$ 
+		- ![[Pasted image 20231119184802.png]] 
+
+##### Variable
+
+- ![[Pasted image 20231119185306.png]] ![[Pasted image 20231119185338.png]] 
 
 ## Protection
 
