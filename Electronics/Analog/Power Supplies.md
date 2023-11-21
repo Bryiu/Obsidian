@@ -201,8 +201,35 @@
 #### 7812 IC regulator
 
 - Will maintain a constant 12VDC output when input is between 14.5 and 30V
-- 
+- 1.5A is maximum current for this regulator
+	- Load placed on the output should not fall below 8 $\ohm$ 
 
+### Voltage Doubler
+
+- ![[Pasted image 20231121141855.png]] 
+- Two types of voltage doubler circuits
+	- ![[Pasted image 20231121142139.png]] 
+- Lack of isolation
+	- Using an isolation transformer solves this
+- Voltage multipliers can increase indefinitely 
+	- the higher the multiplication factor; the worse the ripple; lower output capability; higher component ratings must be
+- VM's are used where high voltage and low current are required
+##### Half wave Voltage doubler
+
+![[Pasted image 20231121142853.png]]  
+
+- $RMS*1.414= Peak$ 
+- On the negative alternation, $C_1$ is charged through $D_1$ to 170V
+- On the positive, C2 is charged through D2
+- Addem together and kablow
+	- because the output is taken across $C_2$ 
+	- ![[Pasted image 20231121143136.png]] 
+		- The heavier the load; the more affect it has on the output
+
+##### Full wave Voltage doubler
+
+- $C_1$ and $C_2$ add in series
+- Frequency doubles
 
 
 ## Protection
