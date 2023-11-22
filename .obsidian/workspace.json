@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3a03fdf26ce572b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Analog/Power Supplies.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Analog/Power Supplies.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Analog/Power Supplies.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,8 +238,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8c7dcc894a40e3ca",
+  "active": "a3a03fdf26ce572b",
   "lastOpenFiles": [
+    "Electronics/Analog/Power Supplies.md",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20231116120616.png.md",
     "Source/Pasted image 20231121143136.png",
     "Source/Pasted image 20231121142853.png",
     "Source/Pasted image 20231121142139.png",
@@ -237,8 +253,6 @@
     "Source/Pasted image 20231120115523.png",
     "Source/Pasted image 20231120115415.png",
     "Source/Pasted image 20231120115352.png",
-    "Source/Pasted image 20231120115318.png",
-    "Electronics/Analog/Power Supplies.md",
     "Electronics/Electronic Components.md",
     "Electronics/Analog/Transistors.md",
     "Source/11.16",
@@ -254,7 +268,6 @@
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Spaces/Home/Home.md",
     "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
-    "conflict-files-obsidian-git.md",
     "Electronics/Books/OpAmps_for_eveyone.pdf",
     "Electronics/Books/OpAmps_for_eveyone.pdf.crdownload",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf.crdownload",
