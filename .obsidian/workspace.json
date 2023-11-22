@@ -11,28 +11,13 @@
             "id": "8c7dcc894a40e3ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Electronics/Analog/Power Supplies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3a03fdf26ce572b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "file": "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf"
               }
             }
           },
@@ -125,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +223,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a3a03fdf26ce572b",
+  "active": "8c7dcc894a40e3ca",
   "lastOpenFiles": [
     "Electronics/Analog/Power Supplies.md",
     "conflict-files-obsidian-git.md",
