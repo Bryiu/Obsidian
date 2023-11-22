@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7599564ae2806895",
+        "id": "17c4c59a445d2e59",
         "type": "tabs",
         "children": [
           {
-            "id": "8c7dcc894a40e3ca",
+            "id": "a2d03d49a27d19a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 300
   },
   "right": {
     "id": "a2dadebdc1118c35",
@@ -96,16 +96,6 @@
         "id": "e6710a896d79e039",
         "type": "tabs",
         "children": [
-          {
-            "id": "dfde1e9bd8aa9c18",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Electronics/Analog/Power Supplies.md"
-              }
-            }
-          },
           {
             "id": "e5771709dbc81e89",
             "type": "leaf",
@@ -144,7 +134,17 @@
             }
           },
           {
-            "id": "41601add93e9ce04",
+            "id": "dfde1e9bd8aa9c18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Electronics/Analog/Power Supplies.md"
+              }
+            }
+          },
+          {
+            "id": "b88b0da0b9a6d7c5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -152,8 +152,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "5c607b052cbd174c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "1ac24f9adfb80870",
@@ -174,26 +183,12 @@
             "id": "930efed7aed73fa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3b9addf480aade8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "84720ef2ae0498ba",
@@ -224,38 +219,31 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8c7dcc894a40e3ca",
+  "active": "a2d03d49a27d19a2",
   "lastOpenFiles": [
+    "Pasted image 20231116120616.png.md",
+    "Electronics/Analog/Power Supplies.md",
+    "Electronics/Analog/Transistors.md",
     "Source/Pasted image 20231121143136.png",
     "Source/Pasted image 20231121142853.png",
-    "Source/Pasted image 20231121142139.png",
-    "Source/Pasted image 20231121141855.png",
-    "Source/Pasted image 20231120141814.png",
-    "Source/Pasted image 20231120141605.png",
-    "Source/Pasted image 20231120115533.png",
-    "Source/Pasted image 20231120115523.png",
-    "Source/Pasted image 20231120115415.png",
-    "Source/Pasted image 20231120115352.png",
-    "Source/Pasted image 20231120115318.png",
-    "Electronics/Analog/Power Supplies.md",
-    "Electronics/Electronic Components.md",
-    "Electronics/Analog/Transistors.md",
+    "Source/11.16/Pasted image 20231116110330.png",
+    "Source/11.16/Pasted image 20231116110224.png",
+    "Source/11.16/Pasted image 20231115133019.png",
+    "Source/11.16/Pasted image 20231115132148.png",
+    "Source/11.16/Pasted image 20231115123504.png",
+    "Source/11.16/Pasted image 20231115121519.png",
+    "Source/11.16/Pasted image 20231115104516.png",
+    "Source/11.16/Pasted image 20231115103407.png",
     "Source/11.16",
-    "Electronics/AC/Calculations/RC/RC Time Constraints.md",
-    "Electronics/AC/Theory.md",
-    "Index.md",
     "Obsidian.md/Obsidian.md",
     "Obsidian.md",
-    "Electronics/DC/Equations/Series Equations.md",
-    "Electronics/Analog/Diodes.md",
     "Electronics/Analog/Electron Tube Principals.md",
-    "Electronics/DC/Electronic Theory.md",
-    "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
-    "Spaces/Home/Home.md",
+    "Electronics/Analog/Diodes.md",
     "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
     "conflict-files-obsidian-git.md",
     "Electronics/Books/OpAmps_for_eveyone.pdf",
     "Electronics/Books/OpAmps_for_eveyone.pdf.crdownload",
+    "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf.crdownload",
     "Electronics/Books/Books.md",
     "Electronics/Books",
@@ -267,10 +255,17 @@
     "Source/11",
     "Electronics/DC/Equations/Electronics Equations(Origin).md",
     "Electronics/AC/Calculations/Transformers/Transformer.md",
+    "Spaces/Home/Home.md",
     "Spaces/Home",
     "Electronics/AC/Calculations/LCR/LCR Circuits.md",
     "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
     "Electronics/AC/Calculations/LCR/LCR.md",
-    "Electronics/AC/Calculations/RL/RL Series Circuits.md"
+    "Electronics/AC/Calculations/RL/RL Series Circuits.md",
+    "Index.md",
+    "Untitled.md",
+    "Electronics/AC/Calculations/LCR/Series Resonance.md",
+    "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md",
+    "Electronics/Electronic Components.md",
+    "Electronics/AC/Calculations/Relays and Switches/Relays and Switches.md"
   ]
 }
