@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Circuits.md",
+                "file": "Electronics/Analog/Power Supplies.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Circuits.md",
+                "file": "Electronics/Analog/Power Supplies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Circuits.md",
+                "file": "Electronics/Analog/Power Supplies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Circuits.md"
+                "file": "Electronics/Analog/Power Supplies.md"
               }
             }
           },
@@ -234,11 +234,12 @@
   },
   "active": "159b58e7e875cde8",
   "lastOpenFiles": [
+    "Electronics/Analog/Transistors.md",
+    "Electronics/AC/Calculations/RC/RC Circuits.md",
     "Electronics/Electronic Components.md",
     "Electronics/Analog/Power Supplies.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20231116120616.png.md",
-    "Electronics/Analog/Transistors.md",
     "Source/Pasted image 20231121143136.png",
     "Source/Pasted image 20231121142853.png",
     "Source/11.16/Pasted image 20231116110330.png",
@@ -278,7 +279,6 @@
     "Index.md",
     "Untitled.md",
     "Electronics/AC/Calculations/LCR/Series Resonance.md",
-    "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md",
-    "Electronics/AC/Calculations/Relays and Switches/Relays and Switches.md"
+    "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md"
   ]
 }
