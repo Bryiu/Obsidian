@@ -1,4 +1,4 @@
-\# Intro
+# Intro
 
 - Power supply and diode rectifiers change AC power to DC power
 - ![[Pasted image 20231116110330.png]] 
