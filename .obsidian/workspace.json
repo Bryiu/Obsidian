@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Analog/Power Supplies.md",
+                "file": "Electronics/Analog/Diodes.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Analog/Power Supplies.md",
+                "file": "Electronics/Analog/Diodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Analog/Power Supplies.md",
+                "file": "Electronics/Analog/Diodes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Analog/Power Supplies.md"
+                "file": "Electronics/Analog/Diodes.md"
               }
             }
           },
@@ -234,10 +234,11 @@
   },
   "active": "159b58e7e875cde8",
   "lastOpenFiles": [
+    "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
+    "Electronics/Analog/Power Supplies.md",
     "Electronics/Analog/Transistors.md",
     "Electronics/AC/Calculations/RC/RC Circuits.md",
     "Electronics/Electronic Components.md",
-    "Electronics/Analog/Power Supplies.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20231116120616.png.md",
     "Source/Pasted image 20231121143136.png",
@@ -258,7 +259,6 @@
     "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
     "Electronics/Books/OpAmps_for_eveyone.pdf",
     "Electronics/Books/OpAmps_for_eveyone.pdf.crdownload",
-    "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf.crdownload",
     "Electronics/Books/Books.md",
     "Electronics/Books",
@@ -278,7 +278,6 @@
     "Electronics/AC/Calculations/RL/RL Series Circuits.md",
     "Index.md",
     "Untitled.md",
-    "Electronics/AC/Calculations/LCR/Series Resonance.md",
-    "Electronics/AC/Calculations/Relays and Switches/Relays and Solenoids.md"
+    "Electronics/AC/Calculations/LCR/Series Resonance.md"
   ]
 }
