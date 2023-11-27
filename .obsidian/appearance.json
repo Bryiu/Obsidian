@@ -1,6 +1,7 @@
 {
-  "cssTheme": "Aurora",
+  "cssTheme": "Hipstersmoothie",
   "theme": "obsidian",
-  "accentColor": "#b092f7",
-  "baseFontSize": 28
+  "accentColor": "#f79292",
+  "baseFontSize": 28,
+  "nativeMenus": false
 }

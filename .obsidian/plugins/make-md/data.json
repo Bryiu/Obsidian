@@ -1,4 +1,5 @@
 {
+  "newNotePlaceholder": "Untitled",
   "defaultInitialization": false,
   "filePreviewOnHover": false,
   "flowMenuEnabled": true,
@@ -13,6 +14,7 @@
   "editorFlow": true,
   "internalLinkClickFlow": true,
   "contextEnabled": true,
+  "spaceViewEnabled": true,
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "seamless",
   "autoOpenFileContext": true,
@@ -53,7 +55,10 @@
     "Spaces/Home///Electronics/Electronics/AC/Electronics/AC/Calculations/Electronics/AC/Calculations/RC",
     "Spaces/Home///Electronics/Electronics/Analog",
     "Spaces/Home///Electronics/Electronics/AC/Electronics/AC/Calculations/Electronics/AC/Calculations/LCR",
-    "Spaces/Home///Electronics/Electronics/Books"
+    "Spaces/Home///Electronics/Electronics/Books",
+    "Spaces/Home///Electronics/Electronics/Analog",
+    "Spaces/Home///Electronics/Electronics/Analog",
+    "Spaces/Home///Electronics/Electronics/AC"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -65,7 +70,6 @@
   "hiddenFiles": [
     "Context"
   ],
-  "lineNumbers": false,
   "hiddenExtensions": [
     ".mdb"
   ],
@@ -106,6 +110,9 @@
   "enableTagSpaces": true,
   "enableHomeSpace": true,
   "showSpacePinIcon": true,
+  "minimalFix": false,
+  "experimental": false,
+  "lineNumbers": false,
   "cachedSpaces": [
     "spaces://$tags",
     "spaces://$waypoints",

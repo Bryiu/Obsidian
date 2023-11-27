@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2d03d49a27d19a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronics/Analog/Power Supplies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "159b58e7e875cde8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Analog/Diodes.md",
+                "file": "Electronics/Analog/Transistor Amplifiers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +52,7 @@
             }
           },
           {
-            "id": "6336c61c4ec8b661",
+            "id": "21a6e422593dc6d0",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Analog/Diodes.md",
+                "file": "Electronics/Analog/Transistor Amplifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Analog/Diodes.md",
+                "file": "Electronics/Analog/Transistor Amplifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Analog/Diodes.md"
+                "file": "Electronics/Analog/Transistor Amplifiers.md"
               }
             }
           },
@@ -234,8 +221,16 @@
   },
   "active": "159b58e7e875cde8",
   "lastOpenFiles": [
-    "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
+    "Source/Pasted image 20231126175526.png",
+    "Electronics/Analog/Transistor Amplifiers.md",
+    "Source/Pasted image 20231126173937.png",
+    "Source/Pasted image 20231126170746.png",
+    "Source/Pasted image 20231126163139.png",
+    "Source/Pasted image 20231126162637.png",
+    "Source/Pasted image 20231126155749.png",
     "Electronics/Analog/Power Supplies.md",
+    "Electronics/Analog/Diodes.md",
+    "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Analog/Transistors.md",
     "Electronics/AC/Calculations/RC/RC Circuits.md",
     "Electronics/Electronic Components.md",
@@ -246,16 +241,10 @@
     "Source/11.16/Pasted image 20231116110330.png",
     "Source/11.16/Pasted image 20231116110224.png",
     "Source/11.16/Pasted image 20231115133019.png",
-    "Source/11.16/Pasted image 20231115132148.png",
-    "Source/11.16/Pasted image 20231115123504.png",
-    "Source/11.16/Pasted image 20231115121519.png",
-    "Source/11.16/Pasted image 20231115104516.png",
-    "Source/11.16/Pasted image 20231115103407.png",
     "Source/11.16",
     "Obsidian.md/Obsidian.md",
     "Obsidian.md",
     "Electronics/Analog/Electron Tube Principals.md",
-    "Electronics/Analog/Diodes.md",
     "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
     "Electronics/Books/OpAmps_for_eveyone.pdf",
     "Electronics/Books/OpAmps_for_eveyone.pdf.crdownload",
@@ -277,7 +266,6 @@
     "Electronics/AC/Calculations/LCR/LCR.md",
     "Electronics/AC/Calculations/RL/RL Series Circuits.md",
     "Index.md",
-    "Untitled.md",
-    "Electronics/AC/Calculations/LCR/Series Resonance.md"
+    "Untitled.md"
   ]
 }
