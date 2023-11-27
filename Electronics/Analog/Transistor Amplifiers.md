@@ -30,6 +30,9 @@
 		
   - $X_c=\frac {1}{2 \pi f C}$ #formula 
 
+- Verifying normal operation of a multistage amplifier requires comparing ==total== measured and calculated gains
+	- ![[Pasted image 20231127115051.png]] 
+
 ## LC Coupling
 
 [[LCR]]
