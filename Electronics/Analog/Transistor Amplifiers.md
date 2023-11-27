@@ -31,7 +31,45 @@
   - $X_c=\frac {1}{2 \pi f C}$ #formula 
 
 - Verifying normal operation of a multistage amplifier requires comparing ==total== measured and calculated gains
-	- ![[Pasted image 20231127115051.png]] 
+	-  ![[Pasted image 20231127132022.png]] 
+		- Both $Q_1$ and $Q_2$ invert the input signal
+		- $A_v$'s must be within 20% of the calculated gain
+	- $Q_1$'s voltage gain is affected by the input resistance of $Q_2$'s input resistance
+		- ![[Pasted image 20231127134353.png]] 
+		- *Individual amplifiers voltage gain* $A_v = \frac {R_c}{R_s + \frac {0.025}{I_E}}$ #formula 
+		- *For Multi-stage amplifiers*
+			- ==*Stage 1*==Calculate the new value for $R_L$ by placing $R_6,R_7,R_3$ in parallel. $R_C\,aka\,R_3=R_L$ 
+				- $R_L= \frac {1}{\frac {1}{R_3}+\frac {1}{R_6}+\frac {1}{R_7}}$ #formula 
+				- Calculate the individual amplifiers gain
+					- $A_v = \frac {R_c}{R_s + \frac {0.025}{I_E}}$ 
+			- ==*Stage 2*== *for this example* there is no third stage. Calculate gain with:
+				- $A_v = \frac {R_c}{R_s + \frac {0.025}{I_E}}$ 
+					- ==The second stages base voltage only comes from $+V_{cc}$== 
+					- $R_c$ is only $R_8$ because there is no stage after
+			- *Calculate $A_v$ 
+				- $A_{v_T}=A_{v_1}*A_{v_2}$ 
+
+
+>[!Note]
+>When the output of an amplifier is loaded, the voltage gain decreases due to the parallel resistance of the load changing the collector load resistance
+
+- As input frequency decreases, the reactance of $C_1,C_2,C_3$ increase
+	- $X_C=\frac {1}{2 \pi f C}$ 
+		- Low frequencies affect the circuit, while high frequencies do not
+		- Large reactance ($X_C$) decreases total gain of the RC amplifier
+			- Individual stage gains are not affected - they're between the coupling capacitors ($A_v$)
+		- ![[Pasted image 20231127151700.png]] 
+	- Comparing $A_v$ for stages  
+		- $A_v=\frac {V_{out}}{V_{in}}$ 
+		- Each stage can have good voltage gain, but the overall voltage gain can still be bad
+	- If the input signal frequency is high, the gain of the amplifier is reduced
+		- This is because transistors cannot amplify signals above a certain frequency
+			- Each transistor has different characteristics - so they reduce voltage gain at different high frequencies
+	- Amplitude affects circuit operation too
+		- if $V_{pp}$ is too large, signal becomes distorted (clipping)
+			- ![[Pasted image 20231127153058.png]] 
+			- Input signal drives the transistor into cutoff and saturation
+			- $Q_1$ can be good, but $Q_2$ can be bad
 
 ## LC Coupling
 

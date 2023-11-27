@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Analog/Transistor Amplifiers.md",
+                "file": "Electronics/Analog/Transistors.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Analog/Transistor Amplifiers.md",
+                "file": "Electronics/Analog/Transistors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Analog/Transistor Amplifiers.md",
+                "file": "Electronics/Analog/Transistors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Analog/Transistor Amplifiers.md"
+                "file": "Electronics/Analog/Transistors.md"
               }
             }
           },
@@ -221,26 +221,25 @@
   },
   "active": "159b58e7e875cde8",
   "lastOpenFiles": [
+    "Electronics/Analog/Transistor Amplifiers.md",
+    "Source/Pasted image 20231127153058.png",
+    "Source/Pasted image 20231127151700.png",
+    "Electronics/Analog/Transistors.md",
+    "Source/Pasted image 20231127134353.png",
+    "Source/Pasted image 20231127132022.png",
     "Source/Pasted image 20231127115051.png",
     "Source/Pasted image 20231126175526.png",
-    "Electronics/Analog/Transistor Amplifiers.md",
     "Source/Pasted image 20231126173937.png",
     "Source/Pasted image 20231126170746.png",
     "Source/Pasted image 20231126163139.png",
     "Source/Pasted image 20231126162637.png",
-    "Source/Pasted image 20231126155749.png",
     "Electronics/Analog/Power Supplies.md",
     "Electronics/Analog/Diodes.md",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
-    "Electronics/Analog/Transistors.md",
     "Electronics/AC/Calculations/RC/RC Circuits.md",
     "Electronics/Electronic Components.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20231116120616.png.md",
-    "Source/Pasted image 20231121143136.png",
-    "Source/Pasted image 20231121142853.png",
-    "Source/11.16/Pasted image 20231116110330.png",
-    "Source/11.16/Pasted image 20231116110224.png",
     "Source/11.16",
     "Obsidian.md/Obsidian.md",
     "Obsidian.md",
