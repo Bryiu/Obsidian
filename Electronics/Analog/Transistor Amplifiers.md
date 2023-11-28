@@ -71,6 +71,25 @@
 			- Input signal drives the transistor into cutoff and saturation
 			- $Q_1$ can be good, but $Q_2$ can be bad
 
+## Push Pull Amplifiers
+
+- Used in the final power stage driving low resistive loads
+	- High current gain
+	- high efficiency
+	- low output resistance
+		- the output of the amplifier must match the input resistance of a load to transfer the power without losses
+	- low distortion
+
+### Common Emitter Push Pull Amp
+
+![[Pasted image 20231128145344.png]] 
+- Common emitter amps have medium gain; but since they're in parallel output current gain is high
+
+
+### Common Collector Push Pull Amp
+
+
+
 ## LC Coupling
 
 [[LCR]]
