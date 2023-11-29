@@ -84,10 +84,63 @@
 
 ![[Pasted image 20231128145344.png]] 
 - Common emitter amps have medium gain; but since they're in parallel output current gain is high
+- low output resistance is achieved by matching the resistance of $T_2's$ secondary
+- Small amount of distortion
+	- Crossover distortion
+		- ![[Pasted image 20231128153258.png]] 
+		- No current drain occurs during this time
+
+#### Operation
+
+>[!Caution]
+>When understanding this; remember voltage and current are moving in opposite directions 
+
+
+
+*This is an in phase transformer*
+- ![[Pasted image 20231128153713.png]] 
+	- During the positive alternation positive is applied to the base of$Q_1$ and negative to $Q_2$ 
+		- $Q_1$ conducts; $Q_2$ is cut off
+	- Current flows from ground to $+V_{cc}$ 
+		- ![[Pasted image 20231128155304.png]] 
+		- Causes a negative potential at the top of the primary windings of $T_2$ 
+			- output is negative
+				- ![[Pasted image 20231128160130.png]]
+		- Negative alternation
+			- $Q_1$ cut off; $Q_2$ conducts
+			- output is positive
+				- ![[Pasted image 20231128165853.png]] 
+- Produces an inverted output
+- Advantage to exactly match load resistance
+- Disadvantage: Cost and more room
+
 
 
 ### Common Collector Push Pull Amp
 
+- *aka complementary symmetry amplifiers* 
+	- resistor values are mirrored across the input
+- Base Voltage
+	- $V_{B_1}= V_{cc}-V_{R_1}$ #formula 
+	- $V_{B_2}= V_{cc}-V_{R_1}-V_{R_2}-V_{R_3}$ #formula 
+- 
+
+- ![[Pasted image 20231128171032.png]] 
+	- Common collectors have high current gain
+		- Low output resistance
+	- $Q_1$ conducts on positive alternations
+		- $Q_2$ cut off
+	- $Q_2$ conducts on negative alternations
+		- $Q_1$ cut off
+	- $Q_1$ and $Q_2$ are not at ground potential
+		- $V_{cc}$ is divided between emitters 
+			- ![[Pasted image 20231128185053.png]] 
+				- Voltage on the emitters has biasing at
+					- ![[Pasted image 20231128185405.png]] 
+			- $Q_1$ conducting pulls current from the left-hand plate of $C_2$ charging it in a positive direction
+				- ![[Pasted image 20231128185816.png]] 
+		- Must be matched transistors
+			- Have the same gain characteristics
 
 
 ## LC Coupling
