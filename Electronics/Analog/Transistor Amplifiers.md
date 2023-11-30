@@ -139,8 +139,17 @@
 					- ![[Pasted image 20231128185405.png]] 
 			- $Q_1$ conducting pulls current from the left-hand plate of $C_2$ charging it in a positive direction
 				- ![[Pasted image 20231128185816.png]] 
+			- $R_L$ has a positive current flow
+				- ![[Pasted image 20231129110804.png]] 
+					- Because its a common collector class B transistor; half of the input signal is amplified with no phase change
+			- In the negative phase; $Q_2$ pushes current to $C_2$ charging it in a negative direction
+				- ![[Pasted image 20231129112716.png]] 
+				- 
 		- Must be matched transistors
 			- Have the same gain characteristics
+- Advantage: No transformers are used
+- Disadvantage: Transistors can be damaged if load is disconnected
+	- No load; no discharge path for $C_2$ 
 
 
 ## LC Coupling
@@ -189,3 +198,9 @@
 - Used for low frequency or input extends over a large range of frequencies
 - 
 
+# Troubleshooting
+
+- Identify the faulted stage
+	- ![[Pasted image 20231129122738.png]] 
+- Repair
+- Check for normal operation

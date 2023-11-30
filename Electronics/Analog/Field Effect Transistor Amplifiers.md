@@ -1,0 +1,59 @@
+# Intro
+
+- FET's are used in place of bipolar transistors when a circuit requires extremely high input impedance 
+- ![[Pasted image 20231129132157.png]] 
+	- Source: Current carriers enter the FET
+	- Drain: Current carriers leave the FET
+	- Gate: Current carriers controlled by this element
+- ![[Pasted image 20231129133445.png]] ==MOSFET== 
+- ![[Pasted image 20231129133512.png]] ==EMOSFET== 
+- ![[Pasted image 20231129133334.png]] ==JFET== 
+	- The two P type materials are connected to allow only one gate input
+	- The width of the N channel controls the current flow and the size of the PN junction barriers
+
+# Operation
+
+- ![[Pasted image 20231129141516.png]] 
+	- Positive voltage applied to drain $V_{dd}$
+	- Negative voltage applied to gate $V_{gg}$
+		- Reverse biases PN junction
+		- Increasing $V_{gg}$ ($V_{gs}$) grows size of gate, decreases current
+			- When current stops flowing; this is ==cut off== 
+		- Decreasing $V_{gg}$ negative gate voltage decreases PN junction barrier
+			- Increases current
+		- FET's are made to operate with the gate reversed biased
+			- Forward bias will damage component
+	- $V_{gs}$ = reverse biased voltage between gate and source
+	- $I_{d}$ = Source to drain current flow
+		- ![[Pasted image 20231129144709.png]] 
+		- ![[Pasted image 20231129144743.png]] ![![Electronics/Analog/#^Table]]
+- ==*Transconductance*==: The amount of control that the input voltage has over the output current 
+	- $g_m$ 
+		- $g_m=\frac{I_{output}}{E_{input}}$ #formula 
+	- Measured in mho or siemens
+	- Opposite of resistance
+	- similar to $\beta$ 
+		- Values range between 1 and 10 $m$mhos 
+			- ex: Means 2$m$mhos is a 1$V$ change produces a 3$m$A change in output
+				- ![[Pasted image 20231129152141.png]] 
+- ==*mho*==: Conductance; **Ohm backwards** 
+- ==*siemens*==: Conductance
+- FETS transfer **conductance**; Transistors transfer **resistance**
+- Gate biasing does not produce a stable operating point and normally not used
+	- ![[Pasted image 20231129152934.png]] 
+- Self biasing
+	- ![[Pasted image 20231129153210.png]] 
+		- One Voltage source
+		- $V_{dd}$ applies a positive voltage on the drain through $R_d$ 
+		- $R_s$ sets up the reverse bias between gate and source
+			- Gate is less positive than source
+- Voltage Divider Bias
+	- ![[Pasted image 20231129153449.png]] 
+		- One voltage source
+		- Applies a positive voltage on drain through $R_d$ 
+		- $R_1,R_2$ form a fixed bias on the gate
+		- $R_s$ applies self biasing
+- Source Biasing
+	- ![[Pasted image 20231129153640.png]] 
+		- Two voltage sources
+		- 
