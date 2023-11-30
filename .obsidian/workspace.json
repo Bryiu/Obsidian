@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Analog/Transistor Amplifiers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f5971f35fa19215",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronics/Analog/Transistor Amplifiers.md",
+                "file": "Electronics/Analog/Transistors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Analog/Transistor Amplifiers.md",
+                "file": "Electronics/Analog/Transistors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Analog/Transistor Amplifiers.md",
+                "file": "Electronics/Analog/Transistors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Analog/Transistor Amplifiers.md"
+                "file": "Electronics/Analog/Transistors.md"
               }
             }
           },
@@ -175,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "1ac24f9adfb80870",
@@ -232,21 +219,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "4f5971f35fa19215",
+  "active": "159b58e7e875cde8",
   "lastOpenFiles": [
     "Source/Pasted image 20231128185816.png",
     "Source/Pasted image 20231128185405.png",
     "Source/Pasted image 20231128185053.png",
     "Source/Pasted image 20231128171032.png",
-    "Electronics/Analog/Transistor Amplifiers.md",
     "Source/Pasted image 20231128165853.png",
     "Source/Pasted image 20231128160130.png",
     "Source/Pasted image 20231128155304.png",
     "Source/Pasted image 20231128153713.png",
     "Source/Pasted image 20231128153258.png",
     "Source/Pasted image 20231128145344.png",
-    "Electronics/Analog/Transistors.md",
+    "Electronics/Analog/Transistor Amplifiers.md",
     "Source/Pasted image 20231127153058.png",
+    "Electronics/Analog/Transistors.md",
     "Electronics/Analog/Power Supplies.md",
     "Electronics/Analog/Diodes.md",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
