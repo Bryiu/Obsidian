@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "42981a0b425c1305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Analog/Field Effect Transistor Amplifiers.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Analog/Field Effect Transistor Amplifiers.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Analog/Field Effect Transistor Amplifiers.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -219,8 +232,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "159b58e7e875cde8",
+  "active": "42981a0b425c1305",
   "lastOpenFiles": [
+    "Electronics/Analog/Field Effect Transistor Amplifiers.md",
+    "conflict-files-obsidian-git.md",
     "Source/Pasted image 20231129153640.png",
     "Source/Pasted image 20231129153449.png",
     "Source/Pasted image 20231129153210.png",
@@ -231,9 +246,7 @@
     "Source/Pasted image 20231129141516.png",
     "Source/Pasted image 20231129133512.png",
     "Source/Pasted image 20231129133445.png",
-    "Source/Pasted image 20231129133334.png",
     "Source/1129",
-    "Electronics/Analog/Field Effect Transistor Amplifiers.md",
     "Electronics/Analog/Transistor Amplifiers.md",
     "Electronics/AC/Calculations/General.md",
     "Electronics/Analog/Transistors.md",
@@ -242,7 +255,6 @@
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/AC/Calculations/RC/RC Circuits.md",
     "Electronics/Electronic Components.md",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20231116120616.png.md",
     "Source/11.16",
     "Obsidian.md/Obsidian.md",
