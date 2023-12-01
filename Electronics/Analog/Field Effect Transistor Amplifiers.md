@@ -56,4 +56,55 @@
 - Source Biasing
 	- ![[Pasted image 20231129153640.png]] 
 		- Two voltage sources
-		- 
+
+- FET's can be used instead of bipolar transistors
+	- Difference is the input resistance
+		- ![[Pasted image 20231130143306.png]] 
+		- The high input resistance of a FET is obtained by applying the input to the reverse biased gate
+			- Used in test equipment
+				- Prevents the test equipment from loading the circuit
+
+![[Pasted image 20231130144845.png]] 
+
+## Common Source
+
+- Self biasing; Temperatures do not affect the source to drain current flow
+- input applied to the gate
+- Most common
+- ![[Pasted image 20231130150032.png]] 
+	- $C_2$ grounds AC to the source
+		- Allows only an AC signl on the gate to control current flow
+	- With no bias voltage applied to the gate and source is at a positive voltage; Gate to source PN junction is reversed biased
+		- $V_{gs}$ is a negative value
+	- Inverts AC output signal
+	- ![[Pasted image 20231130170529.png]] 
+		- as input goes negative, gate voltage ($V_g$) increases
+			- Decreases reverse bias ($V_{gs}$)
+			- Source voltage $V_s$ remains positive because of $C_2$ 
+			- Decrease in $V_{gs}$ increases source to drain current
+				- $R_2$ drops more voltage
+					- Decreases drain voltage ($V_d$)
+				- $C_3$ blocks the dc voltage on the drain
+	- A smaller AC input controls a larger output current, producing an amplified inverted AC signal
+
+>[!Important]
+>The difference between the common source and drain is the inverted output  
+
+- Measured: $A_v=\frac {E_{output}}{E_{input}}$ #formula 
+
+- Calculated: $A_v=g_m*R_d$ #formula 
+	- $g_m=\frac {I_{output}}{E_{input}}$ 
+	- if $g_m$ is not known use 2$m$mhos 
+
+## Common Drain
+
+- input applied to the gate
+
+
+## Common Gate
+
+- Not used as an amplifier because it doesnt have a high input resistance
+- Used as electronic switches
+
+
+
