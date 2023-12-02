@@ -29,8 +29,8 @@
 		- ![[Pasted image 20231129144743.png]] ![![Electronics/Analog/#^Table]]
 - ==*Transconductance*==: The amount of control that the input voltage has over the output current 
 	- $g_m$ 
-		- $g_m=\frac{I_{output}}{E_{input}}$ #formula 
-	- Measured in mho or siemens
+		- Comes from data book
+		- Measured in mho or siemens
 	- Opposite of resistance
 	- similar to $\beta$ 
 		- Values range between 1 and 10 $m$mhos 
@@ -107,4 +107,28 @@
 - Used as electronic switches
 
 
+## MOSFET
 
+![[Pasted image 20231201172332.png]] 
+- Base does not draw current like the base of a bipolar transistor
+- MOSFETS are ESD
+- ![[Pasted image 20231201175121.png]] 
+	- The gate is not connected to any other part of the device
+		- Operates similar to a capacitor
+		- ![[Pasted image 20231201175638.png]] 
+			- Blue region is the oxide layer
+				- formed when the wafer is heated in normal air
+				- Silicon dioxide ($Si0_2$) 
+
+### Operation
+
+- ![[Pasted image 20231201180525.png]] 
+	- A voltage is applied to the gate to overcome the threshold
+		- Around 1$V$ 
+		- Positive with respect to the source
+			- Attracts negative charges between source and drain
+			- Threshold voltage is the point where the voltage applied to the gate causes the same number of positive and negative charges in the channel region.
+				- No voltage - the channel is P-type
+	- As the gate voltage goes above threshold; Inversion occurs
+		- Inversion: The charge on the gate causes more negative ions in the channel than positive
+		- 
