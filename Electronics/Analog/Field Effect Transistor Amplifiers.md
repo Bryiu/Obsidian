@@ -109,6 +109,9 @@
 
 ## MOSFET
 
+- ![[Pasted image 20231202160910.png]] 
+	- high input impedance means circuits can be connected to the MOSFET's input without loading the circuits down
+
 ![[Pasted image 20231201172332.png]] 
 - Base does not draw current like the base of a bipolar transistor
 - MOSFETS are ESD
@@ -131,4 +134,31 @@
 				- No voltage - the channel is P-type
 	- As the gate voltage goes above threshold; Inversion occurs
 		- Inversion: The charge on the gate causes more negative ions in the channel than positive
-		- 
+	- Source and drain current are the same
+
+>[!Important]
+>The gate draws no current, only a voltage
+
+- ![[Pasted image 20231202142630.png]] 
+
+### Depletion Mode MOSFET
+
+- ![[Pasted image 20231202152619.png]]
+	- Channel is made of the same doping as the source and drain
+	- With 0 or positive voltage applied to the gate, current is free to flow
+	- ![[Pasted image 20231202154135.png]] 
+		- As the number of positive ions surpass the negative, the material becomes P-type
+			- This is pinch off point
+
+### MOSFET Circuits
+
+- ![[Pasted image 20231202164910.png]] ![[Pasted image 20231202164920.png]] 
+	- Used as impedance transformers
+	- Mostly used in Analog devices
+- ![[Pasted image 20231202180428.png]] 
+	- NMOS and PMOS in pair
+	- Complimentary MOSFET
+		- Either the PMOS or NMOS is on at a particular time
+	- As the input switches from high to low,$V_{DD}$ is presented at the output
+- ![[Pasted image 20231202181521.png]] ![[Pasted image 20231202181534.png]] 
+	- Used for protection
