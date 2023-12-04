@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c53e52e62be7de65",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Analog/Transistors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Analog/Transistors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Electronics/Analog/Transistors.md"
-              }
+              "state": {}
             }
           },
           {
@@ -219,8 +224,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "159b58e7e875cde8",
+  "active": "c53e52e62be7de65",
   "lastOpenFiles": [
+    "Electronics/Analog/Transistors.md",
     "Source/Pasted image 20231128185816.png",
     "Source/Pasted image 20231128185405.png",
     "Source/Pasted image 20231128185053.png",
@@ -232,8 +238,6 @@
     "Source/Pasted image 20231128153258.png",
     "Source/Pasted image 20231128145344.png",
     "Electronics/Analog/Transistor Amplifiers.md",
-    "Source/Pasted image 20231127153058.png",
-    "Electronics/Analog/Transistors.md",
     "Electronics/Analog/Power Supplies.md",
     "Electronics/Analog/Diodes.md",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
