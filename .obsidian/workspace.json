@@ -23,8 +23,12 @@
             "id": "c53e52e62be7de65",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/Analog/Field Effect Transistor Amplifiers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -111,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics/Analog/Field Effect Transistor Amplifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics/Analog/Field Effect Transistor Amplifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics/Analog/Field Effect Transistor Amplifiers.md"
+              }
             }
           },
           {
@@ -226,6 +234,9 @@
   },
   "active": "c53e52e62be7de65",
   "lastOpenFiles": [
+    "Electronics/Analog/Transistor Amplifiers.md",
+    "Pasted image 20231130143306.png.md",
+    "Electronics/Analog/Field Effect Transistor Amplifiers.md",
     "Source/Pasted image 20231129153640.png",
     "Source/Pasted image 20231129153449.png",
     "Source/Pasted image 20231129153210.png",
@@ -236,11 +247,8 @@
     "Source/Pasted image 20231129141516.png",
     "Source/Pasted image 20231129133512.png",
     "Source/Pasted image 20231129133445.png",
-    "Source/Pasted image 20231129133334.png",
     "Source/1129",
-    "Electronics/Analog/Field Effect Transistor Amplifiers.md",
     "Electronics/Analog/Transistors.md",
-    "Electronics/Analog/Transistor Amplifiers.md",
     "Electronics/Analog/Power Supplies.md",
     "Electronics/Analog/Diodes.md",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",

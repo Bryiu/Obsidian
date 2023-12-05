@@ -26,7 +26,9 @@
 	- $V_{gs}$ = reverse biased voltage between gate and source
 	- $I_{d}$ = Source to drain current flow
 		- ![[Pasted image 20231129144709.png]] 
-		- ![[Pasted image 20231129144743.png]] ![![Electronics/Analog/#^Table]]
+		- ![[Pasted image 20231129144743.png]] 
+		
+	 ![![Electronics/Analog/#^Table]]
 - ==*Transconductance*==: The amount of control that the input voltage has over the output current 
 	- $g_m$ 
 		- Comes from data book
