@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Analog/Field Effect Transistor Amplifiers.md",
+                "file": "Electronics/Analog/Oscillators.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Analog/Field Effect Transistor Amplifiers.md",
+                "file": "Electronics/Analog/Oscillators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Analog/Field Effect Transistor Amplifiers.md",
+                "file": "Electronics/Analog/Oscillators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Analog/Field Effect Transistor Amplifiers.md"
+                "file": "Electronics/Analog/Oscillators.md"
               }
             }
           },
@@ -221,6 +221,10 @@
   },
   "active": "159b58e7e875cde8",
   "lastOpenFiles": [
+    "Electronics/Analog/Oscillators.md",
+    "Electronics/Analog/Field Effect Transistor Amplifiers.md",
+    "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf",
+    "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf.crdownload",
     "Pasted image 20231130143306.png.md",
     "Source/Pasted image 20231202181534.png",
     "Source/Pasted image 20231202181521.png",
@@ -232,7 +236,6 @@
     "Source/Pasted image 20231202152619.png",
     "Source/Pasted image 20231202142630.png",
     "Source/Pasted image 20231201180525.png",
-    "Electronics/Analog/Field Effect Transistor Amplifiers.md",
     "conflict-files-obsidian-git.md",
     "Source/1129",
     "Electronics/Analog/Transistor Amplifiers.md",
@@ -258,14 +261,11 @@
     "Electronics/Analog/Analog.md",
     "Electronics/Equipment/Equipment.md",
     "Electronics/Process's/Process's.md",
-    "Electronics/Analog",
-    "Source/11",
     "Electronics/DC/Equations/Electronics Equations(Origin).md",
     "Electronics/AC/Calculations/Transformers/Transformer.md",
     "Spaces/Home/Home.md",
     "Electronics/AC/Calculations/LCR/LCR Circuits.md",
     "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
-    "Electronics/AC/Calculations/LCR/LCR.md",
-    "Electronics/AC/Calculations/RL/RL Series Circuits.md"
+    "Electronics/AC/Calculations/LCR/LCR.md"
   ]
 }
