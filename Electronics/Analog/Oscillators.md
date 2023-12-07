@@ -92,4 +92,34 @@
 	- Two inductors are used to reduce the amount of feedback to the amplifiers input
 		- prevents overdriving the amplifier
 	- $L_2$ and $C_1$ develops the feedback circuit
-	- $L_1$ and $C_1$ 
+	- $L_1$ and $C_1$ develop the output to $Q_1$ 
+- ![[Pasted image 20231207140601.png]] 
+	- to check for normal operation calculate the frequency of the resonant circuit
+		- $f=\frac {1}{2 \pi \sqrt {LC}}$ #formula 
+	- Then measure the output frequency with an oscilloscope or frequency counter
+- ![[Pasted image 20231207141331.png]] 
+	- This is also a Hartley Oscillator
+	- Uses collector feedback biasing
+	- fewer components are used
+	- no temperature stabilization
+	- taking the output from the collector of an amp biased class B or C produces a distorted output waveform
+- ![[Pasted image 20231207142738.png]] 
+	- This is also a Hartley 
+	- input to the feedback from the emitter
+	- the in phase condition because $L_1$ is in series to the input and output of the amp
+		- ![[Pasted image 20231207142959.png]] 
+	- ![[Pasted image 20231207143101.png]]
+		- Collector signal is inverted and only negative portion present
+			- operating at class B
+- To check if operating correctly
+	- $f=\frac {1}{2 \pi \sqrt {L_t C}}$ #formula 
+
+### Colpitts Oscillator
+
+- ![[Pasted image 20231207145559.png]]  
+	- $f=\frac {1}{2 \pi \sqrt {L C_t}}$ #formula 
+		- Product over sum for capacitors
+- ![[Pasted image 20231207150916.png]] 
+	- C1 and C2 reduce the amount of amplitude at the input
+- ![[Pasted image 20231207150952.png]] 
+- ![[Pasted image 20231207151136.png]] 
