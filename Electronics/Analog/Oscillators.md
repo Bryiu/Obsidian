@@ -91,3 +91,5 @@
 	- Regenerative feedback is usually half the initial waveform or less
 	- Two inductors are used to reduce the amount of feedback to the amplifiers input
 		- prevents overdriving the amplifier
+	- $L_2$ and $C_1$ develops the feedback circuit
+	- $L_1$ and $C_1$ 
