@@ -82,6 +82,8 @@
 	- Transistors have saturation and cutoff points. This is equivalent to reducing the voltage gain
 	- Losses in the feedback circuit reduce the input signal to the amp
 
+
+## LC 
 ### Hartley Oscillators
 
 - ![[Pasted image 20231206165157.png]] 
@@ -123,3 +125,28 @@
 	- C1 and C2 reduce the amount of amplitude at the input
 - ![[Pasted image 20231207150952.png]] 
 - ![[Pasted image 20231207151136.png]] 
+
+## RC Phase Shift Oscillators
+
+- ![[Pasted image 20231208164746.png]]
+	- ![[Pasted image 20231208164840.png]] 
+		- $Q_1$ is the oscillator amp and $Q_2$ is a buffer amp
+			- Buffer amp: Placed between stages to isolate the first stage from the 2nd
+				- The buffer amp increases current, not voltage, output from $Q_1$ collector
+		- $Q_1$ output is routed through the feedback circuit to the base of $Q_1$ 
+			- ![[Pasted image 20231208171715.png]] 
+			- This produces oscillations at one frequency
+			- $f=\frac {1}{2 \pi ((R_1*C_1)+(R_2*C_2)+(R_3*C_3))}$ #formula 
+				- if $R_1$-$R_3$ and $C_1$-$C_3$ have the same values:
+					- $f=\frac {1}{3(2 \pi R C)}$ 
+						- 2.45 (sqrt of 6) is more accurate; 3 is "good enough"
+						- R is the value of 1 resistor
+						- C is the value of 1 capacitor
+			- Changing the value of any component in the feedback circuit changes the oscillation frequency
+			- Each RC network is called a lead network and produces a phase shift
+			- Ideally if the circuit values are the same, each network shifts the frequency 60$\degree$ 
+			- Since $Q_1$ produces a 180$\degree$ phase shift; feedback and $Q_1$ produce a full 360$\degree$ phase shift
+	- Positive Regenerative feedback circuit
+	- To check for normal operation calculate feedback
+		- ![[Pasted image 20231208173848.png]] 
+		- $f=\frac {0.053}{RC}$ #formula 
