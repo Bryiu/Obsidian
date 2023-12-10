@@ -61,10 +61,34 @@
 
 - ![[Pasted image 20231206155540.png]]
 	- The crystal operates similar to a tank circuit. Frequency depends on how the crystal is made
-		- When an AC voltage is applied across the plates of a crystal it vibrates. 
+		- When an AC voltage is applied across the plates of a crystal it vibrates and produce AC voltage at the output
 			- This is the *Piezoelectric effect*
+				- The vibrations are equal to the frequency of the AC voltage
 	- Since the common emitter is an inverted output, the feedback is applied to the bottom of the crystal
 - ![[Pasted image 20231206163446.png]] 
+- ![[Pasted image 20231209140922.png]] 
+	- The resonant frequency is determined by the cut of crystal and the thickness of the slab
+		- $f=\frac {K}{t}$ #formula 
+		- ![[Pasted image 20231209141457.png]] 
+			- No need to calculate
+	- Has a small amount of capacitance ($C_m$) 
+	- ![[Pasted image 20231209142558.png]] 
+		- $R_1$ is the gate return resistor. 
+			- It supplies the ground reference for the gate (0 volt)
+		- An AC signal at the gate will increase and decrease the drain current
+		- $R_2$ provides the self bias
+		- $L_1$ is an RF choke that appears as an open to AC
+			- Isolates the supply from the circuit while functioning as a drain load resistor for VDD
+		- $C_2$ is a coupling capacitor
+		- $R_3$ is the output load resistor, varies the amplitude
+		- When $V_{DD}$ is applied the crystal begins to vibrate
+		- The crystal inverts the signal
+			- ![[Pasted image 20231209163154.png]] 
+		- The mounting capacitance of the crystal ($C_m$) and $C_1$ form a voltage divider to limit the amount of feedback 
+- Correct operation is determined by comparing the value of the crystal with the measured frequency
+	- Frequency of crystal operators does not drift
+		- The smaller the drift, the more stable
+												
 
 ### Operation
 
