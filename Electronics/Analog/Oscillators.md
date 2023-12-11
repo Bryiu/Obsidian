@@ -206,4 +206,29 @@
 
 - Changes a square wave input to a sawtooth
 - Does not use feedback
-- 
+- The square wave is clamped, or held, at a dc level by $C_1$ and the base to collector junction of $Q_1$ 
+	- ![[Pasted image 20231211135745.png]] 
+- The AC square wave input becomes a DC square wave
+	- ![[Pasted image 20231211135915.png]] 
+		- When the DC square wave goes positive, $Q_1$ is reversed biased and does not conduct
+		- With $Q_1$ off, $C_2$ begins to charge through $R_2$ 
+			- ![[Pasted image 20231211142325.png]] 
+		- When the DC square wave drops to 0, $Q_1$ is forward biased and conducts
+			- When $Q_1$ conducts, it creates a low resistance path for $C_2$ to discharge through. 
+				- ![[Pasted image 20231211143322.png]]
+	- Frequency of output is determined by frequency of input
+	- How straight the output is is also determined by input frequency
+	- Low input frequency allows the capacitor to charge for a longer period of time
+		- ![[Pasted image 20231211143515.png]] 
+		- Because the capacitor charges longer, the output amplitude is greater
+	- High input frequency; short charge time. Less amplitude
+		- $V_{cc}$ only affects the output amplitude
+		- ![[Pasted image 20231211144912.png]] 
+	- Output linearity and frequency are unaffected by the amount of $V_{cc}$ 
+	- The RC time constant of $R_2$ and $C_2$ will affect the output
+		- long time constant = linear
+			- linear output and low amplitude
+			- affects it the same way as high frequency
+		- short TC non linear and high amplitude
+			- affects the same way low frequency input does
+![[Pasted image 20231211150100.png]] 
