@@ -174,3 +174,31 @@
 	- To check for normal operation calculate feedback
 		- ![[Pasted image 20231208173848.png]] 
 		- $f=\frac {0.053}{RC}$ #formula 
+
+## Sine Wave Oscillator Troubleshooting
+
+![[Pasted image 20231210163225.png]] 
+
+- Usually, an interruption anywhere in the oscillator results in no output
+- Once measured output is incorrect; measure supply voltage
+- Inspect amp 
+	- To check the transistor in the amp, disconnect $V_{cc}$ and perform continuity checks via diode check
+- Check Feedback circuit
+	- If you measure 0 ohms or infinite ohms across the resonant circuit, its faulted
+	- measuring across each component determines open or short
+		- Open capacitors can only be detected by testing with an RCL bridge or replacing the capacitor and rechecking
+>[!Important]
+>Capacitors measure infinite DC resistance
+- Turn on $V_{cc}$ and check output circuit
+	- Measuring signal on the output side of the capacitor will determine if its faulted
+	- measure signal on the potentiometer to determine if its faulted
+		- Resistance to confirm open or short
+![[Pasted image 20231210172216.png]] 
+#### Part II
+
+- Measure output signal to determine if working correctly
+- In crystal ocillators, all the components in the feedback can be checked as an RC phase shift oscillator, except the crystal
+	- To check crystal, replace it and check for normal operation
+- If a transistor is in the output circuit, it has already been checked
+	- Resistance measurements will isolate the fault to a component
+- 
