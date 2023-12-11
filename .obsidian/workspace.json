@@ -97,31 +97,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5771709dbc81e89",
+            "id": "dfde1e9bd8aa9c18",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "file": "Electronics/Analog/Oscillators.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "0a894114478f97ff",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Electronics/Analog/Oscillators.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Electronics/Analog/Oscillators.md"
               }
             }
           },
@@ -131,16 +112,6 @@
             "state": {
               "type": "make-context-view",
               "state": {}
-            }
-          },
-          {
-            "id": "dfde1e9bd8aa9c18",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Electronics/Analog/Oscillators.md"
-              }
             }
           },
           {
@@ -161,8 +132,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -219,7 +189,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "159b58e7e875cde8",
+  "active": "dfde1e9bd8aa9c18",
   "lastOpenFiles": [
     "Source/Pasted image 20231210172216.png",
     "Source/Pasted image 20231210163225.png",

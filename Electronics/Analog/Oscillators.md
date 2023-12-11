@@ -201,4 +201,9 @@
 	- To check crystal, replace it and check for normal operation
 - If a transistor is in the output circuit, it has already been checked
 	- Resistance measurements will isolate the fault to a component
+
+## Sawtooth Generators
+
+- Changes a square wave input to a sawtooth
+- Does not use feedback
 - 
