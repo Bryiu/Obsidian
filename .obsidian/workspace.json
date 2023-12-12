@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Analog/Transistors.md",
+                "file": "Electronics/Analog/Oscillators.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c53e52e62be7de65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronics/Analog/Oscillators.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,31 +97,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5771709dbc81e89",
+            "id": "dfde1e9bd8aa9c18",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "file": "Electronics/Analog/Oscillators.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "0a894114478f97ff",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Electronics/Analog/Oscillators.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Electronics/Analog/Oscillators.md"
               }
             }
           },
@@ -144,16 +112,6 @@
             "state": {
               "type": "make-context-view",
               "state": {}
-            }
-          },
-          {
-            "id": "dfde1e9bd8aa9c18",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Electronics/Analog/Oscillators.md"
-              }
             }
           },
           {
@@ -173,9 +131,38 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "68dd3719388fbcbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Electronics/Analog/Oscillators.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e429c8a74fbeb74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Electronics/Analog/Oscillators.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "1ac24f9adfb80870",
@@ -232,32 +219,35 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c53e52e62be7de65",
+  "active": "159b58e7e875cde8",
   "lastOpenFiles": [
-    "Electronics/Equipment/Oscilliscopes/Oscilliscope (Rigol DS1104Z).md",
-    "Electronics/Analog/Oscillators.md",
-    "Electronics/Analog/Transistor Amplifiers.md",
     "Source/Pasted image 20231211150100.png",
     "Source/Pasted image 20231211144912.png",
     "Source/Pasted image 20231211143515.png",
     "Source/Pasted image 20231211143322.png",
     "Source/Pasted image 20231211142325.png",
+    "Electronics/Analog/Oscillators.md",
     "Source/Pasted image 20231211135915.png",
-    "Source/Pasted image 20231206135303.png",
-    "Source/Pasted image 20231206135210.png",
-    "Source/Pasted image 20231206133519.png",
-    "Source/Pasted image 20231206133454.png",
+    "Source/Pasted image 20231211135745.png",
+    "Source/Pasted image 20231210172216.png",
+    "Source/Pasted image 20231210163225.png",
+    "Source/Pasted image 20231209163154.png",
+    "Pasted image 20231130143306.png.md",
+    "Source/Pasted image 20231209142558.png",
+    "Electronics/AC/Calculations/LCR/LCR Circuits.md",
+    "Electronics/Analog/Field Effect Transistor Amplifiers.md",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf",
+    "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf.crdownload",
+    "conflict-files-obsidian-git.md",
+    "Source/1129",
+    "Electronics/Analog/Transistor Amplifiers.md",
+    "Electronics/AC/Calculations/General.md",
     "Electronics/Analog/Transistors.md",
     "Electronics/Analog/Power Supplies.md",
-    "Electronics/Analog/Field Effect Transistor Amplifiers.md",
-    "Pasted image 20231130143306.png.md",
-    "Source/1129",
     "Electronics/Analog/Diodes.md",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/AC/Calculations/RC/RC Circuits.md",
     "Electronics/Electronic Components.md",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20231116120616.png.md",
     "Source/11.16",
     "Obsidian.md/Obsidian.md",
@@ -273,12 +263,9 @@
     "Electronics/Analog/Analog.md",
     "Electronics/Equipment/Equipment.md",
     "Electronics/Process's/Process's.md",
-    "Electronics/Analog",
     "Electronics/DC/Equations/Electronics Equations(Origin).md",
     "Electronics/AC/Calculations/Transformers/Transformer.md",
     "Spaces/Home/Home.md",
-    "Electronics/AC/Calculations/LCR/LCR Circuits.md",
-    "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
-    "Electronics/AC/Calculations/LCR/LCR.md"
+    "Electronics/AC/Calculations/LCR/Parallel Resonance.md"
   ]
 }
