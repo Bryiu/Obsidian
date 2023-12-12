@@ -232,3 +232,60 @@
 		- short TC non linear and high amplitude
 			- affects the same way low frequency input does
 ![[Pasted image 20231211150100.png]] 
+
+## Blocking Oscillators
+
+- Change DC into short rectangular pulses that can be used as timing pulses to trigger other circuits
+- An Oscillator that cuts off its own oscillations at a predetermined time
+
+### Free Running Blocking Oscillators
+
+![[Pasted image 20231212142614.png]] 
+- $C_1$ is not used in free-running operation
+- When $V_{cc}$ is applied, the NPN starts to conduct
+- Collector current flows trough the primary winding of $T_1$; inducing voltage to the secondary
+	- ![[Pasted image 20231212143030.png]] 
+- The voltage in the secondary is limited by $R_3$ and coupled through $C_2$ to the base of $Q_1$ 
+	- Drives $Q_1$ into saturation
+	- ![[Pasted image 20231212143233.png]] 
+- $Q_1$ reaches saturation, collector current stops increasing. No change in current, no voltage is coupled through $T_1$ 
+- $C_2$ discharges through $R_1,R_2$ 
+	- ![[Pasted image 20231212143454.png]] 
+- Makes $Q_1$ base negative into cutoff for a long time. 
+	- $D_1$ prevents inductive kickback
+		- **Inductive Kickback**: *A spike of very high voltage resulting from the almost instantaneous collapse of the magnetic field around an inductor when voltage is removed*
+- When $C_2$ is almost discharged, reverse bias is removed from the base of $Q_1$ and begins to conduct again
+- When $Q_1$ is at cutoff, collector voltage is at $V_{cc}$ 
+	- ![[Pasted image 20231212144954.png]] 
+- When $Q_1$ is saturated for a short time, collector voltage drops to near 0
+- $V_{cc}$ determines the amplitude of the pulses
+- These components determine width of the output pulse
+	- ![[Pasted image 20231212145439.png]] 
+	  
+
+### Triggered Blocking Oscillators
+
+- Cannot free run
+	- No forward bias on the base of $Q_1$ 
+- $Q_1$ cannot conduct until an input pulse of sufficient amplitude is coupled through $C_1$ for forward bias 
+	- ![[Pasted image 20231212145826.png]] 
+- When $Q_1$ conducts
+	- ![[Pasted image 20231212145911.png]] 
+- $Q_1$ becomes saturated and voltage on the secondary stops
+- $C_2$ discharges and reverse biases $Q_1$; stopping collector current
+	- ![[Pasted image 20231212150222.png]] 
+- $Q_1$ must receive another trigger pulse to begin conducting again
+	- Pulse must not arrive before $C_2$ is done discharging or no output occurs
+		- Called recovery time
+- Purpose to improve the shape of input pulses
+	- can also clean up signals when precise timing pulses are required
+- 1 input 1 output
+
+### Troubleshooting
+
+#### Blocking Oscillator
+
+- Measure the output with an oscilloscope and vary and frequency determining components
+- Check inputs
+- Check transistor
+- Check resistances
