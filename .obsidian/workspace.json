@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Analog/Transistor Amplifiers.md",
+                "file": "Electronics/Analog/Oscillators.md",
                 "mode": "preview",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Analog/Transistor Amplifiers.md",
+                "file": "Electronics/Analog/Oscillators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Analog/Transistor Amplifiers.md",
+                "file": "Electronics/Analog/Oscillators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Analog/Transistor Amplifiers.md"
+                "file": "Electronics/Analog/Oscillators.md"
               }
             }
           },
@@ -234,6 +234,9 @@
   },
   "active": "c53e52e62be7de65",
   "lastOpenFiles": [
+    "Electronics/Equipment/Oscilliscopes/Oscilliscope (Rigol DS1104Z).md",
+    "Electronics/Analog/Oscillators.md",
+    "Electronics/Analog/Transistor Amplifiers.md",
     "Source/Pasted image 20231211150100.png",
     "Source/Pasted image 20231211144912.png",
     "Source/Pasted image 20231211143515.png",
@@ -244,13 +247,10 @@
     "Source/Pasted image 20231206135210.png",
     "Source/Pasted image 20231206133519.png",
     "Source/Pasted image 20231206133454.png",
-    "Source/Pasted image 20231206132152.png",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf",
-    "Electronics/Analog/Oscillators.md",
     "Electronics/Analog/Transistors.md",
     "Electronics/Analog/Power Supplies.md",
     "Electronics/Analog/Field Effect Transistor Amplifiers.md",
-    "Electronics/Analog/Transistor Amplifiers.md",
     "Pasted image 20231130143306.png.md",
     "Source/1129",
     "Electronics/Analog/Diodes.md",
