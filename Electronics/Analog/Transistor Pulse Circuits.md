@@ -95,12 +95,111 @@
 			- (Both sides are common)
 - FIRST STATE
 	- ![[Pasted image 20231213185005.png]] 
+- SECOND STATE
+	- ![[Pasted image 20231214135508.png]] 
+- RETURN TO FIRST
+	- ![[Pasted image 20231214135706.png]] 
+### Checking for Normal Operation
+
+- Checking the frequency
+- $f=\frac{1}{0.7*((C_1*R_2)+(C_2*R_3))}$ #formula 
+	- Two time constants are added since each controls only half of the period
+	- $f=\frac{1}{T}$ 
+		- $T=0.7*((C_1*R_2)+(C_2*R_3))$ 
+		- 0.7 is used because the transistor will begin conduction prior to the completion of one time constant
+
+### Vars
+
+- ![[Pasted image 20231214142621.png]] 
+	- $R_5$ is used to adjust the symmetry of the output waveform
+		- Compensate for any differences
+		- Added resistance must be used in frequency calculations
+- ![[Pasted image 20231214144236.png]] 
+	- $R_5$ allows for frequency to be changed
+		- Adds the same amount of resistance to both resistors
+		- Must be used in frequency calculations 
+- ![[Pasted image 20231214144719.png]] 
+	- Ensures sharp rise times
+		- Diodes isolate capacitor from the output to prevent slow rise times
 
 ## Monostable
 
 - ![[Pasted image 20231213172219.png]] 
 	- Pink is the trigger input
 	- RC time constant of the feedback circuit determines how long $Q_1$ is on and how long $Q_2$ is off after input pulse is applies to $Q_1$ 
+
+### Operation
+
+- ![[Pasted image 20231214150244.png]] 
+	- Requires an input to commence oscillations 
+		- One stable state
+	- $Q_1$ uses these resistors for biasing
+		- ![[Pasted image 20231214150600.png]] 
+			- $R_3-R_5$ are used for base biasing voltage
+				- 3&5 are a voltage divider for base bias voltage $Q_1$ 
+				- 2&4 are used for $Q_2$ 
+					- 2 is for base bias
+					- 4 is collector load resistor
+	- $C_1,R_3$ couple the output of one amp to the input of another
+	- $D_1,C_2$ are used to input the trigger pulse
+- First energized a positive voltage is applied to the base of each transistor amp
+	- ![[Pasted image 20231214151449.png]] 
+		- As $Q_2$ conducts, collector voltage is used to supply $Q_1$ base
+		- When $Q_2$ is on, the voltage on its collector drops to 0V
+			- ![[Pasted image 20231214151721.png]] 
+		- Base of $Q_1$ drops to 0V, cut off by the conduction of $Q_2$ collector
+			- ![[Pasted image 20231214151818.png]] 
+		- $Q_1$ turns off, causing the voltage on the collector to rise to 12V
+			- ![[Pasted image 20231214152047.png]] 
+		- Circuit remains stable until an input trigger is received
+- STABLE STATE
+	- $Q_1$ is off with 12v on the collector. 
+	- $Q_2$ stays on as the base biase voltage is supplied through $R_2$ 
+	- $C_1$ charges due to the voltage on the collector of $Q_1$ 
+		- ![[Pasted image 20231214152738.png]] 
+	- When positive input pulse is received, $D_1$ becomes forward biased
+		- ![[Pasted image 20231214152853.png]] 
+	- Turns $Q_1$ on
+	- $Q_2$ turns off
+		- Collector voltage drops to 0v
+			- Causes $C_1$ to discharge
+				- ![[Pasted image 20231214153033.png]] 
+				- Discharging current sets a negative voltage on the base of $Q_2$ 
+					- Turns it off
+- UNSTABLE STATE
+	- $Q_1$ on with 0v at the collector
+	- $Q_2$ turns off by the discharging of $C_1$ 
+		- ![[Pasted image 20231214153738.png]] 
+			- The 12V on the collector is divided and applied to the base of $Q_1$.
+				- $Q_1$ remains on until $C_1$ charges enough to turn $Q_2$ on
+					- $C_1$ charges towards +12v, an overall change of 24v 
+				- $Q_2$ turns on, collector voltage drops to 0, $Q_1$ off
+- RETURNed TO STABLE STATE
+	- ![[Pasted image 20231214154256.png]] 
+	- Stays until the next trigger pulse
+
+### Normal Operation
+
+- Measuring the output frequency off $Q_1, Q_2$ 
+	- ![[Pasted image 20231214154814.png]] 
+- Compare with frequency of trigger pulses
+- $T=0.7*(C_1*R_2)$ #formula 
+	- ![[Pasted image 20231214155041.png]] 
+		- Time constant of the capacitor
+
+### Vars
+
+- ![[Pasted image 20231214160131.png]] 
+	- $R_2$ is variable
+		- pulse width of $Q_2$ being off can be adjusted
+- ![[Pasted image 20231214160232.png]] 
+	- Input is fed through a differentiator
+		- changes square wave input to a pulse
+			- ![[Pasted image 20231214160323.png]] 
+			- A negative trigger input is coupled across $C_1$ to the base of $Q_2$ turning it off
+				- $Q_2$ off turns $Q_1$ on
+				- $Q_1$ on; $C_1$ discharges to turn $Q_2$ back on
+
 
 ## Bistable 
 
