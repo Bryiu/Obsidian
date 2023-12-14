@@ -115,54 +115,14 @@
             }
           },
           {
-            "id": "b88b0da0b9a6d7c5",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
-            }
-          },
-          {
             "id": "5c607b052cbd174c",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "68dd3719388fbcbc",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Electronics/Analog/Transistor Pulse Circuits.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "2e429c8a74fbeb74",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Electronics/Analog/Transistor Pulse Circuits.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -221,19 +181,19 @@
   },
   "active": "159b58e7e875cde8",
   "lastOpenFiles": [
-    "Source/Pasted image 20231213121501.png",
-    "Source/Pasted image 20231213115541.png",
+    "Source/Pasted image 20231213185005.png",
+    "Source/Pasted image 20231213183631.png",
+    "Source/Pasted image 20231213182655.png",
+    "Source/Pasted image 20231213175634.png",
+    "Source/Pasted image 20231213172811.png",
+    "Source/Pasted image 20231213172745.png",
+    "Source/Pasted image 20231213172219.png",
+    "Source/Pasted image 20231213172113.png",
+    "Source/Pasted image 20231213171841.png",
+    "Source/Pasted image 20231213135220.png",
+    "Source/Pasted image 20231213135103.png",
     "Electronics/Analog/Transistor Pulse Circuits.md",
     "Electronics/Analog/Oscillators.md",
-    "Source/Pasted image 20231212150222.png",
-    "Source/Pasted image 20231212145911.png",
-    "Source/Pasted image 20231212145826.png",
-    "Source/Pasted image 20231212145439.png",
-    "Source/Pasted image 20231212144954.png",
-    "Source/Pasted image 20231212143454.png",
-    "Source/Pasted image 20231212143233.png",
-    "Source/Pasted image 20231212143030.png",
-    "Source/Pasted image 20231212142614.png",
     "Pasted image 20231130143306.png.md",
     "Electronics/AC/Calculations/LCR/LCR Circuits.md",
     "Electronics/Analog/Field Effect Transistor Amplifiers.md",
