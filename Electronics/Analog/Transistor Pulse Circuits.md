@@ -205,3 +205,5 @@
 
 - ![[Pasted image 20231213172811.png]]  
 	- The feedback circuit keeps each transistor in one state until an input pulse changes them
+- ![[Pasted image 20231215162725.png]] 
+	- Biasing for $Q_1$ 

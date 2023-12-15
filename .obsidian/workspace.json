@@ -93,7 +93,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e6710a896d79e039",
+        "id": "5a0e3dac7719d77f",
         "type": "tabs",
         "children": [
           {
@@ -103,61 +103,6 @@
               "type": "outline",
               "state": {
                 "file": "Electronics/Analog/Transistor Pulse Circuits.md"
-              }
-            }
-          },
-          {
-            "id": "2dff47c33a48e851",
-            "type": "leaf",
-            "state": {
-              "type": "make-context-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "5c607b052cbd174c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "4c77561b1c2ee1a5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Electronics/Analog/Transistor Pulse Circuits.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "282f93fe899c1a45",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Electronics/Analog/Transistor Pulse Circuits.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "84709f1b58ceb13d",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
               }
             }
           }
@@ -220,6 +165,7 @@
   },
   "active": "159b58e7e875cde8",
   "lastOpenFiles": [
+    "Source/Pasted image 20231215162725.png",
     "Source/Pasted image 20231214160323.png",
     "Source/Pasted image 20231214160232.png",
     "Source/Pasted image 20231214160131.png",
@@ -230,7 +176,6 @@
     "Source/Pasted image 20231214153033.png",
     "Source/Pasted image 20231214152853.png",
     "Source/Pasted image 20231214152738.png",
-    "Source/Pasted image 20231214152047.png",
     "Electronics/Electronic Components.md",
     "Electronics/Analog/Transistor Pulse Circuits.md",
     "Electronics/Analog/Oscillators.md",
