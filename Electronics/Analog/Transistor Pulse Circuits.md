@@ -207,3 +207,27 @@
 	- The feedback circuit keeps each transistor in one state until an input pulse changes them
 - ![[Pasted image 20231215162725.png]] 
 	- Biasing for $Q_1$ 
+- ![[Pasted image 20231215165323.png]] 
+	- Biasing for $Q_2$ 
+- $C_2,C_3$ are speed-up capacitors. 
+	- They immediately couple a change in voltage from the collector of one transistor to the base of another
+- ![[Pasted image 20231215173504.png]] 
+	- Used to input the trigger pulse
+- ![[Pasted image 20231215173555.png]] 
+	- Apply bias to $D_1,D_2$ so that only one diode is forward biased for each stable state
+
+### Operation
+
+- ![[Pasted image 20231215174027.png]] 
+- ![[Pasted image 20231215175228.png]] 
+	- Normal common emitter operation when approaching saturation
+- ![[Pasted image 20231215175317.png]] 
+	- Negative voltage to the base of $Q_2$, overriding the small positive voltage from $V_{cc}$ 
+	- Negative voltage prevents $Q_2$ from turning on
+- ![[Pasted image 20231215175930.png]] 
+- FIRST STATE
+	- ![[Pasted image 20231215180207.png]] 
+	- ![[Pasted image 20231215180238.png]] 
+		- 0v is applied to the cathode of $D_1, which is forward biased
+		- 12v applied to the cathode of $D_2$ which is reversed biased
+
