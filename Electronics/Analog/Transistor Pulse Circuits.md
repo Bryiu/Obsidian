@@ -258,5 +258,8 @@
 - Measuring the output frequency 
 	- ![[Pasted image 20231216180108.png]] 
 - Takes two trigger pulses for one cycle
-	
+
+# Troubleshooting 
+
+- ![[Pasted image 20231217153637.png]] 
 
