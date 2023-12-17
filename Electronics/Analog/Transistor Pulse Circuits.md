@@ -230,4 +230,33 @@
 	- ![[Pasted image 20231215180238.png]] 
 		- 0v is applied to the cathode of $D_1, which is forward biased
 		- 12v applied to the cathode of $D_2$ which is reversed biased
+	- ![[Pasted image 20231216163747.png]] 
+		- When the negative input is received; $D_1$ allows the pulse to pass to the base of $Q_1$ 
+			- $D_2$ blocks the path to the base of $Q_2$ 
+	- ![[Pasted image 20231216170116.png]] 
+	- ![[Pasted image 20231216171317.png]] 
+		- $C_2$ rises to the collector voltage coupling $Q_2$ 
+	- ![[Pasted image 20231216171458.png]] 
+		- Turns $Q_2$ on
+	- ![[Pasted image 20231216171523.png]] 
+		- Collector voltage keeps $Q_1$ off
+- SECOND STATE
+	- ![[Pasted image 20231216173432.png]] 
+	- ![[Pasted image 20231216173535.png]] 
+		- +12V is applied to the cathode of $D_1$; reverse biased
+	- Second pulse recieved, $D_2$ allows the pulse to the base of $Q_2$ 
+	- ![[Pasted image 20231216175259.png]] 
+		- The negative pulse on $Q_2$ turns it off.
+	- ![[Pasted image 20231216175355.png]] 
+		- $C_3$ couples to the base
+	- ![[Pasted image 20231216175540.png]] 
+		- 0 on the collector goes to the base
+	- ![[Pasted image 20231216175831.png]] 
+	- When trigger received only one diode is forward biased
+### Normal Operation
+
+- Measuring the output frequency 
+	- ![[Pasted image 20231216180108.png]] 
+- Takes two trigger pulses for one cycle
+	
 
