@@ -262,4 +262,47 @@
 # Troubleshooting 
 
 - ![[Pasted image 20231217153637.png]] 
+	- Astable convert DC supply to Square wave
+	- Monostable produce long output pulses for very short input trigger pulses
+	- Bistable changes output states when a very short input is received 
+- Incorrect waveform indicates circuit faulted
 
+## Astable
+
+- ![[Pasted image 20231217164257.png]] 
+	- Two out of phase square waves should be present at points D&E
+		- Usually an interruption anywhere results at no output
+- Measure at point A to check supply voltage
+- Check Transistors
+- Check resistance from $V_{cc}$ to the collector and base of each transistor
+
+## Monostable
+
+- ![[Pasted image 20231217170653.png]] 
+- Determine output faulted
+- Check input
+- $V_{cc}$
+- Transistors
+- Resistance
+
+# Schmitt Trigger Operation
+
+- ![[Pasted image 20231217171323.png]] 
+	- Converts an input of any shape and amplitude into square wave pulses of constant amplitude
+- ![[Pasted image 20231217171753.png]] 
+	- Input pulse to the resulting output
+	- No matter the shape, if the voltage goes above 2.5v, pulse produced
+- ![[Pasted image 20231217172013.png]] 
+- When threshold is reached
+	- $Q_1$ saturated
+		- No input
+	- $Q_2$ cutoff
+		- High output
+- ![[Pasted image 20231217172503.png]] 
+	- When input exceeds threshold; $Q_1$ conducts
+	- Voltage on collector insufficient to forward bias $Q_2$ 
+		- Since $Q_2$ is cutoff, output is $V_{cc}$ 
+		- Without the small positive bias contributed by $R_6$ to the emitter; $Q_1$ would conduct more
+			- The more $Q_1$ conducts, the more $Q_2$ is driven to cutoff, the more $Q_1$ conducts
+- ![[Pasted image 20231217173739.png]] 
+	- The feedback ensures a very short rise and fall times of the output
