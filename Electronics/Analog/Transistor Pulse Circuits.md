@@ -308,3 +308,13 @@
 	- The feedback ensures a very short rise and fall times of the output
 
 ## Troubleshooting
+
+- check output signal
+- $V_{cc}$ 
+- Transistors
+- Circuit resistances
+
+- If a constant high or low exists, there's a fault
+	- Check input amplitude
+	- If amplitude does periodically exceed the upper threshold limit and the output is incorrect, a problem exists
+- ![[Pasted image 20231218140147.png]] 
