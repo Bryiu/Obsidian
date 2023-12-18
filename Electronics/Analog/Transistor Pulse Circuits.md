@@ -306,3 +306,5 @@
 			- The more $Q_1$ conducts, the more $Q_2$ is driven to cutoff, the more $Q_1$ conducts
 - ![[Pasted image 20231217173739.png]] 
 	- The feedback ensures a very short rise and fall times of the output
+
+## Troubleshooting
