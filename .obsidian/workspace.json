@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Analog/Oscillators.md",
+                "file": "Electronics/Analog/Transistor Pulse Circuits.md",
                 "mode": "preview",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Analog/Oscillators.md",
+                "file": "Electronics/Analog/Transistor Pulse Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Analog/Oscillators.md",
+                "file": "Electronics/Analog/Transistor Pulse Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Analog/Oscillators.md"
+                "file": "Electronics/Analog/Transistor Pulse Circuits.md"
               }
             }
           },
@@ -231,8 +231,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "502ca117be8e0b74",
+  "active": "c53e52e62be7de65",
   "lastOpenFiles": [
+    "Electronics/Analog/Oscillators.md",
     "Source/Pasted image 20231218140147.png",
     "Source/Pasted image 20231217173739.png",
     "Source/Pasted image 20231217172503.png",
@@ -243,10 +244,8 @@
     "Source/Pasted image 20231217164257.png",
     "Source/Pasted image 20231217153637.png",
     "Source/Pasted image 20231216180108.png",
-    "Source/Pasted image 20231216175831.png",
     "Electronics/Analog/Transistor Pulse Circuits.md",
     "Electronics/Equipment/Oscilliscopes/Oscilliscope (Rigol DS1104Z).md",
-    "Electronics/Analog/Oscillators.md",
     "Electronics/Analog/Transistor Amplifiers.md",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf",
     "Electronics/Analog/Transistors.md",
