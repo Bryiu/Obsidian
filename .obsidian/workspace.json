@@ -11,13 +11,28 @@
             "id": "159b58e7e875cde8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf"
+                "file": "Electronics/Analog/Trigger Device Circuits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f74668ee3a781f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/Analog/Trigger Device Circuits.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf"
+                "file": "Electronics/Analog/Trigger Device Circuits.md"
               }
             }
           },
@@ -110,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
+                "file": "Electronics/Analog/Trigger Device Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
+                "file": "Electronics/Analog/Trigger Device Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -209,21 +223,23 @@
       "graph:Open graph view": false
     }
   },
-  "active": "159b58e7e875cde8",
+  "active": "1f74668ee3a781f1",
   "lastOpenFiles": [
+    "Source/Pasted image 20231220175406.png",
+    "Source/Pasted image 20231220175258.png",
+    "Source/Pasted image 20231220174900.png",
+    "Source/Pasted image 20231220174119.png",
+    "Source/Pasted image 20231220173221.png",
+    "Source/Pasted image 20231220173017.png",
+    "Source/Pasted image 20231220161757.png",
+    "Source/Pasted image 20231220161730.png",
+    "Source/Pasted image 20231220161501.png",
+    "Source/Pasted image 20231220152128.png",
+    "Source/Pasted image 20231220152007.png",
+    "Electronics/Analog/Trigger Device Circuits.md",
+    "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Analog/Transistor Pulse Circuits.md",
     "Index.md",
-    "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
-    "Source/Pasted image 20231218140147.png",
-    "Source/Pasted image 20231217173739.png",
-    "Source/Pasted image 20231217172503.png",
-    "Source/Pasted image 20231217172013.png",
-    "Source/Pasted image 20231217171753.png",
-    "Source/Pasted image 20231217171323.png",
-    "Source/Pasted image 20231217170653.png",
-    "Source/Pasted image 20231217164257.png",
-    "Source/Pasted image 20231217153637.png",
-    "Source/Pasted image 20231216180108.png",
     "Electronics/Electronic Components.md",
     "Electronics/Analog/Oscillators.md",
     "Pasted image 20231130143306.png.md",
@@ -254,8 +270,6 @@
     "Electronics/Analog/Analog.md",
     "Electronics/Equipment/Equipment.md",
     "Electronics/Process's/Process's.md",
-    "Electronics/DC/Equations/Electronics Equations(Origin).md",
-    "Electronics/AC/Calculations/Transformers/Transformer.md",
-    "Spaces/Home/Home.md"
+    "Electronics/DC/Equations/Electronics Equations(Origin).md"
   ]
 }

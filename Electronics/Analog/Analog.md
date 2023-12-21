@@ -6,3 +6,4 @@
 [[Field Effect Transistor Amplifiers]]
 [[Oscillators]]
 [[Transistor Pulse Circuits]]
+[[Trigger Device Circuits]]
