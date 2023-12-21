@@ -168,6 +168,52 @@
 ## SCR in AC Operation 
 
 - Called power control circuits
+- Does not have a reset circuit
 - Rectifies and controls the amount of power supplied to the load
 - ![[Pasted image 20231221140324.png]] 
-- 
+- ![[Pasted image 20231221141825.png]] 
+	- power control circuit
+- ![[Pasted image 20231221141906.png]] 
+	- $R_1$ = Cathode bias
+	- $C_1,C_2$ DC blocking capacitors
+- ![[Pasted image 20231221144802.png]] 
+	- Once the SCR is reverse biased, $I_a$ stops
+		- This action turns off the SCR
+- ![[Pasted image 20231221144928.png]] 
+	- Forward bias turns on the SCR
+- Operation of the circuit is based on controlling the amount of time that AC voltage is sent to the load
+	- ![[Pasted image 20231221145217.png]] 
+		- 50% maximum
+			- Gate also controls when the SCR turns on during that time that the SCR is forward biased
+				- ![[Pasted image 20231221145326.png]] 
+					- If gate is on for only half of the cycle 25% efficiency
+	- By controlling the gate voltage (gate current), the time that the load receives voltage is controlled
+- ![[Pasted image 20231221150106.png]] 
+	- At 0$\degree$ of the input, signal across Load and SCR
+- ![[Pasted image 20231221150152.png]] 
+	- SCR forward biased, no current through load
+		- acts as an open component
+- ![[Pasted image 20231221150249.png]] 
+	- At 90$\degree$ $I_g$ large enough to turn on SCR
+	- Between 0$\degree$ and 90$\degree$ called ==fire angle== 
+- ![[Pasted image 20231221150451.png]] 
+	- From 90$\degree$ to 180$\degree$ SCR is conducting
+		- Called ==Conduction Angle== 
+	- SCR is a short circuit
+	- $180\degree = Fire \, angle + Conduction \, Angle$ #formula 
+- ![[Pasted image 20231221150711.png]] 
+	- SCR is reversed biased and current does not flow
+	- SCR reset automatically
+	- $P=\frac {E^2}{R_L}$ #formula  
+- ![[Pasted image 20231221150918.png]] 
+	- If $R_2$ is changed so the gate current will not turn on the SCR until after 90$\degree$, less power
+		- ![[Pasted image 20231221151128.png]] 
+	- If turned on between 0 and 90, more power
+		- ![[Pasted image 20231221151218.png]] 
+		- ![[Pasted image 20231221151254.png]] 
+- Approximate average voltage
+	- $E_{rms}$ is the value on the input sine wave
+	- C is number of degrees of the sine wave that SCR controls
+	- $E_{avg}=E_{rms}*\frac {C\degree}{360\degree }$ #formula 
+		- Where $E_{rms}=0.707*E_{peak}$ 
+	- $P=\frac {E^2}{R}$ 

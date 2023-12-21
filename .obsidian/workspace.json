@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "159b58e7e875cde8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronics/Analog/Trigger Device Circuits.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1f74668ee3a781f1",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,18 +212,18 @@
   },
   "active": "1f74668ee3a781f1",
   "lastOpenFiles": [
-    "Source/Pasted image 20231221140324.png",
-    "Source/Pasted image 20231220175406.png",
-    "Source/Pasted image 20231220175258.png",
-    "Source/Pasted image 20231220174900.png",
-    "Source/Pasted image 20231220174119.png",
-    "Source/Pasted image 20231220173221.png",
-    "Source/Pasted image 20231220173017.png",
-    "Source/Pasted image 20231220161757.png",
-    "Source/Pasted image 20231220161730.png",
-    "Source/Pasted image 20231220161501.png",
-    "Source/Pasted image 20231220152128.png",
+    "Electronics/Analog/Diodes.md",
     "Electronics/Analog/Trigger Device Circuits.md",
+    "Source/Pasted image 20231221151254.png",
+    "Source/Pasted image 20231221151218.png",
+    "Source/Pasted image 20231221151128.png",
+    "Source/Pasted image 20231221150918.png",
+    "Source/Pasted image 20231221150711.png",
+    "Source/Pasted image 20231221150451.png",
+    "Source/Pasted image 20231221150249.png",
+    "Source/Pasted image 20231221150152.png",
+    "Source/Pasted image 20231221150106.png",
+    "Source/Pasted image 20231221145326.png",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Analog/Transistor Pulse Circuits.md",
     "Index.md",
@@ -253,7 +240,6 @@
     "Electronics/AC/Calculations/General.md",
     "Electronics/Analog/Transistors.md",
     "Electronics/Analog/Power Supplies.md",
-    "Electronics/Analog/Diodes.md",
     "Electronics/AC/Calculations/RC/RC Circuits.md",
     "Pasted image 20231116120616.png.md",
     "Source/11.16",
