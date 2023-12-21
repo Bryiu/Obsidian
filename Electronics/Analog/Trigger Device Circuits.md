@@ -165,3 +165,9 @@
 - +DC forward biases the SCR
 	- When on; anode current ($I_a$) flows through the load
 
+## SCR in AC Operation 
+
+- Called power control circuits
+- Rectifies and controls the amount of power supplied to the load
+- ![[Pasted image 20231221140324.png]] 
+- 
