@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Analog/Trigger Device Circuits.md",
+                "file": "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Analog/Trigger Device Circuits.md"
+                "file": "Electronics/AC/Calculations/RC/RC Parallel Circuits.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Analog/Trigger Device Circuits.md",
+                "file": "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Analog/Trigger Device Circuits.md",
+                "file": "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,8 +213,11 @@
   },
   "active": "1f74668ee3a781f1",
   "lastOpenFiles": [
-    "Electronics/Analog/Diodes.md",
+    "Electronics/AC/Calculations/LCR/Series Resonance.md",
+    "Electronics/AC/Calculations/LCR/LCR Circuits.md",
+    "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
     "Electronics/Analog/Trigger Device Circuits.md",
+    "Electronics/Analog/Diodes.md",
     "Source/Pasted image 20231221151254.png",
     "Source/Pasted image 20231221151218.png",
     "Source/Pasted image 20231221151128.png",
@@ -231,7 +234,6 @@
     "Electronics/Electronic Components.md",
     "Electronics/Analog/Oscillators.md",
     "Pasted image 20231130143306.png.md",
-    "Electronics/AC/Calculations/LCR/LCR Circuits.md",
     "Electronics/Analog/Field Effect Transistor Amplifiers.md",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf.crdownload",
@@ -256,7 +258,6 @@
     "Electronics/Electronics.md",
     "Electronics/Analog/Analog.md",
     "Electronics/Equipment/Equipment.md",
-    "Electronics/Process's/Process's.md",
-    "Electronics/DC/Equations/Electronics Equations(Origin).md"
+    "Electronics/Process's/Process's.md"
   ]
 }
