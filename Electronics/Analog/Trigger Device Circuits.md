@@ -217,3 +217,16 @@
 	- $E_{avg}=E_{rms}*\frac {C\degree}{360\degree }$ #formula 
 		- Where $E_{rms}=0.707*E_{peak}$ 
 	- $P=\frac {E^2}{R}$ 
+
+## Troubleshooting
+
+- A shorted SCR is on all the time
+	- In DC you will not be able to turn the power off to the load
+	- In AC there would not be any rectifying action or power control of the load
+- Voltage measurements to determine if operating correctly
+	- ![[Pasted image 20231225094410.png]] 
+- To verify if SCR is good or bad, an analog ohmmeter is required to completely test the device.
+	- Lowest range should be used
+		- Digital meter lacks sufficient power to forward bias the SCR
+			- Can only confirm shorted conditions
+			- Diode test will not reliably test either

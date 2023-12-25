@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
+                "file": "Electronics/Analog/Trigger Device Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Parallel Circuits.md"
+                "file": "Electronics/Analog/Trigger Device Circuits.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
+                "file": "Electronics/Analog/Trigger Device Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
+                "file": "Electronics/Analog/Trigger Device Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,8 +153,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -213,6 +212,8 @@
   },
   "active": "1f74668ee3a781f1",
   "lastOpenFiles": [
+    "Source/Pasted image 20231225094410.png",
+    "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
     "Electronics/AC/Calculations/LCR/Series Resonance.md",
     "Electronics/AC/Calculations/LCR/LCR Circuits.md",
     "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
@@ -256,8 +257,6 @@
     "Electronics/Books/Books.md",
     "Electronics/Books",
     "Electronics/Electronics.md",
-    "Electronics/Analog/Analog.md",
-    "Electronics/Equipment/Equipment.md",
-    "Electronics/Process's/Process's.md"
+    "Electronics/Analog/Analog.md"
   ]
 }
