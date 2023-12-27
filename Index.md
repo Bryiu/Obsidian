@@ -1,25 +1,22 @@
+[[Obsidian]]
+
+# Electronics
+## [[Electronics]]
 # Linux
-## Process's
-### [[000 AUR]]
-### [[001 Extending LVM]]
-### [[002 Bash Scripting]]
-
->[!INFO] Reference Files
-[[Bash Commands]]
-
-----------------------------------
-
+## [[Linux]]
 # Quasar
-## [[000 Initialize]]
-## [[001 Adding Charts]]
-## [[002 Adding Components]]
+## [[Quasar]]
 
---------------------------------------------------------------
+# R
+## [[R Lang]]
 
-# Windows Notes
-## Windows Terminal
-### [[Adding a new Terminal]]
+# [[Source]]
+# Windows
+## [[Windows]]
 
 --------------------------------------------------
 
 
+# [[README]]
+
+january 4th 1:40pm interview

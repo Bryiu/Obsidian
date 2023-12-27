@@ -1,5 +1,9 @@
 [
   "obsidian-icons-plugin",
-  "obsidian-mind-map",
-  "calendar"
+  "calendar",
+  "obsidian-git",
+  "obsidian-charts",
+  "table-editor-obsidian",
+  "make-md",
+  "cm-typewriter-scroll-obsidian"
 ]

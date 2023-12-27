@@ -2,5 +2,12 @@
   "legacyEditor": false,
   "livePreview": true,
   "spellcheck": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": true,
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "autoConvertHtml": false,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "Source"
 }

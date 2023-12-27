@@ -1,5 +1,5 @@
  Bash Command | Description 
------------------|------------- 
+-----------------|------------- |
 A | 
 [&](https://ss64.com/bash/bg.html) | Start a new process in the background
 [alias](https://ss64.com/bash/alias.html) | Create an alias •
