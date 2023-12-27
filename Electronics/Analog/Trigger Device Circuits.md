@@ -230,3 +230,5 @@
 		- Digital meter lacks sufficient power to forward bias the SCR
 			- Can only confirm shorted conditions
 			- Diode test will not reliably test either
+	- Check the Resistance forward and reversed without gate signal
+		- Should be high in both directions

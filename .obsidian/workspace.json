@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Electronics/Analog/Trigger Device Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Electronics/Analog/Trigger Device Circuits.md"
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Electronics/Analog/Trigger Device Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Electronics/Analog/Trigger Device Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,8 +226,8 @@
   },
   "active": "5ddbdf875e208302",
   "lastOpenFiles": [
-    "Electronics/Analog/Trigger Device Circuits.md",
     "conflict-files-obsidian-git.md",
+    "Electronics/Analog/Trigger Device Circuits.md",
     "programming.sh.md",
     "Source/Pasted image 20231225094410.png",
     "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
