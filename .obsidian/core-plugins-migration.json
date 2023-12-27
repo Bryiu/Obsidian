@@ -11,8 +11,8 @@
   "templates": true,
   "note-composer": true,
   "command-palette": true,
-  "slash-command": false,
-  "editor-status": true,
+  "slash-command": true,
+  "editor-status": false,
   "starred": false,
   "markdown-importer": true,
   "zk-prefixer": false,
@@ -25,5 +25,7 @@
   "file-recovery": true,
   "publish": false,
   "sync": false,
-  "canvas": true
+  "canvas": true,
+  "properties": false,
+  "bookmarks": true
 }
