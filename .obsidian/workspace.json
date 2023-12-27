@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ddbdf875e208302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Analog/Trigger Device Circuits.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Analog/Trigger Device Circuits.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Analog/Trigger Device Circuits.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,14 +224,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "1f74668ee3a781f1",
+  "active": "5ddbdf875e208302",
   "lastOpenFiles": [
+    "Electronics/Analog/Trigger Device Circuits.md",
+    "conflict-files-obsidian-git.md",
+    "programming.sh.md",
     "Source/Pasted image 20231225094410.png",
     "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
     "Electronics/AC/Calculations/LCR/Series Resonance.md",
     "Electronics/AC/Calculations/LCR/LCR Circuits.md",
     "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
-    "Electronics/Analog/Trigger Device Circuits.md",
     "Electronics/Analog/Diodes.md",
     "Source/Pasted image 20231221151254.png",
     "Source/Pasted image 20231221151218.png",
@@ -229,7 +244,6 @@
     "Source/Pasted image 20231221150249.png",
     "Source/Pasted image 20231221150152.png",
     "Source/Pasted image 20231221150106.png",
-    "Source/Pasted image 20231221145326.png",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Analog/Transistor Pulse Circuits.md",
     "Index.md",
@@ -239,7 +253,6 @@
     "Electronics/Analog/Field Effect Transistor Amplifiers.md",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf.crdownload",
-    "conflict-files-obsidian-git.md",
     "Source/1129",
     "Electronics/Analog/Transistor Amplifiers.md",
     "Electronics/AC/Calculations/General.md",
