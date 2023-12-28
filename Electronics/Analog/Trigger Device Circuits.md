@@ -232,3 +232,63 @@
 			- Diode test will not reliably test either
 	- Check the Resistance forward and reversed without gate signal
 		- Should be high in both directions
+		- If resistance is low; shorted SCR
+	- ![[Pasted image 20231227153650.png]] 
+	- ![[Pasted image 20231227155233.png]] (Black is positive. idk why tf they did that)
+		- Placing a jumper between the anode to the gate
+			- A positive voltage applied to the anode will also be applied to the gate, forward biasing the SCR
+		- When connected with a forward bias, there should be a low reading
+			- High reading means its open or too high of a range setting
+		- With the multimeter connected, remove the jumper.
+			- Reading should stay low; SCR remains on
+		- Remove leads and retest.
+			- Reading should go high
+
+#### Checking an SCR Circuit
+
+- Determine type (trigger or power control)
+- Determine correct applied voltage and gate input signals
+- Check SCR operation
+- Check other components
+
+
+## Triacs, Diacs, Four Layer Diodes
+
+### Triacs 
+
+- ![[Pasted image 20231227162921.png]] 
+	- Triacs
+		- ![[Pasted image 20231227164724.png]] 
+		- Used for power control instead of simple resistance devices
+		- Produce much less heat
+		- Solid state component
+		- Basic structure of a triac is two SCR's connected in reverse (anodes to cathodes) with gates connected
+	- ![[Pasted image 20231227165145.png]] 
+		- Doesnt let current flow from cathode to anode unless gate is triggered
+			- Current flows from cathode to anode until voltage across anode and cathode drop below a certain level
+			- Doesnt allow current to flow no matter what voltage is applied to the trigger
+			- Power SCR's do not use the negative portion of the AC signal
+	- ![[Pasted image 20231227171201.png]] 
+		- Half wave SCR Phase shifters
+		- Power reduced to 50% 
+		- ![[Pasted image 20231227171309.png]] 
+			- A single SCR can reduce power to 50%
+			- Input power can be adjusted from half to 0%
+		- ![[Pasted image 20231227172148.png]] 
+			- Since Triac is two SCR's, it operates during both alternations of the sine wave
+			- Allows power to be reduced from 100% to 0%
+		- ![[Pasted image 20231227172420.png]] 
+			- Triacs also used as high current switches
+				- Mechanical switches would have high current jump between the contacts; damaging them
+				- Triacs use a small voltage level can be applied with a mechanical switch to the gate to open the path
+
+
+### Diac and Four Layer Diodes
+
+- ![[Pasted image 20231227163150.png]] 
+- ![[Pasted image 20231227172845.png]] 
+	- Diac and 4 layer diode
+		- Used as trigger devices to SCR's and Triacs
+		- Better trigger control
+		- Provide protection to trigger circuit
+		- 

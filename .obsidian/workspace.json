@@ -166,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -226,24 +225,25 @@
   },
   "active": "5ddbdf875e208302",
   "lastOpenFiles": [
+    "Source/Pasted image 20231227172845.png",
+    "Source/Pasted image 20231227172420.png",
+    "Source/Pasted image 20231227172148.png",
+    "Source/Pasted image 20231227171309.png",
+    "Source/Pasted image 20231227171201.png",
+    "Source/Pasted image 20231227165145.png",
+    "Source/Pasted image 20231227164724.png",
+    "Source/Pasted image 20231227163150.png",
+    "Source/Pasted image 20231227162921.png",
+    "Source/Pasted image 20231227155233.png",
+    "Source/Pasted image 20231227153650.png",
     "conflict-files-obsidian-git.md",
     "Electronics/Analog/Trigger Device Circuits.md",
     "programming.sh.md",
-    "Source/Pasted image 20231225094410.png",
     "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
     "Electronics/AC/Calculations/LCR/Series Resonance.md",
     "Electronics/AC/Calculations/LCR/LCR Circuits.md",
     "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
     "Electronics/Analog/Diodes.md",
-    "Source/Pasted image 20231221151254.png",
-    "Source/Pasted image 20231221151218.png",
-    "Source/Pasted image 20231221151128.png",
-    "Source/Pasted image 20231221150918.png",
-    "Source/Pasted image 20231221150711.png",
-    "Source/Pasted image 20231221150451.png",
-    "Source/Pasted image 20231221150249.png",
-    "Source/Pasted image 20231221150152.png",
-    "Source/Pasted image 20231221150106.png",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Analog/Transistor Pulse Circuits.md",
     "Index.md",
@@ -270,7 +270,6 @@
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf.crdownload",
     "Electronics/Books/Books.md",
     "Electronics/Books",
-    "Electronics/Electronics.md",
-    "Electronics/Analog/Analog.md"
+    "Electronics/Electronics.md"
   ]
 }
