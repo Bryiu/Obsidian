@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "423c72f836a05ebf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +176,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "1ac24f9adfb80870",
@@ -223,7 +234,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5ddbdf875e208302",
+  "active": "423c72f836a05ebf",
   "lastOpenFiles": [
     "Source/Pasted image 20231227172845.png",
     "Source/Pasted image 20231227172420.png",
