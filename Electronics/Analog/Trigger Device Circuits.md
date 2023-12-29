@@ -111,8 +111,12 @@
 - ![[Pasted image 20231228182241.png]] 
 	- In the PUT, the ratio is programmed with external resistors. 
 		- Makes it possible to build a circuit that oscillates very near the design frequency
-	  
-	  
+- ![[Pasted image 20231229101120.png]] 
+	- PUT and SCR is similar but the gate is connected to the N-type material
+	- Gate is always positive biased with respect to the cathode
+
+
+
 
 
 # SCR 

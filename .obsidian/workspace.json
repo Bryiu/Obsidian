@@ -153,7 +153,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "1ac24f9adfb80870",
@@ -212,6 +213,7 @@
   },
   "active": "5ddbdf875e208302",
   "lastOpenFiles": [
+    "Source/Pasted image 20231229101120.png",
     "Source/Pasted image 20231228182241.png",
     "Source/Pasted image 20231228175058.png",
     "Source/Pasted image 20231228174720.png",
@@ -222,7 +224,6 @@
     "Source/Pasted image 20231227172148.png",
     "Source/Pasted image 20231227171309.png",
     "Source/Pasted image 20231227171201.png",
-    "Source/Pasted image 20231227165145.png",
     "conflict-files-obsidian-git.md",
     "Electronics/Analog/Trigger Device Circuits.md",
     "programming.sh.md",
