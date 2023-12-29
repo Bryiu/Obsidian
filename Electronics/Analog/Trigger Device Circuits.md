@@ -95,6 +95,26 @@
 	- Calculated frequency uses one TC of $R_1$ and $C_1$ 
  
 
+## Programmable Unijunction Transistors
+
+![[Pasted image 20231228174720.png]] 
+
+- Part of the Thyristor family; Performing a similar function as the UJT
+	- **Thyristor**: Four layer semiconducting device similar to a diode, with the exception of an external terminal. Conducts as long as a sufficient current is present. Used in high current applications. #definition 
+- Can be used as a relaxation oscilator, where output is a sawtooth and pulse waveform. Frequency determined by $R_1$ and $C_1$ value
+	- **Relaxation Oscillator**: Produces oscillations by slowly charging a capacitor and discharging it. Output is usually a sawtooth #definition 
+	- ![[Pasted image 20231228175058.png]] 
+- Also used as a bistable multivibrator, element switch, level detector, or frequency divider. 
+	- Essentially triggering SCR's
+- **Intrinsic Standoff Ratio**: Sets the firing voltage ($V_p$). Small ratio variations produce large oscillator frequency variations #definition 
+	- Can be overcome with PUT
+- ![[Pasted image 20231228182241.png]] 
+	- In the PUT, the ratio is programmed with external resistors. 
+		- Makes it possible to build a circuit that oscillates very near the design frequency
+	  
+	  
+
+
 # SCR 
 
 - ![[Pasted image 20231220122522.png]] 
@@ -291,4 +311,12 @@
 		- Used as trigger devices to SCR's and Triacs
 		- Better trigger control
 		- Provide protection to trigger circuit
-		- 
+		- Will continue to conduct until the input voltage falls below a certain level
+		- Four layer diodes normally used with SCR's since conduction is only required during one alternation
+		- Diacs used with triacs
+			- Limits the input current to the gate until a certain level has been reached
+		- ![[Pasted image 20231228151901.png]] 
+			- Power reducing circuits are normally connected directly to a power system
+		- Diacs provide protection to the circuit
+		- ![[Pasted image 20231228153555.png]] 
+
