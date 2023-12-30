@@ -114,7 +114,58 @@
 - ![[Pasted image 20231229101120.png]] 
 	- PUT and SCR is similar but the gate is connected to the N-type material
 	- Gate is always positive biased with respect to the cathode
-
+	- PUT uses 4 semiconductor layers and a gate
+		- SCR uses 3 semiconductor layers and two bases
+- ![[Pasted image 20231229105955.png]] 
+	- $R_1,C_1$ and the ==intrinsic standoff ratio== control the frequency of the oscillation
+		- $C_1$ charges through $R_1$ until it reaches $V_p$; which turns on the UJT. 
+			- Lowers the resistance between terminals E and $B_1$. 
+			- $C_1$ rapidly discharges to $V_v$ through $R_3$ turning off the UJT
+				- $V_v$ is valley voltage, the lowest point of voltage before voltage starts to increase
+		- ![[Pasted image 20231229110419.png]] 
+			- When $V_e$ reaches $V_p$ UJT turns on and $I_e$ is at peak current
+			- As $I_e$ increases, the device's negative resistance causes $V_e$ to decrease until the UJT turns off
+				- Happens when $V_e=V_v$ 
+					- The ratio sets the firing voltage, $V_p$ 
+					- Large intrinsic standoff ratio variations cause the UJT's ouptut frequency to vary from designed frequency
+						- ![[Pasted image 20231229121757.png]] 
+							- Diff between a UJT and PUT is the peak voltage of the PUT can be controlled
+							- PUT's anode to cathode terminals function the same way as the UJT's E and $B_1$ terminals
+								- Anode is always positive in respect to the cathode
+								- ![[Pasted image 20231229124620.png]] 
+									- When anode voltage exceeds 0.7V ($V_g$) PN junction is forward biased and PUT is on
+										- When anode voltage is below; PUT off
+			- Gate is biased to a desired voltage with external Voltage Divider
+				- When anode voltage exceeds the "Programmed" level ($V_p$ or $V_g$ +0.7V) the PUT is on 
+					- ![[Pasted image 20231229124947.png]] 
+						- In this PUT relaxation oscillator; the gate is biased at +9V by $R_3,R_4$ 
+						- When power is applied, PUT is off and $C_1$ charges towards 18V through $R_1$ 
+							- When $C_1$ reaches 0.7V ($V_g$) the put turns on
+								- $C_1$ rapidly discharges through the negative resistance of the PUT until $R_2$ reaches $V_v$ 
+									- The PUT turns off and $C_1$ begins to charge again
+				- PUT's frequency can be varied by adjusting $R_1$ or changing the value of $C_1$ 
+				- PUT allows intrinsic standoff ratio to be programmed by varying the ratio of $R_3$ and $R_4$ 
+					- Also varies the frequency of oscillation
+					- Controls the value of $V_p$ 
+					- If $R_3$ remains constant and $R_4$ increases, gate voltage will increase; increasing $V_p$ 
+						- Increasing $V_p$ causes $C_1$ to charge to a higher voltage before the PUT can turn on
+							- Increases the time required to generate the sawtooth and decreases frequency
+					- If $R_4$ remains constant while $R_3$ increases, gate voltage will decrease; decreasing $V_p$ 
+						- Decreasing $V_p$ causes $C_1$ to charge to a lower voltage before the PUT can turn on
+							- Decreases the time required to generate the sawtooth; increasing frequency 
+			- ![[Pasted image 20231229153941.png]] 
+				- $I_p$ and $I_v$ both depend on the values of $R_3,R_4$ and $E_a$ (source voltage). 
+					- The actual resistor values determine the PUT's $I_p$ and $I_v$ for any given $E_a$ 
+					- $R_g=\frac {R_3*R_4}{R_3+R_4}$ #formula 
+						- The parallel equivalent of $R_3,R_4$ ($R_g$) is consider present at the gate of the PUT
+							- For any given value of $E_a$, bot $I_p,I_v$ will decrease as $R_g$ increases
+- Additional applications are low cost timers, oscillators, long period timers, SCR triggers, and level detectors
+	- Low gate to anode leakage current
+		- Gate to anode leakage current adds to capacitor charging current and alters output frequency
+	- Due to 4-layer construction, PUT is capable of supplying higher amplitude triggering pulses than the UJT
+		- Capable of triggering SCR's with high current ratings
+	- Electrical characteristics can be controlled
+		- More sensitive and responds faster than a UJT 
 
 
 
