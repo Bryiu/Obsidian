@@ -1,5 +1,6 @@
 {
   "cssTheme": "Material Ocean",
   "theme": "obsidian",
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 15
 }
