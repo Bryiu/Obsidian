@@ -177,3 +177,8 @@
 	- Using DC does not change circuit operation
 	- Summing amps normally use a gain of 1
 	- $Output=(Input1)+(Input2)$ 
+
+
+# Troubleshooting
+
+- Cannot repair IC's, just replace them
