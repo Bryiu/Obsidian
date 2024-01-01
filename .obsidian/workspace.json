@@ -166,8 +166,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -226,17 +225,18 @@
   },
   "active": "d6800bc93efc2745",
   "lastOpenFiles": [
-    "Source/Pasted image 20231230193151.png",
-    "Source/Pasted image 20231230183848.png",
-    "Source/Pasted image 20231230181438.png",
-    "Source/Pasted image 20231230181240.png",
-    "Source/Pasted image 20231230174236.png",
-    "Source/Pasted image 20231230171358.png",
-    "Source/Pasted image 20231230164403.png",
-    "Source/Pasted image 20231230164326.png",
-    "Source/Pasted image 20231230161532.png",
-    "Source/Pasted image 20231230155202.png",
-    "Source/Pasted image 20231230155050.png",
+    "Source/Pasted image 20231231173319.png",
+    "Source/Pasted image 20231231171205.png",
+    "Source/Pasted image 20231231163613.png",
+    "Source/Pasted image 20231231161657.png",
+    "Source/Pasted image 20231231143224.png",
+    "Source/Pasted image 20231231141717.png",
+    "Source/12.30/Pasted image 20231129132157.png",
+    "Source/12.30/Pasted image 20231129133334.png",
+    "Source/12.30/Pasted image 20231129133445.png",
+    "Source/12.30/Pasted image 20231129133512.png",
+    "Source/12.30/Pasted image 20231129141516.png",
+    "Source/12.30",
     "Electronics/Analog/Op Amps.md",
     "Electronics/Analog/Trigger Device Circuits.md",
     "conflict-files-obsidian-git.md",
@@ -270,7 +270,6 @@
     "Electronics/Books/OpAmps_for_eveyone.pdf",
     "Electronics/Books/OpAmps_for_eveyone.pdf.crdownload",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf.crdownload",
-    "Electronics/Books/Books.md",
-    "Electronics/Books"
+    "Electronics/Books/Books.md"
   ]
 }

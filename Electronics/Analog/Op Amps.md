@@ -110,5 +110,70 @@
 	- Connecting several signals to the inverting input produces a summing amp
 	- The output is the algebraic inverted sum of the inputs
 - ![[Pasted image 20231230193151.png]] 
+	- All inputs are applied to the inverting input
+	- Output is the inverted sum of the inputs
 
 
+# Operation
+
+- ![[Pasted image 20231231132912.png]] 
+	- Because its an IC access to internal circuitry is not possible
+	- Only inputs, outputs, power supply leads are connected externally
+- ![[Pasted image 20231231134921.png]] 
+	- Use op-amp reference book to determine pins and circuit connections
+	- Normally power supply connections are not shown in schematics
+- Op Amps are super transistors
+	- Exhibits a near infinite input resistance
+	- 0 output resistance
+	- Large Voltage, current, and power gain
+- Amplify frequencies from 0Hz to several hundred kHz
+- Op amps are extremely unstable and need to be controlled
+	- Controlled by external circuits that stabilize their operation using degenerative feedback.
+		- Called **Closed Loop Mode** of operation
+	- ![[Pasted image 20231231140210.png]] 
+
+## Non Inverting
+
+- ![[Pasted image 20231231141717.png]] 
+	- $R_f$ (feedback) and $R_1$ form a voltage divider that applies part of the output signal to the inverting input
+	- Since input and output signals are in phase, applying output signal to the inverting input produces degenerative feedback
+		- The amplifier amplifies the difference between the input and the feedback signal
+			- Reduces feedback gain of the op amp to a controllable amount
+	- Applying DC input does not change circuit operation
+	- Gain is calculated by the ratio of the output resistance to input resistance
+		- $A_{calculated}=\frac {R_f+R_1}{R_1}=\frac {R_f}{R_1}+1$ #formula 
+		- ![[Pasted image 20231231143224.png]] 
+			- $\frac{10k\ohm}{1k\ohm}+1=11$ 
+		- $A_{measured}=\frac {E_{out}}{E_{in}}$ #formula 
+
+## Inverting Amp Circuit
+
+- ![[Pasted image 20231231161657.png]] 
+	- Input applied to the - input of the op amp
+	- $R_f$ applies part of the output signal to the inverting input
+		- Since input and output are out of phase, degenerative feedback
+			- Reduces gain to a controllable amount
+	- Applying DC doesnt change the operation
+	- $A_{calculated}=\frac {R_f}{R_{in}}$ 
+
+## Differential Amp
+
+- ![[Pasted image 20231231163613.png]] 
+	- Inputs are applied to both + and - 
+	- Normally use a gain of 1. $R_{f1}$ and $R_{in(-)}$ are equal
+	- $A_{calculated}=\frac{R_{f1}}{R_{in(-)}}=1$ 
+	- $R_{in(+)}$ and $R_{f2}$ form a voltage divider to ensure both inputs are equal
+		- The voltage divider balances the inputs by reducing the non-inverting input by the same amount as the feedback signal reduces the inverting input
+- Determining normal operation; find difference between inputs and compare to output
+	- $Output=(+input)-(-input)$ 
+
+## Summing Amp
+
+- ![[Pasted image 20231231171205.png]] 
+	- Several inputs are applied to the -input of the op amp
+- ![[Pasted image 20231231173319.png]] 
+	- Since input and output are out of phase, the result of applying the output signal to the inverting input produces degenerative feedback
+		- Reduces gain
+	- Using DC does not change circuit operation
+	- Summing amps normally use a gain of 1
+	- $Output=(Input1)+(Input2)$ 
