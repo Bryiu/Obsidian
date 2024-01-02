@@ -1,3 +1,7 @@
+# Data sheets
+
+- https://www.hobbyprojects.com/datasheets.html 
+- 
 
 ## Electronic Component Schematic Charts
 

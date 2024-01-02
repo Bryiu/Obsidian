@@ -182,3 +182,13 @@
 # Troubleshooting
 
 - Cannot repair IC's, just replace them
+- Recognize what type of circuit it is
+	- Inverting and non inverting amps have only one input
+		- Inverting amps should produce a negative signal for DC
+		- AC should be inverted
+- Compare calculated gain to measured gain
+	- Should be within 10% of normal operation
+- Check $V_{cc}$ (supply voltage)
+	- Check both positive and negative supply
+- Op Amp is faulted if inputs are good and outputs are bad
+![[Pasted image 20240101123515.png]] 
