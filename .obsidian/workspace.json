@@ -14,23 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "Electronics/Analog/Op Amps.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "228a8c76b2008d15",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1ac24f9adfb80870",
@@ -229,21 +218,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "228a8c76b2008d15",
+  "active": "c3e79458acf17b26",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Source/Pasted image 20240103141208.png",
+    "Source/Pasted image 20240103141103.png",
+    "Source/Pasted image 20240103140339.png",
+    "Source/Pasted image 20240103134840.png",
+    "Source/Pasted image 20240103123754.png",
+    "Source/Pasted image 20240103123619.png",
+    "Source/Pasted image 20240103110216.png",
+    "Source/Pasted image 20240103105415.png",
     "Electronics/Analog/Trigger Device Circuits.md",
     "Electronics/Analog/Transistor Pulse Circuits.md",
     "programming.sh.md",
     "Source/Pasted image 20240102134558.png",
     "Source/Pasted image 20240102134002.png",
-    "Source/Pasted image 20240102133738.png",
-    "Source/Pasted image 20240102133717.png",
-    "Source/Pasted image 20240102133057.png",
-    "Source/Pasted image 20240102132540.png",
-    "Source/Pasted image 20240102132519.png",
-    "Source/Pasted image 20240102131705.png",
-    "Source/Pasted image 20240102130747.png",
-    "Source/Pasted image 20240102130050.png",
     "Source/12.30",
     "Electronics/Analog/Op Amps.md",
     "Electronics/Analog/Filters.md",
@@ -260,7 +250,6 @@
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/AC/Calculations/RC/RC Circuits.md",
     "Electronics/Electronic Components.md",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20231116120616.png.md",
     "Source/11.16",
     "Obsidian.md/Obsidian.md",
@@ -275,7 +264,6 @@
     "Electronics/Electronics.md",
     "Electronics/Analog/Analog.md",
     "Electronics/Equipment/Equipment.md",
-    "Electronics/Process's/Process's.md",
-    "Electronics/DC/Equations/Electronics Equations(Origin).md"
+    "Electronics/Process's/Process's.md"
   ]
 }
