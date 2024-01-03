@@ -60,6 +60,24 @@
 - ![[Pasted image 20240102130747.png]] 
 - Capacitors are usually used over inductors in filters because they absorb less power
 - ![[Pasted image 20240102131705.png]] 
+- ![[Pasted image 20240103105415.png]] 
+- ![[Pasted image 20240103110216.png]] 
+	- L-Filter
+		- At low frequencies, the low impedance of the coil provides a ground path for signal current. Attenuating the signal
+		- At high frequencies, the coil has a high impedance allowing the signal currents to pass to the output
+	- T-Filter
+		- Works the same way as an L-Filter
+		- ![[Pasted image 20240103123619.png]] 
+	- $\pi$-Filter
+		- I guess no in depth lolz
+- ![[Pasted image 20240103123754.png]] 
+	- Most common and simplest high pass is the RC filter
+	- Has capacitor in series with the load 
+		- Parallel resistor
+	- Low frequencies capacitor acts like an open circuit
+	- High frequencies capacitor has very low reactance
+		- Allows all the current to flow through to the output
+- $f_c=\frac{1}{2 \pi RC}$ #formula 
 
 # Low Pass
 
@@ -68,6 +86,26 @@
 	- A simple low pass filter
 - ![[Pasted image 20240102132540.png]] 
 - Resistors do not perform any filtering action; they are used to help capacitors filter properly
+- ![[Pasted image 20240103134840.png]] 
+	- Inverted L-Filter
+		- The coil has a low impedance at low frequencies and a high impedance at high frequencies
+			- The low impedance of the coil and high impedance of the capacitor provide a path for signal current, producing an output voltage
+		- At high frequencies the coil has a high impedance and the capacitor has a low impedance, passing the small amount of current from the inductor to ground
+		- Disadvantage is the amount of power that is absorbed by the inductor
+- ![[Pasted image 20240103140339.png]] 
+	- T-Filter 
+		- Inductors have a low impedance at low frequencies and a high impedance at high frequencies
+		- Capacitors have a high impedance at low frequencies and a high impedance at high frequencies
+		- This filter type prevents power loss
+- ![[Pasted image 20240103141103.png]] 
+	- $\pi$-Type Filter
+		- Improved filtering and less inductor loss than the T-Type filter
+- ![[Pasted image 20240103141208.png]] 
+	- RC-Filter
+		- Simplest and most common type of low pass filter
+		- $X_c=\frac {1}{2 \pi f C}$ #formula 
+			- Cutoff occurs when $X_c=R$ 
+		- $\frac {1}{2 \pi R C}=f$ #formula 
 
 
 
