@@ -115,6 +115,8 @@
 - Only allow a band of frequencies to be passed
 - ![[Pasted image 20240102133057.png]] 
 - ![[Pasted image 20240102133738.png]] 
+- ![[Pasted image 20240104104126.png]] 
+	- $f_1,f_2$ are the lower and upper cutoff frequencies respectively
   
   
   
