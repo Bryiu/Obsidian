@@ -40,23 +40,16 @@
     "Obsidian",
     null,
     "Spaces/Home///Electronics",
-    "Spaces/Home///Electronics/Electronics/Analog",
     "Spaces/Home///Electronics",
-    "Spaces/Home///Electronics/Electronics/Analog",
     "Spaces/Home///Electronics",
-    "Spaces/Home///Electronics/Electronics/Analog",
-    "Spaces/Home///Electronics/Electronics/Analog",
     "Spaces/Home///Spaces/Spaces/Home",
     "Spaces/Home///Electronics/Electronics/AC/Electronics/AC/Calculations",
-    "Spaces/Home///Electronics/Electronics/Analog",
     "Spaces/Home//",
     "Spaces/Home///Electronics",
     "Spaces/Home//",
     "Spaces/Home///Electronics/Electronics/AC/Electronics/AC/Calculations/Electronics/AC/Calculations/RC",
-    "Spaces/Home///Electronics/Electronics/Analog",
     "Spaces/Home///Electronics/Electronics/AC/Electronics/AC/Calculations/Electronics/AC/Calculations/LCR",
-    "Spaces/Home///Electronics/Electronics/Equipment",
-    "Spaces/Home///Electronics/Electronics/Analog"
+    "Spaces/Home///Electronics"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -86,7 +79,8 @@
   ],
   "rootSpaces": [
     "Spaces/Home",
-    "Electronics/Books"
+    "Electronics/Books",
+    "Electronics/Digital"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
