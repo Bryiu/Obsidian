@@ -49,7 +49,9 @@
     "Spaces/Home//",
     "Spaces/Home///Electronics/Electronics/AC/Electronics/AC/Calculations/Electronics/AC/Calculations/RC",
     "Spaces/Home///Electronics/Electronics/AC/Electronics/AC/Calculations/Electronics/AC/Calculations/LCR",
-    "Spaces/Home///Electronics"
+    "Spaces/Home///Electronics",
+    "Spaces/Home///Electronics/Electronics/Digital",
+    "Spaces/Home///Electronics/Electronics/Digital"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

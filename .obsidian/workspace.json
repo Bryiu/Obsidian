@@ -11,9 +11,11 @@
             "id": "d6800bc93efc2745",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Electronics"
+                "file": "Electronics/Digital/Intro.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics/Digital/Intro.md"
+              }
             }
           },
           {
@@ -108,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics/Digital/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics/Digital/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,6 +213,7 @@
   },
   "active": "d6800bc93efc2745",
   "lastOpenFiles": [
+    "Electronics/Digital/Intro.md",
     "Electronics/Analog/Filters.md",
     "Electronics/Digital/Digital.md",
     "Electronics/Digital",
@@ -249,7 +256,6 @@
     "Source/11.16",
     "Obsidian.md/Obsidian.md",
     "Obsidian.md",
-    "Electronics/Analog/Electron Tube Principals.md",
     "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
     "Electronics/Books/OpAmps_for_eveyone.pdf",
     "Electronics/Books/OpAmps_for_eveyone.pdf.crdownload"
