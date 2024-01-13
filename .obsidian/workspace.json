@@ -153,8 +153,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -213,20 +212,22 @@
   },
   "active": "d6800bc93efc2745",
   "lastOpenFiles": [
+    "Source/Pasted image 20240112190856.png",
+    "Source/Pasted image 20240112173118.png",
+    "Source/Pasted image 20240112173040.png",
+    "Source/Pasted image 20240112163023.png",
+    "Source/Pasted image 20240112155303.png",
+    "Source/Pasted image 20240112154236.png",
+    "Source/Pasted image 20240112154208.png",
+    "Source/Pasted image 20240112153548.png",
+    "Source/Pasted image 20240112150112.png",
+    "Source/Pasted image 20240112144827.png",
+    "Source/Pasted image 20240112144648.png",
+    "Source/1.9.24",
     "Electronics/Digital/Intro.md",
     "Electronics/Analog/Filters.md",
     "Electronics/Digital/Digital.md",
     "Electronics/Digital",
-    "Source/Pasted image 20240104141401.png",
-    "Source/Pasted image 20240104130130.png",
-    "Source/Pasted image 20240104130121.png",
-    "Source/Pasted image 20240104123020.png",
-    "Source/Pasted image 20240104122230.png",
-    "Source/Pasted image 20240104112935.png",
-    "Source/Pasted image 20240104104126.png",
-    "Source/Pasted image 20240103141208.png",
-    "Source/Pasted image 20240103141103.png",
-    "Source/Pasted image 20240103140339.png",
     "Electronics/Electronic Components.md",
     "Electronics/Analog/Op Amps.md",
     "Source/12.30",
@@ -255,9 +256,7 @@
     "Pasted image 20231116120616.png.md",
     "Source/11.16",
     "Obsidian.md/Obsidian.md",
-    "Obsidian.md",
     "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
-    "Electronics/Books/OpAmps_for_eveyone.pdf",
-    "Electronics/Books/OpAmps_for_eveyone.pdf.crdownload"
+    "Electronics/Books/OpAmps_for_eveyone.pdf"
   ]
 }
