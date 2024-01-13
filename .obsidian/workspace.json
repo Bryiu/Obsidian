@@ -11,15 +11,26 @@
             "id": "b5a98f29e4f3b189",
             "type": "leaf",
             "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Linux"
+              }
+            }
+          },
+          {
+            "id": "3987cd38b80127aa",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Process's/AUR.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Process's/AUR.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Process's/AUR.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Process's/AUR.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -206,12 +217,30 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b5a98f29e4f3b189",
+  "active": "3987cd38b80127aa",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Source/Pasted image 20240112190856.png",
+    "Source/Pasted image 20240112173118.png",
+    "Source/Pasted image 20240112173040.png",
+    "Source/Pasted image 20240112163023.png",
+    "Source/Pasted image 20240112155303.png",
+    "Source/Pasted image 20240112154236.png",
+    "Source/Pasted image 20240112154208.png",
+    "Source/Pasted image 20240112153548.png",
+    "Source/Pasted image 20240112150112.png",
+    "Source/Pasted image 20240112144827.png",
+    "Source/12.30",
+    "Source/1.9.24",
+    "Electronics/Digital/Intro.md",
+    "Electronics/Digital/Digital.md",
+    "Electronics/Digital",
+    "Electronics/Analog/Op Amps.md",
+    "Electronics/Analog/Filters.md",
+    "Linux/Process's/AUR.md",
     "Linux/Process's/Bash Scripting.md",
     "Linux/Process's/Gnome Commands.md",
     "Linux/Process's/Extending LVM.md",
-    "Linux/Process's/AUR.md",
     "Index.md",
     "programming.sh.md",
     "gaming.sh.md",
