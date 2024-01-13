@@ -135,4 +135,6 @@
 
 # Input/Output Voltages
 
-- 
+- When TTL was devised, Lows were 0.8V or less and highs were 2V or more
+	- Some variance whether we're looking at input or output
+		- ![[Pasted image 20240113080749.png]] 
