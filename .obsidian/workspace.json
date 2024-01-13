@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Process's/Bash Scripting.md",
+                "file": "Linux/Process's/AUR.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Process's/Bash Scripting.md",
+                "file": "Linux/Process's/AUR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Process's/Bash Scripting.md",
+                "file": "Linux/Process's/AUR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Process's/Bash Scripting.md"
+                "file": "Linux/Process's/AUR.md"
               }
             }
           }
@@ -208,6 +208,7 @@
   },
   "active": "b5a98f29e4f3b189",
   "lastOpenFiles": [
+    "Linux/Process's/Bash Scripting.md",
     "Linux/Process's/Gnome Commands.md",
     "Linux/Process's/Extending LVM.md",
     "Linux/Process's/AUR.md",
