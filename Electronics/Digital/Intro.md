@@ -201,3 +201,6 @@
 		- 555 Timer
 			- Wont operate by itself. Requires external components on pins
 			- In most configs, CLR input is tied to $V_{cc}$ which disables CLR
+			- Comparators have a reference voltage applied from $+V_{cc}$ 
+			- The reference voltages and inputs on pins 6 and 2 make the 555 operate
+			- 
