@@ -138,3 +138,66 @@
 - When TTL was devised, Lows were 0.8V or less and highs were 2V or more
 	- Some variance whether we're looking at input or output
 		- ![[Pasted image 20240113080749.png]] 
+		- Manufacturers have stiffer mandatory levels
+		- The voltages between 0.8 and 2V are indeterminate and illegal as they are not valid logic levels
+			- When voltage is in these parameters its called a float, and likely points to an open in the circuit
+		- The actual point where a TTL device switches from a LOW to a HIGH or vice versa is normally about 1.4V. 
+			- The 0.8V-2V levels were established for Margin of Error
+			- Also for noise levels
+
+# Digital Test Equipment
+
+# Clock Generator
+
+- Supplies inputs to digital circuits for the purpose of determining normal operation
+	- High, Low, and Pulse square waves are produced by the clock generator
+- ![[Pasted image 20240113115941.png]] 
+	- ![[Pasted image 20240113120006.png]] 
+		- Placing an oscilloscope at the clocks outputs allows you to monitor the square wave produced
+- ![[Pasted image 20240113120937.png]] 
+	- The square wave is sent to the frequency divider to generate three square waves of different frequency
+		- Measured at $F_1,F_2,F_3$ 
+		- If the potentiometer is adjusted, three output signals changed
+
+# Logic Probe
+
+- Used to detect the presence or absence of signals in digital circuits
+- Indicate when High, Low, or Pulsating logic levels are present
+- ![[Pasted image 20240113124909.png]] 
+	- Red clip to the +5V test point; Black to ground
+
+# 555 Timer
+
+- Provides timing signals to other digital circuits
+
+## Description
+
+- Operates as either an astable or monostable vibrator
+- Output is a square wave that can range from a few hertz to several megahertz
+- Can operate as a TTL-compatible astable, monostable, pulse width modulator, or linear ramp generator
+- Modern 555 are 8 pin DIPS
+	- Older styles are housed in cans
+	- ![[Pasted image 20240113152028.png]] 
+		- $V_{cc}$ can vary from 5VDC to 15VDC without affecting circuit operation 
+		- To produce different circuit configs; different components and voltages are connected to pins 2,4,5,6,7
+- ![[Pasted image 20240113153648.png]] 
+	- Internal design of the 555
+	- Major components are an inverter, transistor, 2 comparators, and an RS flip flop
+		- Comparator
+			- Compares two voltage levels
+			- If the + is more positive than the -, the output is high
+				- If less positive, the output is LOW
+				- The - input is subtracted from the + input.
+			- Input is analog and output is digital
+		- RS 
+			- Means Reset, set
+			- Three inputs, two outputs
+				- Two outputs are always opposite of each other
+					- If both match its an invalid input condition
+				- Outputs will not change if inputs become 0
+				- Clear input overrides inputs R and S.
+					- If low, the flip flop resets
+					- Bubble indicates low activates this function
+		- 555 Timer
+			- Wont operate by itself. Requires external components on pins
+			- In most configs, CLR input is tied to $V_{cc}$ which disables CLR
