@@ -203,4 +203,82 @@
 			- In most configs, CLR input is tied to $V_{cc}$ which disables CLR
 			- Comparators have a reference voltage applied from $+V_{cc}$ 
 			- The reference voltages and inputs on pins 6 and 2 make the 555 operate
-			- 
+				- Components connected to these pins control 555 config
+				- Even if threshold voltage drops below 2/3 $V_{cc}$ and causes a LOW output from comparator 1, the flip flop stays reset
+				- When trigger input voltage drops below 1/3 $V_{cc}$ comparator 2 puts a HIGH on input S of the flip flop
+					- When trigger input goes above, the 0 output of the comparator 2 will not change the flip flops state
+			- Pin 3 (output) is LOW when the threshold input goes above 2/3 $V_{cc}$ and HIGH when trigger input goes below 1/3 $V_{cc}$ 
+				- Goes low and stays low even if the voltage on the threshold input drops
+				- Goes HIGH and stays high even if voltage on the trigger input goes above 1/3
+			- Transistor is used as a switch to supply a ground to pin 7
+				- When $\bar Q$ output is HIGH, transistor is forward biased connecting the ground on pin 1 to 7
+					- When reverse biased it breaks the connection
+![[Pasted image 20240114133920.png]]  
+
+## Configuration
+
+### Astable
+
+- ![[Pasted image 20240114132440.png]] 
+- Produces a continuous square wave output. No stable states
+- Pin 4 at $V_{cc}$ disables the CLR input to the RS flip flop
+- Pin 1 is grounded. 
+	- Keeps reference voltages at 2/3 and 1/3 $V_{cc}$ 
+- Pin 5 is grounded
+	- Capacitor and ground filter noise and voltage variations from power supply
+- Pin 7 has the connection of $R_1,R_2$ applied
+	- Will be open or grounded depending on the state of the internal circuit
+- Pin 2,6 has $R_2,C_1$ 
+	- Circuit operation is based on the charging and discharging of $C_1$ 
+
+#### Operation
+
+- ![[Pasted image 20240114145457.png]] 
+
+- When $V_{cc}$ is first applied, voltage across $C_1$ is 0V
+	- 0V on pin 6 is not greater than 2/3 $V_{cc}$ 
+		- Output on pin 3 will not change to LOW
+	- 0V on pin 2 is less than 1/3 $V_{cc}$
+		- Output on pin 3 will be HIGH and pin 7 is open
+- Open on pin 7, $C_1$ starts to charge
+	- When voltage across $C_1$ increases between 1/3 and 2/3 there is no circuit action
+	- $C_1$ continues to charge until reaching 2/3
+		- At 2/3, Threshold causes the output to change to a LOW and pin 7 is grounded
+			- Ground on pin 7 causes $V_{cc}$ to be dropped across $R_1$ 
+			- $C_1$ starts discharging, decreasing the voltage on pins 2,6
+				- Discharging between 2/3 and 1/3 there is no circuit action
+					- Stops around 1/3
+						- Output becomes high again
+							- ![[Pasted image 20240114150305.png]] 
+				- Frequency of the output depends on the RC time constant of $R_1,R_2, and \, C_1$  
+- $V_{cc}$ values have no effect on operation since the 555, resistors and capacitor use the same $V{cc}$ 
+
+
+
+### Monostable
+
+- ![[Pasted image 20240114160342.png]] 
+
+- ![[Pasted image 20240114132452.png]] 
+- Produces a High output only when an input is received, then the output goes back low. One stable state
+- Normally High input on pin 2 does not cause the circuit to change
+	- Neither 0V on pin 6
+- LOW output indicate that pin 7 is grounded
+- If output is HIGH at this time, the circuit automatically changes the output to a LOW
+- Since Pin 7 is connected to pin 6, the voltage on pin 6 is grounded and the capacitor cannot charge 
+	- Remains in a stable state since pin 2 voltage has not changed and pin 6 voltage cannot change
+		- ![[Pasted image 20240114160712.png]] 
+	- A LOW applied to pin 2 will change the output
+		- With the ground removed from pin 6 and 7, $C_1$ begins to charge
+		- Even if input goes back to HIGH, $C_1$ will charge
+		- just above 2/3 threshold goes low and pin 7 is grounded
+			- $C_1$ discharges
+				- Output does not change
+		- Once $C_1$ charges above 2/3 the output goes back to low and the ground is placed back on pins 6,7
+		- The time the output remains high depends on the time constant of $R_1,C_1$ 
+			- Not the time pin 2 is LOW
+- Circuit remains in a stable state until another input is received on the trigger
+- $V_{cc}$ value has no effect on the circuit operation
+  
+  
+  
