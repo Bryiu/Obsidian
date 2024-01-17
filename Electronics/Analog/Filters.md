@@ -114,13 +114,43 @@
 - Combo of High and Low pass filters
 - Only allow a band of frequencies to be passed
 - ![[Pasted image 20240102133057.png]] 
+	- High pass and low pass in series
 - ![[Pasted image 20240102133738.png]] 
+- ![[Pasted image 20240104104126.png]] 
+	- $f_1,f_2$ are the lower and upper cutoff frequencies respectively
+		- Frequencies between them are passed through
+		- Represent 70.07 of amplitude
+- ![[Pasted image 20240104112935.png]] 
+	- Active band pass filter
+	- Op Amp is used for filtering action
+	- $R_1$ and $R_2$ form a voltage divider
+	- Filtering performed by $C_1$
+	- Feedback passed through $C_2$ 
   
   
   
 
 # Band Reject, Band Stop, or Notch
 
+
+- Designed to block a small band of frequencies while passing others
+	- Frequency is attenuated until the upper and lower cutoff frequency is reached (between)
 - ![[Pasted image 20240102134002.png]] 
 	- High pass and low pass are connected in parallel to each other
 - ![[Pasted image 20240102134558.png]] 
+- ![[Pasted image 20240104122230.png]] 
+- Attenuated bandwidth is the difference between the upper and lower cutoff frequency
+- ![[Pasted image 20240104123020.png]] 
+	- $R_1,C_1,R_2$ form a low pass filter
+	- $C_2, R_3, C_3$ form a high pass filter
+	- Since the two filters are in parallel, the signal current passes through the filter section that offers the least impedance
+- **Q-Factor**: A figure of merit. #definition 
+	- Q is a numerical factor without any units
+	- Its a ratio of reactance to resistance and the Ohms cancel each other
+	- The higher the Q, the narrower the width of the rejected frequency response
+	- ![[Pasted image 20240104130121.png]] ![[Pasted image 20240104130130.png]] 
+- ![[Pasted image 20240104141401.png]] 
+	- Common active band reject use two op amps
+	- $IC1$ performs no filtering
+		- Used to maintain or increase the gain at the output of the filter
+	- $IC2$ is used as part of the filtering process
