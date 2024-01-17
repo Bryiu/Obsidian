@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a36f6d9537a78ffc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/Digital/Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57d16420a6e0723e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a2dadebdc1118c35",
@@ -103,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Digital/Intro.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Digital/Intro.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Digital/Intro.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -163,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "1ac24f9adfb80870",
@@ -219,8 +243,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "806543255ce63c18",
+  "active": "57d16420a6e0723e",
   "lastOpenFiles": [
+    "Electronics/Digital/Intro.md",
+    "conflict-files-obsidian-git.md",
     "Source/Pasted image 20240116175653.png",
     "Source/Pasted image 20240116174834.png",
     "Source/Pasted image 20240116174249.png",
@@ -231,14 +257,11 @@
     "Source/Pasted image 20240116173534.png",
     "Source/Pasted image 20240116173402.png",
     "Source/Pasted image 20240116173052.png",
-    "Source/1.9.24/Pasted image 20240104141401.png",
     "Source/1.9.24",
-    "Electronics/Digital/Intro.md",
     "Electronics/Digital/Digital.md",
     "Electronics/Digital",
     "Electronics/Analog/Op Amps.md",
     "Electronics/AC/Calculations/General.md",
-    "conflict-files-obsidian-git.md",
     "Electronics/AC/Theory.md",
     "Electronics/Analog/Trigger Device Circuits.md",
     "Electronics/Analog/Transistor Pulse Circuits.md",
