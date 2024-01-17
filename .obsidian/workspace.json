@@ -11,8 +11,12 @@
             "id": "806543255ce63c18",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/Digital/Intro.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "input resistance",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a2dadebdc1118c35",
@@ -98,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronics/Digital/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronics/Digital/Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronics/Digital/Intro.md"
+              }
             }
           },
           {
@@ -154,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1ac24f9adfb80870",
@@ -212,17 +221,17 @@
   },
   "active": "806543255ce63c18",
   "lastOpenFiles": [
+    "Source/Pasted image 20240116175653.png",
+    "Source/Pasted image 20240116174834.png",
+    "Source/Pasted image 20240116174249.png",
+    "Source/Pasted image 20240116174059.png",
+    "Source/Pasted image 20240116174043.png",
+    "Source/Pasted image 20240116173809.png",
+    "Source/Pasted image 20240116173654.png",
+    "Source/Pasted image 20240116173534.png",
+    "Source/Pasted image 20240116173402.png",
+    "Source/Pasted image 20240116173052.png",
     "Source/1.9.24/Pasted image 20240104141401.png",
-    "Source/1.9.24/Pasted image 20240104130130.png",
-    "Source/1.9.24/Pasted image 20240104130121.png",
-    "Source/1.9.24/Pasted image 20240104123020.png",
-    "Source/1.9.24/Pasted image 20240104122230.png",
-    "Source/1.9.24/Pasted image 20240104112935.png",
-    "Source/1.9.24/Pasted image 20240104104126.png",
-    "Source/1.9.24/Pasted image 20240103141208.png",
-    "Source/1.9.24/Pasted image 20240103141103.png",
-    "Source/1.9.24/Pasted image 20240103140339.png",
-    "Source/1.9.24/Pasted image 20240103134840.png",
     "Source/1.9.24",
     "Electronics/Digital/Intro.md",
     "Electronics/Digital/Digital.md",

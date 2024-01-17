@@ -281,4 +281,65 @@
 - $V_{cc}$ value has no effect on the circuit operation
   
   
-  
+  # Intro to IC
+
+## Classification
+
+- First developed in 1959 by Texas Instruments
+- ![[Pasted image 20240116173052.png]] 
+
+### Monolithic
+
+- ![[Pasted image 20240116173402.png]] 
+	- Placing all integrated components into a single piece of doped semiconductor material
+	- Used most often
+
+### Thin Film
+
+- ![[Pasted image 20240116173534.png]] 
+	- Placed on a insulating material
+	- Good insulation 
+	- Less power
+
+### Thick film
+
+- ![[Pasted image 20240116173654.png]] 
+	- More than one substrate
+	- Resistors and capacitors are formed on the main substrate while transistors are contained on their own substrate
+
+### Hybrid
+
+- ![[Pasted image 20240116173809.png]] 
+- Mix of both Monolithic and thin film, even thick
+- 
+
+## Linear
+
+- ![[Pasted image 20240116174043.png]] 
+
+## Digital
+
+- ![[Pasted image 20240116174059.png]] 
+- 
+
+## Construction
+
+- ![[Pasted image 20240116174249.png]]
+	- Different layers of doped material are created using different techniques
+- On the top wafer, wire is deposited to connect the different components
+	- Normally aluminum or gold
+- Factors in packaging an IC
+	- Packaging material
+		- Ceramic, plastic, or glass
+		- ![[Pasted image 20240116174834.png]]
+			- Ceramic can be sealed better than plastic
+	- Packaging shape
+	- Pin arrangement
+
+
+
+
+## Identification
+
+- ![[Pasted image 20240116175653.png]] 
+- 

@@ -47,12 +47,8 @@
     "Spaces/Home//",
     "Spaces/Home///Electronics",
     "Spaces/Home//",
-    "Spaces/Home///Electronics/Electronics/AC/Electronics/AC/Calculations/Electronics/AC/Calculations/RC",
-    "Spaces/Home///Electronics/Electronics/AC/Electronics/AC/Calculations/Electronics/AC/Calculations/LCR",
-    "Spaces/Home///Linux",
-    "Spaces/Home///Linux/Linux/Process's",
-    "Spaces/Home///Linux",
-    "Spaces/Home///Electronics"
+    "Spaces/Home///Electronics/Electronics/Equipment",
+    "Spaces/Home///Electronics/Electronics/Digital"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
