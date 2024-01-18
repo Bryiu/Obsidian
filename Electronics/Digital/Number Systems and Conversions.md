@@ -88,4 +88,4 @@ Regular subtraction, just carry 4's instead of 10's
 
 # The Binary System
 
-- 
+- Base 2
