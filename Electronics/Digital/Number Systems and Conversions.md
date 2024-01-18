@@ -89,3 +89,64 @@ Regular subtraction, just carry 4's instead of 10's
 # The Binary System
 
 - Base 2
+- ![[Pasted image 20240118103945.png]] 
+- ![[Pasted image 20240118105406.png]] 
+- ![[Pasted image 20240118111427.png]] 
+
+## BCD code
+
+- ![[Pasted image 20240118112340.png]] 
+	- represents a decimal with a four digit array
+- ![[Pasted image 20240118122426.png]] 
+	- Cannot associate position with a specific value
+	- Not good for mathmatics
+	- Good for efficiency and speed
+
+## ASCII
+
+- ![[Pasted image 20240118125507.png]] 
+- ASCII: American Standard Code for Information Interchange
+	- The first 128 characters in an 8-bit code
+	- 8-bit extended ASCII code using the last 128 characters that is not standardized and used for special purposes by different software manufacturers
+	- Basic ASCII codes use a 0011 prefix plus the BCD code for decimal digits
+
+## Unicode
+
+- Universal character encoding standard
+- ![[Pasted image 20240118134707.png]] 
+	- Provides the interchange of text data in any langage
+	- UTF-8 standard
+	- Compatible with the basic ASCII code
+	- Difference between ASCII and Unicode:
+		- ASCII is solely an 8 bit code
+			- Can only generate 256 different characters
+		- Unicode can use up to 32 bits
+			- Generate over a million different characters 
+	- UTF-16 codes are used to increase the quantity of letters, numbers, and symbols like languages as Greek
+	- UTF-32 codes are used to further increase the quantity; like the use of emoji's
+	- 
+
+# Octal and Hexadecimal Systems
+
+- Binary codes are often presented in 8-bit or 16-bit format
+	- ![[Pasted image 20240118141402.png]] 
+
+## Octal
+
+- Base 8 System
+- ![[Pasted image 20240118142420.png]] 
+- ![[Pasted image 20240118143809.png]] 
+- ![[Pasted image 20240118143819.png]] 
+
+
+
+## Hexidecimal
+
+- ![[Pasted image 20240118144113.png]] 
+- ![[Pasted image 20240118144536.png]] 
+- ![[Pasted image 20240118144918.png]] 
+- ![[Pasted image 20240118145011.png]] 
+- ![[Pasted image 20240118145746.png]] 
+- ![[Pasted image 20240118145821.png]] 
+
+![[Pasted image 20240118152834.png]]
