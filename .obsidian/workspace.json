@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Digital/Intro.md",
+                "file": "Electronics/Digital/Number Systems and Conversions.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Digital/Intro.md"
+                "file": "Electronics/Digital/Number Systems and Conversions.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Digital/Intro.md",
+                "file": "Electronics/Digital/Number Systems and Conversions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Digital/Intro.md",
+                "file": "Electronics/Digital/Number Systems and Conversions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,8 +153,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -213,19 +212,20 @@
   },
   "active": "d6800bc93efc2745",
   "lastOpenFiles": [
-    "Source/Pasted image 20240114183049.png",
-    "Source/Pasted image 20240114160712.png",
-    "Source/Pasted image 20240114160342.png",
-    "Source/Pasted image 20240114150305.png",
-    "Source/Pasted image 20240114145457.png",
-    "Linux/Process's/AUR.md",
+    "Source/Pasted image 20240117181559.png",
+    "Source/Pasted image 20240117181007.png",
+    "Source/Pasted image 20240117172120.png",
+    "Source/Pasted image 20240117171828.png",
+    "Source/Pasted image 20240117171327.png",
+    "Source/Pasted image 20240117161812.png",
+    "Electronics/Digital/Number Systems and Conversions.md",
+    "Source/Pasted image 20240117151433.png",
+    "Source/Pasted image 20240117145520.png",
+    "Source/Pasted image 20240117143411.png",
+    "Source/Pasted image 20240117141354.png",
+    "Source/Pasted image 20240117141055.png",
     "Electronics/Digital/Intro.md",
-    "Source/Pasted image 20240114133920.png",
-    "Source/Pasted image 20240114132452.png",
-    "Source/Pasted image 20240114132440.png",
-    "Source/Pasted image 20240113153648.png",
-    "Source/Pasted image 20240113152028.png",
-    "Source/Pasted image 20240113124909.png",
+    "Linux/Process's/AUR.md",
     "Source/1.9.24",
     "Electronics/Analog/Filters.md",
     "Electronics/Digital/Digital.md",
@@ -255,7 +255,6 @@
     "Electronics/Analog/Transistors.md",
     "Electronics/Analog/Power Supplies.md",
     "Electronics/AC/Calculations/RC/RC Circuits.md",
-    "Pasted image 20231116120616.png.md",
     "Source/11.16",
     "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
     "Electronics/Books/OpAmps_for_eveyone.pdf"
