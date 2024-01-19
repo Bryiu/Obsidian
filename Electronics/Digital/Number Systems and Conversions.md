@@ -149,4 +149,3 @@ Regular subtraction, just carry 4's instead of 10's
 - ![[Pasted image 20240118145746.png]] 
 - ![[Pasted image 20240118145821.png]] 
 
-![[Pasted image 20240118152834.png]]
