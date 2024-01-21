@@ -11,11 +11,9 @@
             "id": "d6800bc93efc2745",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Electronics/Digital/Number Systems and Conversions.md",
-                "mode": "source",
-                "source": false
+                "file": "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf"
               }
             }
           }
@@ -102,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Digital/Number Systems and Conversions.md"
+                "file": "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf"
               }
             }
           },
@@ -112,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Digital/Number Systems and Conversions.md",
+                "file": "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Digital/Number Systems and Conversions.md",
+                "file": "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,6 +211,9 @@
   },
   "active": "d6800bc93efc2745",
   "lastOpenFiles": [
+    "Electronics/Digital/Number Systems and Conversions.md",
+    "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf",
+    "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf.crdownload",
     "Source/Pasted image 20240118152834.png",
     "Source/Pasted image 20240118145821.png",
     "Source/Pasted image 20240118145746.png",
@@ -223,8 +224,6 @@
     "Source/Pasted image 20240118143819.png",
     "Source/Pasted image 20240118143809.png",
     "Source/Pasted image 20240118143739.png",
-    "Source/Pasted image 20240118143651.png",
-    "Electronics/Digital/Number Systems and Conversions.md",
     "Electronics/Digital/Intro.md",
     "Linux/Process's/AUR.md",
     "Source/1.9.24",
@@ -256,8 +255,6 @@
     "Electronics/Analog/Transistors.md",
     "Electronics/Analog/Power Supplies.md",
     "Electronics/AC/Calculations/RC/RC Circuits.md",
-    "Source/11.16",
-    "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
-    "Electronics/Books/OpAmps_for_eveyone.pdf"
+    "Source/11.16"
   ]
 }
