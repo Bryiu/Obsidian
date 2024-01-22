@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "17c4c59a445d2e59",
+        "id": "10188d29bef89f36",
         "type": "tabs",
         "children": [
           {
-            "id": "d6800bc93efc2745",
+            "id": "35240f8174c1105a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf"
+                "file": "Electronics/Digital/Digital Troubleshooting.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf"
+                "file": "Electronics/Digital/Digital Troubleshooting.md"
               }
             }
           },
@@ -110,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf",
+                "file": "Electronics/Digital/Digital Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf",
+                "file": "Electronics/Digital/Digital Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,10 +211,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "d6800bc93efc2745",
+  "active": "35240f8174c1105a",
   "lastOpenFiles": [
-    "Electronics/Digital/Number Systems and Conversions.md",
+    "Electronics/Digital/Digital Troubleshooting.md",
     "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf",
+    "Electronics/Digital/Number Systems and Conversions.md",
     "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf.crdownload",
     "Source/Pasted image 20240118152834.png",
     "Source/Pasted image 20240118145821.png",
