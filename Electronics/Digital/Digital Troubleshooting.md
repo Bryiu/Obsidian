@@ -24,6 +24,9 @@
 		- Replace the faulty component
 		- Repair faulty connections
 		- Remove shorts 
+- If one or more of the IC's inputs are internally shorted to ground or $V_{cc}$ the device will be stuck in either a LOW or HIGH state
+	- The gate will remain high or low depending on its path and open or short
+	- Characterized by excessive heat dissipation from the IC package
 
 
 
