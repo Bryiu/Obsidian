@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Digital/Number Systems and Conversions.md",
+                "file": "Electronics/AC/Calculations/RC/RC Transients.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Digital/Number Systems and Conversions.md",
+                "file": "Electronics/AC/Calculations/RC/RC Transients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Digital/Number Systems and Conversions.md",
+                "file": "Electronics/AC/Calculations/RC/RC Transients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Digital/Number Systems and Conversions.md"
+                "file": "Electronics/AC/Calculations/RC/RC Transients.md"
               }
             }
           },
@@ -187,7 +187,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "84720ef2ae0498ba",
@@ -218,8 +219,20 @@
       "graph:Open graph view": false
     }
   },
-  "active": "806543255ce63c18",
+  "active": "930efed7aed73fa7",
   "lastOpenFiles": [
+    "Electronics/AC/Calculations/RC/RC Transients.md",
+    "Electronics/AC/Calculations/RC/RC Time Constraints.md",
+    "Electronics/AC/Calculations/General.md",
+    "Electronics/AC/Calculations/RC/RC Filters.md",
+    "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
+    "Electronics/Analog/Electron Tube Principals.md",
+    "Electronics/Analog/Diodes.md",
+    "Electronics/Analog/Oscillators.md",
+    "Electronics/Analog/Filters.md",
+    "Electronics/Analog/Op Amps.md",
+    "Electronics/Analog/Trigger Device Circuits.md",
+    "Electronics/Digital/Number Systems and Conversions.md",
     "Electronics/Digital/Intro.md",
     "Source/Pasted image 20240118152834.png",
     "Source/Pasted image 20240117140912.png",
@@ -231,20 +244,14 @@
     "Source/Pasted image 20240117130046.png",
     "Source/Pasted image 20240117125624.png",
     "Source/Pasted image 20240117125614.png",
-    "Electronics/Digital/Number Systems and Conversions.md",
     "Source/1.9.24",
     "Electronics/Digital/Digital.md",
     "Electronics/Digital",
-    "Electronics/Analog/Op Amps.md",
-    "Electronics/AC/Calculations/General.md",
     "conflict-files-obsidian-git.md",
     "Electronics/AC/Theory.md",
-    "Electronics/Analog/Trigger Device Circuits.md",
     "Electronics/Analog/Transistor Pulse Circuits.md",
     "programming.sh.md",
     "Source/12.30",
-    "Electronics/Analog/Filters.md",
-    "Electronics/Analog/Oscillators.md",
     "Electronics/Equipment/Oscilliscopes/Oscilliscope (Rigol DS1104Z).md",
     "Electronics/Analog/Transistor Amplifiers.md",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf",
@@ -253,15 +260,10 @@
     "Electronics/Analog/Field Effect Transistor Amplifiers.md",
     "Pasted image 20231130143306.png.md",
     "Source/1129",
-    "Electronics/Analog/Diodes.md",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/AC/Calculations/RC/RC Circuits.md",
     "Electronics/Electronic Components.md",
-    "Pasted image 20231116120616.png.md",
     "Source/11.16",
-    "Obsidian.md/Obsidian.md",
-    "Obsidian.md",
-    "Electronics/Analog/Electron Tube Principals.md",
     "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
     "Electronics/Books/OpAmps_for_eveyone.pdf",
     "Electronics/Books/OpAmps_for_eveyone.pdf.crdownload"
