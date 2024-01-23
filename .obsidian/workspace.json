@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Digital/Number Systems and Conversions.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Digital/Number Systems and Conversions.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Digital/Number Systems and Conversions.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -230,8 +231,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "806543255ce63c18",
+  "active": "20a3aa4b1530d0db",
   "lastOpenFiles": [
+    "Electronics/Digital/Number Systems and Conversions.md",
     "conflict-files-obsidian-git.md",
     "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf",
     "Electronics/Digital/Digital Troubleshooting.md",
@@ -246,7 +248,6 @@
     "Source/Pasted image 20240117130046.png",
     "Source/Pasted image 20240117125624.png",
     "Source/Pasted image 20240117125614.png",
-    "Electronics/Digital/Number Systems and Conversions.md",
     "Source/1.9.24",
     "Electronics/Digital/Digital.md",
     "Electronics/Digital",
