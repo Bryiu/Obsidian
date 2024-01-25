@@ -61,6 +61,33 @@
 
 # Troubleshooting Techniques
 
+- Checking PSU
+	- Multimeter
+		- Used to verify the power supply voltage levels are within tolerance and that current draw has not exceeded the PSU's specs
+	- Oscilloscope
+		- Good idea to check for AC ripple on DC levels and that voltage levels are regulated
+- Logic Levels
+	- Multimeter
+		- Used to verify that device logic levels are within specification
+			- TTL Low should be between 0 and .8V
+			- TTL High should be between 2.7 and 5V
+			- ![[Pasted image 20240124200226.png]] 
+- Resistance
+	- Multimeter
+		- Used to check for opens or shorts
 - Multimeter
-	- Used to verify the power supply voltage levels are within tolerance and that current draw has not exceeded the PSU's specs
-	- 
+	- Digital (pulsed to clock measurements) has frequencies too high to display accurate readings
+		- Measurements are inaccurate and erratic
+- Logic Probe
+	- Developed to overcome the shortcomings of the multimeter
+	- Used to detect the presence or absence of signals in digital circuits
+- Oscilloscope
+	- .
+- Signal Tracing
+	- If voltage measurements with Oscill and current measurements made with a multimeter do not isolate a fault, use logic probe
+	- Works well with a circuit with few components
+	- A defective component could be any gate connected to the fault
+		- ![[Pasted image 20240124212729.png]] 
+		- Only able to disconnect all connections at X and rechecking
+			- The gate which is disconnected at signal goes back to normal is the defect
+	- **Half Split Signal Tracing Rule**: divides the circuit in half, and the faulty half is divided in half. The division continues until the defective component has been determined
