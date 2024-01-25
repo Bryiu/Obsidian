@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a29d93989afb0e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/AC/Calculations/LCR/LCR Circuits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bf5f7556c776a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Transients.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Transients.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/AC/Calculations/RC/RC Transients.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -219,11 +244,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "930efed7aed73fa7",
+  "active": "0bf5f7556c776a50",
   "lastOpenFiles": [
-    "Electronics/AC/Calculations/RC/RC Transients.md",
-    "Electronics/AC/Calculations/RC/RC Time Constraints.md",
+    "Electronics/AC/Calculations/LCR/LCR Circuits.md",
+    "conflict-files-obsidian-git.md",
     "Electronics/AC/Calculations/General.md",
+    "Electronics/AC/Calculations/RC/RC Transients.md",
+    "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf",
+    "Electronics/Digital/Digital Troubleshooting.md",
+    "Electronics/AC/Calculations/RC/RC Time Constraints.md",
     "Electronics/AC/Calculations/RC/RC Filters.md",
     "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
     "Electronics/Analog/Electron Tube Principals.md",
@@ -247,7 +276,6 @@
     "Source/1.9.24",
     "Electronics/Digital/Digital.md",
     "Electronics/Digital",
-    "conflict-files-obsidian-git.md",
     "Electronics/AC/Theory.md",
     "Electronics/Analog/Transistor Pulse Circuits.md",
     "programming.sh.md",
@@ -261,11 +289,8 @@
     "Pasted image 20231130143306.png.md",
     "Source/1129",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
-    "Electronics/AC/Calculations/RC/RC Circuits.md",
-    "Electronics/Electronic Components.md",
     "Source/11.16",
     "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
-    "Electronics/Books/OpAmps_for_eveyone.pdf",
-    "Electronics/Books/OpAmps_for_eveyone.pdf.crdownload"
+    "Electronics/Books/OpAmps_for_eveyone.pdf"
   ]
 }
