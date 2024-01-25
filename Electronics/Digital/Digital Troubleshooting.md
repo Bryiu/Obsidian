@@ -61,4 +61,6 @@
 
 # Troubleshooting Techniques
 
-
+- Multimeter
+	- Used to verify the power supply voltage levels are within tolerance and that current draw has not exceeded the PSU's specs
+	- 

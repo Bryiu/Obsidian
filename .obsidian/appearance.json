@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "cssTheme": "Material Ocean",
+  "theme": "obsidian",
+  "accentColor": "#7a741f",
+  "baseFontSize": 16
 }
