@@ -11,11 +11,14 @@
             "id": "35240f8174c1105a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Electronics/Digital/Digital Logic Circuits.md",
-                "mode": "source",
-                "source": false
+                "file": "Electronics/Digital/Canvas.canvas",
+                "viewState": {
+                  "x": -4,
+                  "y": 326,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -102,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Digital/Digital Logic Circuits.md"
+                "file": "Electronics/Digital/Canvas.canvas"
               }
             }
           },
@@ -112,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Digital/Digital Logic Circuits.md",
+                "file": "Electronics/Digital/Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Digital/Digital Logic Circuits.md",
+                "file": "Electronics/Digital/Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,6 +216,9 @@
   },
   "active": "35240f8174c1105a",
   "lastOpenFiles": [
+    "Electronics/Digital/Boolean Algebra, Combination Logic.md",
+    "Electronics/Digital/Canvas.canvas",
+    "Electronics/Digital/Digital Logic Circuits.md",
     "Source/Pasted image 20240127163357.png",
     "Source/Pasted image 20240127161943.png",
     "Source/Pasted image 20240127161448.png",
@@ -223,8 +229,6 @@
     "Source/Pasted image 20240127144925.png",
     "Source/Pasted image 20240127144900.png",
     "Source/Pasted image 20240127143750.png",
-    "Source/Pasted image 20240127143702.png",
-    "Electronics/Digital/Digital Logic Circuits.md",
     "Electronics/Digital/Digital Troubleshooting.md",
     "conflict-files-obsidian-git.md",
     "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf",
@@ -257,7 +261,6 @@
     "Source/1129",
     "Electronics/Analog/Transistor Amplifiers.md",
     "Electronics/AC/Calculations/General.md",
-    "Electronics/Analog/Transistors.md",
     "Source/11.16"
   ]
 }
