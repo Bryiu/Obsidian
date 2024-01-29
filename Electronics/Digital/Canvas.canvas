@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"df67e4abbe6ff71b","type":"text","text":"sdfgsdf","x":-129,"y":400,"width":250,"height":112,"color":"6"},
-		{"id":"c60585058289decb","type":"text","text":"[[Boolean Algebra, Combination Logic]] ","x":-129,"y":140,"width":250,"height":60,"color":"1"}
-	],
-	"edges":[]
-}

@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "10188d29bef89f36",
+        "id": "c577a1b3c1fa0a12",
         "type": "tabs",
         "children": [
           {
-            "id": "35240f8174c1105a",
+            "id": "83d6853989ced8c4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Electronics/Digital/Canvas.canvas",
-                "viewState": {
-                  "x": -4,
-                  "y": 326,
-                  "zoom": 0
-                }
+                "file": "Electronics/Digital/Boolean Algebra, Combination Logic.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -55,15 +52,23 @@
             }
           },
           {
-            "id": "21a6e422593dc6d0",
+            "id": "1a753f4ce6f7c131",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
+          },
+          {
+            "id": "9e444fa479925264",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "fdde66dbdf534b50",
@@ -105,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Digital/Canvas.canvas"
+                "file": "Electronics/Digital/Boolean Algebra, Combination Logic.md"
               }
             }
           },
@@ -115,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Digital/Canvas.canvas",
+                "file": "Electronics/Digital/Boolean Algebra, Combination Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Digital/Canvas.canvas",
+                "file": "Electronics/Digital/Boolean Algebra, Combination Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -210,25 +214,27 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35240f8174c1105a",
+  "active": "83d6853989ced8c4",
   "lastOpenFiles": [
+    "Source/Pasted image 20240128175248.png",
+    "Source/Pasted image 20240128174021.png",
     "Electronics/Digital/Boolean Algebra, Combination Logic.md",
+    "Source/Pasted image 20240128170133.png",
+    "Source/Pasted image 20240128164244.png",
+    "Source/Pasted image 20240128162330.png",
+    "Source/Pasted image 20240128162120.png",
+    "Source/Pasted image 20240128140910.png",
+    "Source/Pasted image 20240128133015.png",
+    "Source/Pasted image 20240128132832.png",
+    "Source/Pasted image 20240128132750.png",
     "Electronics/Digital/Canvas.canvas",
+    "Untitled.md",
     "Electronics/Digital/Digital Logic Circuits.md",
     "Source/Pasted image 20240127163357.png",
-    "Source/Pasted image 20240127161943.png",
-    "Source/Pasted image 20240127161448.png",
-    "Source/Pasted image 20240127160546.png",
-    "Source/Pasted image 20240127160442.png",
-    "Source/Pasted image 20240127152223.png",
-    "Source/Pasted image 20240127152158.png",
-    "Source/Pasted image 20240127144925.png",
-    "Source/Pasted image 20240127144900.png",
-    "Source/Pasted image 20240127143750.png",
     "Electronics/Digital/Digital Troubleshooting.md",
     "conflict-files-obsidian-git.md",
     "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf",
@@ -260,7 +266,6 @@
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf.crdownload",
     "Source/1129",
     "Electronics/Analog/Transistor Amplifiers.md",
-    "Electronics/AC/Calculations/General.md",
     "Source/11.16"
   ]
 }
