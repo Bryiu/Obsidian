@@ -102,3 +102,88 @@
 	- ![[Pasted image 20240131190407.png]] 
 	- ![[Pasted image 20240131190514.png]] 
 - ![[Pasted image 20240131191653.png]] 
+
+# Gate Networks
+
+## Developing Gate Networks
+
+- Two ways to develop a gate network from a Boolean Equation
+
+### Sum of Products
+
+- ![[Pasted image 20240201164655.png]] 
+	- There will be two and gates and an or gate in the network
+		- because the boolean operations product and sum relate to logic gates and and or
+- Change each Product to an AND gate
+	- ![[Pasted image 20240201165142.png]] 
+- Since there are NEGATE terms, add the NOT gates
+	- ![[Pasted image 20240201165257.png]] 
+		- It is common practice to indicate the inputs only once by using connecting lines to each gate
+- Last SUM the PRODUCTS
+	- ![[Pasted image 20240201171416.png]] 
+	- ![[Pasted image 20240201171448.png]] 
+	- ![[Pasted image 20240201171550.png]] 
+
+### Product of Sums
+
+- ![[Pasted image 20240201175518.png]] 
+- ![[Pasted image 20240201175604.png]] 
+
+
+## Determining Outputs of Gate Networks
+
+- meh
+
+# Simplifying Boolean Equations
+
+## Boolean Principals and Rules
+
+### Basic Principals
+
+- Closure Property
+	- The result of each operation is always a 1 or 0
+- Identity Property (Product)
+	- The product of a 1 and a variable results in the variable
+- Identity Property (Sum)
+	- The sum of a 0 and a variable results in the variable
+- Communicative Property
+	- The result of a product or a sum of two or more variables does not depend on the order
+- Distributive Property
+	- The product of a sum is the same as the sum of two products
+
+### Rules
+
+- The sum of A and its compliment $\bar A$ is always 1
+- A variabled double not is the variable
+- A variable summed with a product of the same variable and another variable is the single variable
+	- ![[Pasted image 20240201184030.png]] 
+- The sum of a variable with a product of the same "not" variable and another varabl is the sum of the two variables
+	- ![[Pasted image 20240201190108.png]] 
+- The product of the sums, where one variable is the same in each sum, produces that variable aone plus the product of the other two variables
+	- ![[Pasted image 20240201191622.png]] 
+
+### DeMorgan's Theorems
+
+- $\bar {AB} = \bar A  + \bar B$ 
+	- The complement of a product equals the sum of complements
+	- The theorems are used to break 'not' bars in the process of simlifying boolean equations
+		- ![[Pasted image 20240201193723.png]] 
+	- 
+
+
+## Simplifying Equations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
