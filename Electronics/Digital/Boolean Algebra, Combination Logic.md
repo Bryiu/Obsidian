@@ -151,6 +151,8 @@
 - Distributive Property
 	- The product of a sum is the same as the sum of two products
 
+![[Pasted image 20240202174849.png]] 
+
 ### Rules
 
 - The sum of A and its compliment $\bar A$ is always 1
@@ -173,17 +175,5 @@
 
 ## Simplifying Equations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- ![[Pasted image 20240202180552.png]] 
+- ![[Pasted image 20240202181224.png]] 
