@@ -177,3 +177,53 @@
 
 - ![[Pasted image 20240202180552.png]] 
 - ![[Pasted image 20240202181224.png]] 
+
+# Karnaugh Maps
+
+- Boolean equation must be in the sum of products form
+- Three Variable Map
+	- ![[Pasted image 20240203102235.png]] 
+- Four Variable Map
+	- ![[Pasted image 20240203103231.png]] 
+	- Formatting the table
+		- ![[Pasted image 20240203103322.png]] 
+- Five and 6
+	- ![[Pasted image 20240203104309.png]] 
+- Maps with 7 or more must be done with a computer
+
+## Simplifying
+
+- Identify Adjacent Cells
+	- ![[Pasted image 20240203104452.png]] 
+- Combine the 1's in adjacent cells into groups of 1,2,4,8,16, etc
+- Maximize each group
+	- Make the largest group
+	- Dont overlook 1's that may have already been included in another group
+		- They may overlap
+- For each group, the sum the products represented in the cells of the group.
+	- The opposite variables will be eliminated, resulting in one simplified product for each group instead of the group of products in individual cells
+	- Sum the group products to obtain the simplified boolean equation
+
+### Simplifying 
+
+- ![[Pasted image 20240203134850.png]] 
+- ![[Pasted image 20240203134935.png]] 
+- ![[Pasted image 20240203141310.png]] 
+	- For green the Y and $\bar Y$ terms cancel leaving $\bar XZ$ 
+	- The Z and the X variables cancel, leaving $\bar Y$ 
+- ![[Pasted image 20240203160811.png]] 
+- ![[Pasted image 20240203161146.png]] 
+
+# Introduction to Combinational Circuits
+
+## Combinational Logic
+
+- Combinational logic is the combining of two or more logic gates
+
+## Universal Logic Gates
+
+- NAND and NOR are commonly used as universal logic gates
+- 3 NAND = OR
+- 5 NAND = XOR
+
+
