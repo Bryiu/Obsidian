@@ -226,4 +226,140 @@
 - 3 NAND = OR
 - 5 NAND = XOR
 
+# Logic Families
+
+- TTL
+	- Transistor to Transistor logic
+	- most widely used family of IC's
+	- Divided into two groups
+		- Military
+			- Labeled 5400
+		- Commercial
+			- Labeled 7400
+	- Voltage Requirements
+		- 0-5V Input
+		- 0-5V output
+	- Current requirements
+		- Fan-in
+			- identifies how much current it will draw when driven by an IC similar to itself
+			- Fan in is subtracted from the fan out of the driving IC
+		- Fan-out
+			- Identifies how many other IC's can be driven from its output
+			- if the fan out is 5, then 5 IC's can be connected to the output
+	- Speed
+		- Also known as **propagation delay**
+			- The amount of time an IC takes to switch from one condition to the other
+			- ![[Pasted image 20240204114356.png]] 
+			- ![[Pasted image 20240204114419.png]] 
+				- L
+					- Low power consumption of that chip
+					- Longer propagation delays
+				- H
+					- High speed switching
+					- Short propagation delay
+					- High power consumption
+				- S
+					- Schottky Circuit
+					- Super fast
+					- Less power than most H-types
+	- Noise
+		- TTL produce noise each time they switch from high to low
+		- Too much noise will cause input or output to change at the wrong time
+- CMOS
+	- Complimentary Mosfet
+	- Slower than TTL
+	- Much lower power requirement than TTL
+	- High input impedance
+		- Ensures that the CMOS IC operates at a lower input power
+	- ![[Pasted image 20240204131545.png]] 
+		- CMOS has the C in the name
+	- Input/output voltage 0-15V 
+	- Almost no switching noise is generated 
+- ECL
+	- Emitter Coupled Logic
+		- Used when speed is more important than cost
+	- ![[Pasted image 20240204131940.png]] 
+		- Distinguished by the 10,000 series numbers
+- IIL
+	- Integrated Injection Logic
+	- Used in circuits that require analog and digital interaction
+	- Distinguished by the manufacturers name than by the IC number
+		- ![[Pasted image 20240204132944.png]] 
+- There are different families of IC's because some circuits require speed while some require less power
+	- ![[Pasted image 20240204133045.png]] 
+
+# Number Systems
+
+## Decimal
+
+- Base 10
+- 0-9
+
+
+## Binary
+
+- Base 2
+- 0,1
+
+## Octal
+
+- Base 8
+- 0-7
+
+## Hexadecimal
+
+- Base 16
+- 0-9, A-F
+
+# Number Conversions
+
+- Octal is in groups of 3 
+	- ![[Pasted image 20240204141756.png]] 
+
+
+## Hexadecimal and Binary
+
+- ![[Pasted image 20240204143800.png]] 
+	- Binary converted to hexadecimal
+	- ![[Pasted image 20240204144014.png]] ![[Pasted image 20240204144300.png]] 
+
+## Math Operations
+
+### Binary Addition
+
+- ![[Pasted image 20240204152139.png]] 
+
+### Subtraction
+
+- ![[Pasted image 20240204152245.png]] ![[Pasted image 20240204152253.png]] 
+	- The complement allows a computer to subtract numbers by adding the negative binary value to the positive binary value
+		- ![[Pasted image 20240204152456.png]] 
+		- 
+			- First is to invert the number being subtracted and add
+			- Next if a carry is generated, bring it down and add it to the sum
+				- ![[Pasted image 20240204153919.png]] 
+				- Carries not generated when the subtraction results in a negative number
+					- ![[Pasted image 20240204154907.png]] 
+					- When a carry is not generated, the result of the addition must be 1s complimented, and a negative sign placed in front of it
+						- ![[Pasted image 20240204155058.png]] 
+>[!Note]
+>After inverting the lower number, the result has to be inverted as well
+
+>[!Important]
+>Match the lower digits with the same number of digits on the bottom
+
+
+### Multiplication
+
+- Multiplication of binary numbers is performed just as multiplication of decimal numbers is performed
+- ![[Pasted image 20240204162128.png]] ![[Pasted image 20240204162320.png]] 
+
+### Division
+
+- ![[Pasted image 20240204163404.png]] 
+	- Subtract 11 from 11 and bring down a 1
+	- 11 goes into 1 zero times
+	- Bring down the last 1
+	- 11 goes into 11 1 time
+	- ![[Pasted image 20240204163525.png]] 
 
