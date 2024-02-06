@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6d91092a92466f5c",
+        "id": "c577a1b3c1fa0a12",
         "type": "tabs",
         "children": [
           {
-            "id": "806543255ce63c18",
+            "id": "83d6853989ced8c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Digital/Number Systems and Conversions.md",
-                "mode": "preview",
+                "file": "Electronics/Digital/Boolean Algebra, Combination Logic.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -52,7 +52,7 @@
             }
           },
           {
-            "id": "21a6e422593dc6d0",
+            "id": "1a753f4ce6f7c131",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -60,7 +60,7 @@
             }
           },
           {
-            "id": "c9fda415888362de",
+            "id": "9e444fa479925264",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -101,16 +101,26 @@
     "type": "split",
     "children": [
       {
-        "id": "e6710a896d79e039",
+        "id": "5a0e3dac7719d77f",
         "type": "tabs",
         "children": [
           {
-            "id": "e5771709dbc81e89",
+            "id": "dfde1e9bd8aa9c18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Electronics/Digital/Boolean Algebra, Combination Logic.md"
+              }
+            }
+          },
+          {
+            "id": "43ab8b040884a0aa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Digital/Number Systems and Conversions.md",
+                "file": "Electronics/Digital/Boolean Algebra, Combination Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,37 +132,19 @@
             }
           },
           {
-            "id": "0a894114478f97ff",
+            "id": "e1cdd5a8297f1079",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Digital/Number Systems and Conversions.md",
+                "file": "Electronics/Digital/Boolean Algebra, Combination Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2dff47c33a48e851",
-            "type": "leaf",
-            "state": {
-              "type": "make-context-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "dfde1e9bd8aa9c18",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Electronics/Digital/Number Systems and Conversions.md"
-              }
-            }
-          },
-          {
-            "id": "b88b0da0b9a6d7c5",
+            "id": "f25e4d1deb805727",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -162,15 +154,14 @@
             }
           },
           {
-            "id": "5c607b052cbd174c",
+            "id": "ca05476e11a81468",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "make-context-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -195,7 +186,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "84720ef2ae0498ba",
@@ -222,56 +214,58 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "806543255ce63c18",
+  "active": "83d6853989ced8c4",
   "lastOpenFiles": [
+    "Source/Pasted image 20240205192601.png",
+    "Source/Pasted image 20240205192513.png",
+    "Source/Pasted image 20240205192423.png",
+    "Source/Pasted image 20240205192135.png",
+    "Source/Pasted image 20240205192007.png",
+    "Source/Pasted image 20240205184414.png",
+    "Source/Pasted image 20240205184340.png",
+    "Source/Pasted image 20240205184317.png",
+    "Source/Pasted image 20240205173059.png",
+    "Source/Pasted image 20240205164730.png",
+    "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
+    "Electronics/AC/Calculations/RC/RC Filters.md",
+    "Electronics/AC/Calculations/RC/RC Circuits.md",
+    "Electronics/Digital/Boolean Algebra, Combination Logic.md",
+    "Source/Pasted image 20240205155606.png",
+    "Electronics/Digital/Canvas.canvas",
+    "Untitled.md",
+    "Electronics/Digital/Digital Logic Circuits.md",
     "Electronics/Digital/Digital Troubleshooting.md",
     "conflict-files-obsidian-git.md",
-    "Source/Pasted image 20240128175248.png",
-    "Source/Pasted image 20240128174021.png",
-    "Source/Pasted image 20240128170133.png",
-    "Source/Pasted image 20240128164244.png",
-    "Source/Pasted image 20240128162330.png",
-    "Source/Pasted image 20240128162120.png",
-    "Source/Pasted image 20240128140910.png",
-    "Source/Pasted image 20240128133015.png",
-    "Source/Pasted image 20240128132832.png",
-    "Source/Pasted image 20240128132750.png",
-    "Electronics/Digital/Digital Logic Circuits.md",
-    "Electronics/Digital/Boolean Algebra, Combination Logic.md",
-    "Electronics/Digital/Number Systems and Conversions.md",
     "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf",
+    "Electronics/Digital/Number Systems and Conversions.md",
+    "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf.crdownload",
     "Electronics/Digital/Intro.md",
+    "Linux/Process's/AUR.md",
     "Source/1.9.24",
+    "Electronics/Analog/Filters.md",
     "Electronics/Digital/Digital.md",
     "Electronics/Digital",
+    "Electronics/Electronic Components.md",
     "Electronics/Analog/Op Amps.md",
-    "Electronics/AC/Calculations/General.md",
-    "Electronics/AC/Theory.md",
-    "Electronics/Analog/Trigger Device Circuits.md",
-    "Electronics/Analog/Transistor Pulse Circuits.md",
-    "programming.sh.md",
     "Source/12.30",
-    "Electronics/Analog/Filters.md",
-    "Electronics/Analog/Oscillators.md",
-    "Electronics/Equipment/Oscilliscopes/Oscilliscope (Rigol DS1104Z).md",
-    "Electronics/Analog/Transistor Amplifiers.md",
-    "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf",
-    "Electronics/Analog/Transistors.md",
-    "Electronics/Analog/Power Supplies.md",
-    "Electronics/Analog/Field Effect Transistor Amplifiers.md",
-    "Pasted image 20231130143306.png.md",
-    "Source/1129",
+    "Electronics/Analog/Trigger Device Circuits.md",
+    "programming.sh.md",
+    "Electronics/AC/Calculations/LCR/Series Resonance.md",
+    "Electronics/AC/Calculations/LCR/LCR Circuits.md",
+    "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
     "Electronics/Analog/Diodes.md",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
-    "Electronics/AC/Calculations/RC/RC Circuits.md",
-    "Electronics/Electronic Components.md",
-    "Pasted image 20231116120616.png.md",
-    "Source/11.16",
-    "Electronics/Books/Axial Lead Standard Recovery Rectifiers Data Sheet.pdf",
-    "Electronics/Books/OpAmps_for_eveyone.pdf"
+    "Electronics/Analog/Transistor Pulse Circuits.md",
+    "Index.md",
+    "Electronics/Analog/Oscillators.md",
+    "Pasted image 20231130143306.png.md",
+    "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf",
+    "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf.crdownload",
+    "Source/1129",
+    "Source/11.16"
   ]
 }
