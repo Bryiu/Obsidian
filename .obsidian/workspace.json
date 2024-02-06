@@ -161,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -221,18 +220,21 @@
   },
   "active": "83d6853989ced8c4",
   "lastOpenFiles": [
-    "Source/Pasted image 20240204163525.png",
-    "Source/Pasted image 20240204163404.png",
-    "Source/Pasted image 20240204162320.png",
-    "Source/Pasted image 20240204162128.png",
-    "Source/Pasted image 20240204155058.png",
-    "Source/Pasted image 20240204154907.png",
-    "Source/Pasted image 20240204153919.png",
-    "Source/Pasted image 20240204152456.png",
-    "Source/Pasted image 20240204152253.png",
-    "Source/Pasted image 20240204152245.png",
-    "Source/Pasted image 20240204152139.png",
+    "Source/Pasted image 20240205192601.png",
+    "Source/Pasted image 20240205192513.png",
+    "Source/Pasted image 20240205192423.png",
+    "Source/Pasted image 20240205192135.png",
+    "Source/Pasted image 20240205192007.png",
+    "Source/Pasted image 20240205184414.png",
+    "Source/Pasted image 20240205184340.png",
+    "Source/Pasted image 20240205184317.png",
+    "Source/Pasted image 20240205173059.png",
+    "Source/Pasted image 20240205164730.png",
+    "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
+    "Electronics/AC/Calculations/RC/RC Filters.md",
+    "Electronics/AC/Calculations/RC/RC Circuits.md",
     "Electronics/Digital/Boolean Algebra, Combination Logic.md",
+    "Source/Pasted image 20240205155606.png",
     "Electronics/Digital/Canvas.canvas",
     "Untitled.md",
     "Electronics/Digital/Digital Logic Circuits.md",
@@ -252,7 +254,6 @@
     "Source/12.30",
     "Electronics/Analog/Trigger Device Circuits.md",
     "programming.sh.md",
-    "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
     "Electronics/AC/Calculations/LCR/Series Resonance.md",
     "Electronics/AC/Calculations/LCR/LCR Circuits.md",
     "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
@@ -262,11 +263,9 @@
     "Index.md",
     "Electronics/Analog/Oscillators.md",
     "Pasted image 20231130143306.png.md",
-    "Electronics/Analog/Field Effect Transistor Amplifiers.md",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf.crdownload",
     "Source/1129",
-    "Electronics/Analog/Transistor Amplifiers.md",
     "Source/11.16"
   ]
 }

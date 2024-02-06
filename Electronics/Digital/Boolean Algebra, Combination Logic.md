@@ -363,3 +363,39 @@
 	- 11 goes into 11 1 time
 	- ![[Pasted image 20240204163525.png]] 
 
+## Convert Base 10 to Binary
+
+- Decimal encoder circuit converts decimal numbers to outputs that represent binary number
+- ![[Pasted image 20240205164730.png]] 
+	- BCD numbers cannot exceed 1001 (decimal 9)
+- Priority Encoder 74147
+	- ![[Pasted image 20240205173059.png]] 
+	- Includes circuitry that forces the output to reflect only the highest order input when two or more inputs are active
+		- If 4 and 5 are active at the same time, only the output corresponding to line 5 will be reflected
+			- Only reflects the highest order input
+
+## Binary Decoder
+
+- Converts binary numbers to outputs that represent alphanumeric characters
+	- ![[Pasted image 20240205184317.png]] 
+	- ![[Pasted image 20240205184340.png]] 
+	- ![[Pasted image 20240205184414.png]] 
+	- Low output from the decoder will forward bias the LED, allowing current, lighting up the LED
+	- High output from the decoder will reverse bias the LED, preventing current
+		- All high = blank
+
+## 4 Bit Comparator
+
+- Looks at two inputs and determines if the inputs are the same or different
+	- if same A=B
+		- ![[Pasted image 20240205192007.png]] 
+		- ![[Pasted image 20240205192135.png]] 
+			- High is applied to the true statement
+- ![[Pasted image 20240205192423.png]] 
+	- uses four one bit comparators to compare 4 digit numbers
+	- ![[Pasted image 20240205192513.png]] 
+		- Logic circuit added to compare from most significant digit to least significant digit
+		- ![[Pasted image 20240205192601.png]] 
+			- MSD on A is larger, the comparison stops and A>B
+				- If equal it continues
+
