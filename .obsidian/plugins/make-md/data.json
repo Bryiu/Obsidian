@@ -52,8 +52,8 @@
     "Spaces/Home///Linux/Linux/Process's",
     "Spaces/Home///Electronics",
     "Spaces/Home///Electronics/Electronics/Digital",
-    "Spaces/Home///Electronics/Electronics/Analog",
-    "Spaces/Home///Electronics/Electronics/AC"
+    "Spaces/Home///Electronics/Electronics/Digital",
+    "Spaces/Home///Electronics/Electronics/Digital"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -81,10 +81,6 @@
     "/",
     "spaces://$tags"
   ],
-  "rootSpaces": [
-    "Spaces/Home",
-    "Electronics/Books"
-  ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
   "fmKeyBanner": "banner",
@@ -100,13 +96,18 @@
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
   "autoMigration08": true,
-  "releaseNotesPrompt": 0.804,
+  "releaseNotesPrompt": 0.815,
   "enableDefaultSpaces": true,
   "enableTagSpaces": true,
   "enableHomeSpace": true,
   "showSpacePinIcon": true,
   "minimalFix": false,
   "experimental": false,
+  "systemName": "Vault",
+  "rootSpaces": [
+    "Spaces/Home",
+    "Electronics/Books"
+  ],
   "lineNumbers": false,
   "cachedSpaces": [
     "spaces://$tags",
