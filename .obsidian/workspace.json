@@ -195,7 +195,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "84720ef2ae0498ba",
@@ -228,8 +229,9 @@
   },
   "active": "806543255ce63c18",
   "lastOpenFiles": [
-    "Electronics/Digital/Number Systems and Conversions.md",
+    "Untitled.md",
     "Electronics/Digital/Boolean Algebra, Combination Logic.md",
+    "Electronics/Digital/Number Systems and Conversions.md",
     "Source/Pasted image 20240204152253.png",
     "Source/Pasted image 20240204152245.png",
     "Source/Pasted image 20240204152139.png",
