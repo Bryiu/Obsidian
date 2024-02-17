@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Digital/Boolean Algebra, Combination Logic.md",
+                "file": "Electronics/Digital/Latches and Flip Flops.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Digital/Boolean Algebra, Combination Logic.md"
+                "file": "Electronics/Digital/Latches and Flip Flops.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Digital/Boolean Algebra, Combination Logic.md",
+                "file": "Electronics/Digital/Latches and Flip Flops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Digital/Boolean Algebra, Combination Logic.md",
+                "file": "Electronics/Digital/Latches and Flip Flops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,8 +221,11 @@
   },
   "active": "83d6853989ced8c4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Source/Pasted image 20240215193547.png",
+    "Source/Pasted image 20240215193206.png",
     "Electronics/Digital/Boolean Algebra, Combination Logic.md",
+    "Electronics/Digital/Latches and Flip Flops.md",
+    "conflict-files-obsidian-git.md",
     "Untitled.md",
     "Source/Pasted image 20240205192601.png",
     "Source/Pasted image 20240205192513.png",
@@ -233,7 +236,6 @@
     "Source/Pasted image 20240205184340.png",
     "Source/Pasted image 20240205184317.png",
     "Source/Pasted image 20240205173059.png",
-    "Source/Pasted image 20240205164730.png",
     "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
     "Electronics/AC/Calculations/RC/RC Filters.md",
     "Electronics/AC/Calculations/RC/RC Circuits.md",
@@ -262,7 +264,6 @@
     "Electronics/Analog/Transistor Pulse Circuits.md",
     "Index.md",
     "Electronics/Analog/Oscillators.md",
-    "Pasted image 20231130143306.png.md",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf.crdownload",
     "Source/1129",
