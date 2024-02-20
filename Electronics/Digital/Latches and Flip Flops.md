@@ -21,7 +21,14 @@
 	- **![[Pasted image 20240216192529.png]] 
 - Active Low RS Latch
 	- ![[Pasted image 20240216192736.png]] 
+		- ![[Pasted image 20240219112754.png]] 
 - Latches can have the same outputs, this can cause problems
+- The biggest problem in RS latch is the RACE condition
+	- Happens when putting a latch in an invalid combination
+	- When both gates are trying to go high at the same time
+		- Then changed instantly to the no change condition
+- RS Latch was made to create a bounceless switch
+	- Mechanical switches have a bounce in the signal
 
 
 ## Flip Flop
@@ -40,11 +47,27 @@
 
 # RS Flip Flops
 
+![[Pasted image 20240219143234.png]] 
+
+- Used to store the last input condition until the next input condition is applied
+- Replacement for mechanical switches
+	- Mechanical switches bounce
+	- ![[Pasted image 20240219143142.png]] 
+
+
+
+
 
 # Clocked RS Flip Flops
 
-
-
+- ![[Pasted image 20240219160729.png]] 
+- Designed to store the last input condition until the next input condition is gated through
+- ![[Pasted image 20240219154329.png]] 
+	- A high applied to S input sets a high Q and a low $\bar Q$ when the clock is high
+	- A high on the clock allows a change in state
+	- Clock input low disables change in the flip flop
+- ![[Pasted image 20240219165230.png]] 
+	- ![[Pasted image 20240219165259.png]] 
 # D-Type Flip Flops
 
 
