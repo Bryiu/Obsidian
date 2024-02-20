@@ -80,13 +80,25 @@
 
 # JK Flip Flops
 
-
-
+- Can be used in any flip flop or latch application by configuring its inputs
+- ![[Pasted image 20240220120813.png]] 
+- Positive or negative edge triggered
+- Look for the bubble for positive or negative edge triggering
+- ![[Pasted image 20240220125104.png]] 
+- **Synchronous Inputs**: *No data on the inputs will be processed by the flip flop unless the clock input has been satisfied*
+- **Toggle**: Means the outputs will reverse from whatever condition they were in prior to the clock pulse
+	- As long as the J and K inputs are held high, every time the clock input is pulsed, the outputs will reverse
+- ![[Pasted image 20240220130446.png]] 
+- ![[Pasted image 20240220131023.png]] 
+	- Toggle condition can be created in other flip flops by cross connecting their outputs to their opposing inputs
 
 # Master-Slave Flip Flops
 
-
-
+- ![[Pasted image 20240220135130.png]] 
+	- Constructed from two flip flops
+- ![[Pasted image 20240220142548.png]] 
+- ![[Pasted image 20240220142719.png]] 
+- ![[Pasted image 20240220142920.png]] 
 
 
 
