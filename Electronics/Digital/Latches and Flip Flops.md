@@ -70,6 +70,11 @@
 	- ![[Pasted image 20240219165259.png]] 
 # D-Type Flip Flops
 
+- Has one input that is used for both the S and R inputs
+- ![[Pasted image 20240220092133.png]] 
+	- D takes the high or low and passes them as S or R
+	- C enables the flip flop
+- ![[Pasted image 20240220092254.png]] 
 
 
 
