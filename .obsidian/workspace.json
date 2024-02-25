@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83d6853989ced8c4",
+            "id": "c4e74dc01fce274a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Digital/Latches and Flip Flops.md",
+                "file": "Electronics/Digital/Intro to Registers and Memory.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c4e74dc01fce274a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Digital/Latches and Flip Flops.md"
+                "file": "Electronics/Digital/Intro to Registers and Memory.md"
               }
             }
           },
@@ -131,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Digital/Latches and Flip Flops.md",
+                "file": "Electronics/Digital/Intro to Registers and Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Digital/Latches and Flip Flops.md",
+                "file": "Electronics/Digital/Intro to Registers and Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,19 +221,20 @@
   },
   "active": "c4e74dc01fce274a",
   "lastOpenFiles": [
-    "Source/Pasted image 20240220142920.png",
-    "Source/Pasted image 20240220142719.png",
-    "Source/Pasted image 20240220142548.png",
-    "Source/Pasted image 20240220135130.png",
-    "Source/Pasted image 20240220131023.png",
-    "Source/Pasted image 20240220130446.png",
-    "Source/Pasted image 20240220125104.png",
-    "Source/Pasted image 20240220120813.png",
-    "Source/Pasted image 20240220092254.png",
-    "Source/Pasted image 20240220092133.png",
-    "Source/Pasted image 20240219165259.png",
-    "Electronics/Digital/Boolean Algebra, Combination Logic.md",
+    "Source/Pasted image 20240224185045.png",
+    "Source/Pasted image 20240224183802.png",
+    "Source/Pasted image 20240224183550.png",
+    "Source/Pasted image 20240224152956.png",
+    "Source/Pasted image 20240224152154.png",
+    "Source/Pasted image 20240224145036.png",
+    "Source/Pasted image 20240224145019.png",
+    "Source/Pasted image 20240224142554.png",
+    "Source/Pasted image 20240224140907.png",
+    "Source/Pasted image 20240224122315.png",
+    "Source/Pasted image 20240224115529.png",
     "Electronics/Digital/Latches and Flip Flops.md",
+    "Electronics/Digital/Intro to Registers and Memory.md",
+    "Electronics/Digital/Boolean Algebra, Combination Logic.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
     "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
@@ -274,7 +264,6 @@
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Analog/Transistor Pulse Circuits.md",
     "Index.md",
-    "Electronics/Analog/Oscillators.md",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf.crdownload",
     "Source/1129",

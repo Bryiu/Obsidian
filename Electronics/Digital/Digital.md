@@ -6,3 +6,5 @@
 [[Number Systems and Conversions]]
 [[Digital Logic Circuits]]
 [[Boolean Algebra, Combination Logic]]
+[[Latches and Flip Flops]]
+[[Intro to Registers and Memory]]
