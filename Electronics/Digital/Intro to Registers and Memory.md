@@ -58,3 +58,13 @@
 - ![[Pasted image 20240224185045.png]] 
 	- A separate output is taken from each flip-flops Q output
 
+# 4 Bit Shift Register
+
+- Transfer four bits of binary data from one circuit to another
+- ![[Pasted image 20240225130951.png]] 
+	- Mode control sets the register for serial or parallel transfer
+	- ![[Pasted image 20240225131723.png]] 
+- Always serial or parallel data present at the registers output
+- In serial mode, data is shifted right in re-circulation mode
+
+
