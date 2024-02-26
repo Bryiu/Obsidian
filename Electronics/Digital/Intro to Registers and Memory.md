@@ -66,5 +66,45 @@
 	- ![[Pasted image 20240225131723.png]] 
 - Always serial or parallel data present at the registers output
 - In serial mode, data is shifted right in re-circulation mode
+- Shift left can be done in parallel
+	- Used to perform math operations
+- In parallel mode, data is entered serially into F/F D and shifts left
+- Circulate and input
+	- Parallel = shift left
+	- Serial = shift right
+- Shift registers can also be used as storage registers since the data is stored after its transferred in
+
+# 8 Bit Shift Register
+
+- Used to transfer 8 bits from one circuit to another
+- ![[Pasted image 20240225150421.png]] 
+	- Serial synchronous data is available at the output QH
+	- Each clock output shifts data one flip flop to the right
+	- Parallel inputs are asynchronous and controlled by a high applied to the PRESET enable
+	- Enabling CLEAR resets the register
+	- When PRE is high, the clock is not used
 
 
+# 64 Bit Memory
+
+- *Think of a 64 bit memory circuit as being 16 4-bit registers contained in one IC
+	- Each register stores 4 bits of data
+		- called a WORD
+			- Words can be 4, 8, or 16 bit
+			- Word is a group of bits representing a complete piece of digital information
+			- Stored in memory and assigned an address. Each word has a different address
+- ![[Pasted image 20240225171036.png]] 
+	- A memory circuit needs several register circuits to operate properly
+	- Transferring of the address can be serial or parallel
+	- When new data enters memory, the address register assigns an address
+	- When data leaves the register knows where to find the data
+- **ROM**: Read Only Memory
+	- Used in applications that require identical data every time a process occurs
+- **RAM**: Random Access Memory 
+	- Used in applications that require information to go into and out of memory
+- **Random Access**: The writing to and reading from memory
+- **Non-Volitile Memory**: Retain data when power is removed
+- **Volitile Memory**: Stores data when power is applied
+- ![[Pasted image 20240225171941.png]] 
+	- In this two bit register, can address four memory locations
+	- 00 in the address causes gate 1 to go high, enabling word 0
