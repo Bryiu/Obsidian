@@ -108,3 +108,5 @@
 - ![[Pasted image 20240225171941.png]] 
 	- In this two bit register, can address four memory locations
 	- 00 in the address causes gate 1 to go high, enabling word 0
+	- The load input is needed for RAM.
+		- If the load input is HIGH, data will transfer from the data register to word 0
