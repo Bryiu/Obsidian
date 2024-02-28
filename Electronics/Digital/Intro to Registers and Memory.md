@@ -110,3 +110,12 @@
 	- 00 in the address causes gate 1 to go high, enabling word 0
 	- The load input is needed for RAM.
 		- If the load input is HIGH, data will transfer from the data register to word 0
+	- ![[Pasted image 20240228105916.png]] 
+		- With 01 in the address register, gate 2 has a high output
+			- Enables word 1
+			- If the Load input is high, data will transfer from the data register to word 1
+			- ![[Pasted image 20240228112207.png]] 
+				- If the Load input is low, data will transfer from memory to word 2 to the data register
+- ROM does not need a load input. 
+	- Data is only read from memory
+			

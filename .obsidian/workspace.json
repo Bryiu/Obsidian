@@ -161,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -221,6 +220,9 @@
   },
   "active": "c4e74dc01fce274a",
   "lastOpenFiles": [
+    "Source/Pasted image 20240228112207.png",
+    "Source/Pasted image 20240228111653.png",
+    "Source/Pasted image 20240228105916.png",
     "Source/Pasted image 20240225171941.png",
     "Source/Pasted image 20240225171036.png",
     "Source/Pasted image 20240225150421.png",
@@ -229,9 +231,6 @@
     "Source/Pasted image 20240224185045.png",
     "Source/Pasted image 20240224183802.png",
     "Source/Pasted image 20240224183550.png",
-    "Source/Pasted image 20240224152956.png",
-    "Source/Pasted image 20240224152154.png",
-    "Source/Pasted image 20240224145036.png",
     "Electronics/Digital/Latches and Flip Flops.md",
     "Electronics/Digital/Intro to Registers and Memory.md",
     "Electronics/Digital/Boolean Algebra, Combination Logic.md",
