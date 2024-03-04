@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Electronics/Digital/Intro to Registers and Memory.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -219,8 +219,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4e74dc01fce274a",
+  "active": "930efed7aed73fa7",
   "lastOpenFiles": [
+    "Electronics/Digital/Intro to Registers and Memory.md",
     "Source/Pasted image 20240228112207.png",
     "Source/Pasted image 20240228111653.png",
     "Source/Pasted image 20240228105916.png",
@@ -231,9 +232,7 @@
     "Source/Pasted image 20240225130951.png",
     "Source/Pasted image 20240224185045.png",
     "Source/Pasted image 20240224183802.png",
-    "Source/Pasted image 20240224183550.png",
     "Electronics/Digital/Latches and Flip Flops.md",
-    "Electronics/Digital/Intro to Registers and Memory.md",
     "Electronics/Digital/Boolean Algebra, Combination Logic.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
