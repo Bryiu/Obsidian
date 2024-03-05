@@ -161,8 +161,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -221,17 +220,18 @@
   },
   "active": "c4e74dc01fce274a",
   "lastOpenFiles": [
-    "Source/Pasted image 20240304184858.png",
-    "Source/Pasted image 20240304174905.png",
-    "Source/Pasted image 20240304174324.png",
-    "Source/Pasted image 20240304172828.png",
-    "Source/Pasted image 20240304165704.png",
-    "Source/Pasted image 20240304164946.png",
-    "Source/Pasted image 20240304163324.png",
-    "Source/Pasted image 20240304163308.png",
-    "Source/Pasted image 20240304155353.png",
-    "Source/Pasted image 20240304155306.png",
-    "Source/Pasted image 20240304154954.png",
+    "Source/Pasted image 20240305154348.png",
+    "Source/Pasted image 20240305154125.png",
+    "Source/Pasted image 20240305154012.png",
+    "Source/Pasted image 20240305153429.png",
+    "Source/Pasted image 20240305153357.png",
+    "Source/Pasted image 20240305153131.png",
+    "Source/Pasted image 20240305152735.png",
+    "Source/Pasted image 20240305151634.png",
+    "Source/Pasted image 20240305145122.png",
+    "Source/Pasted image 20240305144934.png",
+    "Source/Pasted image 20240305144753.png",
+    "Source/3.5.2024",
     "Electronics/Digital/Intro to Arithmetic Counting Circuits.md",
     "Electronics/Digital/Intro to Registers and Memory.md",
     "Electronics/Digital/Latches and Flip Flops.md",
@@ -266,7 +266,6 @@
     "Electronics/Analog/Transistor Pulse Circuits.md",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf.crdownload",
-    "Source/1129",
-    "Source/11.16"
+    "Source/1129"
   ]
 }
