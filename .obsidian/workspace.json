@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Digital/Intro to Registers and Memory.md",
+                "file": "Electronics/Digital/Intro to Arithmetic Counting Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,36 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Digital/Intro to Registers and Memory.md"
-              }
-            }
-          },
-          {
-            "id": "43ab8b040884a0aa",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Electronics/Digital/Intro to Registers and Memory.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "e1cdd5a8297f1079",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Electronics/Digital/Intro to Registers and Memory.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Electronics/Digital/Intro to Arithmetic Counting Circuits.md"
               }
             }
           },
@@ -161,8 +132,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -206,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 340.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,19 +189,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "930efed7aed73fa7",
+  "active": "c4e74dc01fce274a",
   "lastOpenFiles": [
+    "Source/Pasted image 20240304184858.png",
+    "Source/Pasted image 20240304174905.png",
+    "Source/Pasted image 20240304174324.png",
+    "Source/Pasted image 20240304172828.png",
+    "Source/Pasted image 20240304165704.png",
+    "Source/Pasted image 20240304164946.png",
+    "Source/Pasted image 20240304163324.png",
+    "Source/Pasted image 20240304163308.png",
+    "Source/Pasted image 20240304155353.png",
+    "Source/Pasted image 20240304155306.png",
+    "Source/Pasted image 20240304154954.png",
+    "Electronics/Digital/Intro to Arithmetic Counting Circuits.md",
     "Electronics/Digital/Intro to Registers and Memory.md",
-    "Source/Pasted image 20240228112207.png",
-    "Source/Pasted image 20240228111653.png",
-    "Source/Pasted image 20240228105916.png",
-    "Source/Pasted image 20240225171941.png",
-    "Source/Pasted image 20240225171036.png",
-    "Source/Pasted image 20240225150421.png",
-    "Source/Pasted image 20240225131723.png",
-    "Source/Pasted image 20240225130951.png",
-    "Source/Pasted image 20240224185045.png",
-    "Source/Pasted image 20240224183802.png",
     "Electronics/Digital/Latches and Flip Flops.md",
     "Electronics/Digital/Boolean Algebra, Combination Logic.md",
     "conflict-files-obsidian-git.md",
@@ -262,7 +234,6 @@
     "Electronics/Analog/Diodes.md",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Analog/Transistor Pulse Circuits.md",
-    "Index.md",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf.crdownload",
     "Source/1129",

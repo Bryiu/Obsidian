@@ -8,3 +8,4 @@
 [[Boolean Algebra, Combination Logic]]
 [[Latches and Flip Flops]]
 [[Intro to Registers and Memory]]
+[[Intro to Arithmetic Counting Circuits]]
