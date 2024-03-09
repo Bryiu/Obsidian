@@ -55,7 +55,10 @@
     "Spaces/Home///Electronics/Electronics/Digital",
     "Spaces/Home///Electronics/Electronics/Digital",
     "Spaces/Home///Electronics/Electronics/Digital",
-    "Spaces/Home///Electronics/Electronics/Digital"
+    "Spaces/Home///Electronics/Electronics/Digital",
+    "Spaces/Home///Electronics/Electronics/AC",
+    "Spaces/Home///Electronics/Electronics/Analog",
+    "Spaces/Home///Electronics/Electronics/DC"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
