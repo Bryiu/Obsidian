@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39a507b4d590571d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronics/DC/Equations/Series Parallel Equations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -161,8 +173,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -221,19 +232,24 @@
   },
   "active": "c4e74dc01fce274a",
   "lastOpenFiles": [
-    "Source/Pasted image 20240308191715.png",
-    "Source/Pasted image 20240308191622.png",
-    "Source/Pasted image 20240308173509.png",
-    "Source/Pasted image 20240308152123.png",
-    "Source/Pasted image 20240308142800.png",
-    "Source/Pasted image 20240308141744.png",
-    "Source/Pasted image 20240308132733.png",
-    "Source/Pasted image 20240308120730.png",
-    "Source/Pasted image 20240308120035.png",
-    "Source/Pasted image 20240308114434.png",
-    "Source/Pasted image 20240308113818.png",
-    "Electronics/Digital/Intro to Arithmetic Counting Circuits.md",
+    "Source/Pasted image 20240309174456.png",
+    "Source/Pasted image 20240309174358.png",
+    "Source/Pasted image 20240309174335.png",
+    "Source/Pasted image 20240309174322.png",
+    "Source/Pasted image 20240309174254.png",
+    "Electronics/DC/Equations/Series Parallel Equations.md",
+    "Electronics/DC/Equations/Series Equations.md",
+    "Electronics/DC/Equations/Electronics Equations(Origin).md",
+    "Electronics/DC/Equations/Parallel Equations.md",
     "Electronics/Digital/Conversion and Data Circuits.md",
+    "Source/Pasted image 20240309171607.png",
+    "Source/Pasted image 20240309171512.png",
+    "Source/Pasted image 20240309171134.png",
+    "Electronics/AC/Calculations/General.md",
+    "Source/Pasted image 20240309154837.png",
+    "Source/Pasted image 20240309154735.png",
+    "Source/Pasted image 20240309124224.png",
+    "Electronics/Digital/Intro to Arithmetic Counting Circuits.md",
     "Source/3.5.2024",
     "Electronics/Digital/Intro to Registers and Memory.md",
     "Electronics/Digital/Latches and Flip Flops.md",
@@ -259,11 +275,6 @@
     "Electronics/Analog/Op Amps.md",
     "Source/12.30",
     "Electronics/Analog/Trigger Device Circuits.md",
-    "programming.sh.md",
-    "Electronics/AC/Calculations/LCR/Series Resonance.md",
-    "Electronics/AC/Calculations/LCR/LCR Circuits.md",
-    "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
-    "Electronics/Analog/Diodes.md",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf.crdownload",
