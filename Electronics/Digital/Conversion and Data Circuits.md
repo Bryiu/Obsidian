@@ -141,17 +141,79 @@
 # A/D Conversion
 
 
-
-
+- Resolution is determined by the number of Digital output lines and the number of compared inputs to the encoder
+	- Simultaneous converter has 3 comparator inputs
+		- Provides 4 different linear input states
+			- Will vary between 0 and 3
+				- Vary between 00 and 11
+	- Substituting a zener diode for R4 can preset a voltage range so that just a small percentage of the overall input is sampled
+		- Encoder has 2 output lines to represent the input digitally
+- Almost all measurable quantities are recorded in analog form
+- A/D converters convert analog to digital
+- ![[Pasted image 20240310100746.png]] 
+- ![[Pasted image 20240310102520.png]] 
+	- Simultaneous Converter
+		- Separate comparator is needed for each level of quantization
+	- Compares analog input voltage with reference voltage produced by R1-R4
+	- When the analog voltage exceeds the reference voltage for a given comparator, a high is generated
+		- The highs and low outputs of the comparators are applied to an encoder, which produces a two-bit binary number on every sampling pulse
+	- The output of the encoder represents the digital equivalent of the analog input
+	- The analog sine wave is output as a digital square wave represented in binary numbers
+		- ![[Pasted image 20240310110650.png]] 
+- ![[Pasted image 20240310112419.png]] 
+	- Stair step or Ramp Converter
+	- Analog input is compared with the output of the D/A converter
+		- If input is higher than the output, the comparator generates a high output
+			- As long as the comparator output is high, the up counter will continue counting up
+		- When the counter contains a binary number equal to the analog input, the comparator output goes LOW
+			- Holds the output of the and gate LOW
+			- Stops the UP counter
+			- Clock pulses ignored
+	- CLR input sets the counter to zero before another conversion takes place
+	- ![[Pasted image 20240310114434.png]] 
+	- Advantage: Fewer components
+	- Disadvantage: Slower
+- ![[Pasted image 20240310114537.png]] 
+	- Tracking Converter
+		- Continuously tracks an analog input
+	- Operates like a stair step, except the counter counts up and down
+	- High on the comparator and the counter counts up
+	- Low on the comparator and the counter counts down
+	- Advantage: Fast conversion requiring less circuitry
+- ![[Pasted image 20240310121931.png]] 
+	- The greater the number, the higher the digital resolution
+- ![[Pasted image 20240310123313.png]] 
+	- Zener diode presets the first input to 12VDC 
+	- Encoder digital output represents 12V-15V
+	- Analog input below 12VDC produce a digital 00 output
+		- Voltages between 12 and 15 generate outputs ranging from 01 to 11
+		- Provides 32 times more accuracy
+- Clock input to the encoder (Sampling Pulse) is so the input signal to be sampled at precise times
+	- Referred to as the sample rate
+	- Sample rate determines how ofted the encoder converts the analog signal to a digital signal
+	- Sample rate should be at a clock speed higher than the maximum expected input frequency
+		- ![[Pasted image 20240310125526.png]] 
 
 # Data Selector Circuits 
 
-
+- ![[Pasted image 20240310143840.png]] 
+	- A-D are data
+	- EN is enable
+	- A1, A2 is address
+	- OUT is Output
+	- Multiplexing is accomplished by using synchronized clocking to change the address inputs A1 and A2 to select a given input
+- ![[Pasted image 20240310152423.png]] 
 
 
 
 # Data Distributor Circuits
 
-
+- ![[Pasted image 20240310160527.png]] 
+	- Choose which of several outputs will receive data from a single input
+- ![[Pasted image 20240310181439.png]] 
+- ![[Pasted image 20240310181643.png]] 
+- ![[Pasted image 20240310185213.png]] 
+	- Data distributor IC's normally have two sets of data distributor circuits with a common address input. Connecting the two sections allows designers to configure the distributor for different uses
+		- Either a 3-line to 8-line decoder or 1 line demultiplexer
 
 

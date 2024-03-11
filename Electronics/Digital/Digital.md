@@ -9,3 +9,4 @@
 [[Latches and Flip Flops]]
 [[Intro to Registers and Memory]]
 [[Intro to Arithmetic Counting Circuits]]
+[[Conversion and Data Circuits]]
