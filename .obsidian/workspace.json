@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "05fa6b45cce030e0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +219,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05fa6b45cce030e0",
+  "active": "c4e74dc01fce274a",
   "lastOpenFiles": [
     "Source/Pasted image 20240305154348.png",
     "Source/Pasted image 20240305154125.png",
