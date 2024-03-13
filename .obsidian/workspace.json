@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Digital/Conversion and Data Circuits.md",
+                "file": "Electronics/Digital/Intro to Arithmetic Counting Circuits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "402fba29b1bf3562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Digital/Conversion and Data Circuits.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Digital/Conversion and Data Circuits.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,13 +168,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Digital/Conversion and Data Circuits.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "1ac24f9adfb80870",
@@ -218,31 +232,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4e74dc01fce274a",
+  "active": "402fba29b1bf3562",
   "lastOpenFiles": [
-    "Source/Pasted image 20240310185213.png",
-    "Source/Pasted image 20240310184931.png",
-    "Source/Pasted image 20240310181643.png",
-    "Source/Pasted image 20240310181439.png",
-    "Source/Pasted image 20240310160527.png",
-    "Source/Pasted image 20240310152423.png",
-    "Source/Pasted image 20240310143840.png",
-    "Source/Pasted image 20240310125526.png",
-    "Source/Pasted image 20240310123313.png",
-    "Source/Pasted image 20240310121931.png",
-    "Source/Pasted image 20240310114537.png",
-    "Electronics/Digital/Conversion and Data Circuits.md",
-    "Electronics/DC/Equations/Series Parallel Equations.md",
-    "Electronics/DC/Equations/Series Equations.md",
-    "Electronics/DC/Equations/Electronics Equations(Origin).md",
-    "Electronics/DC/Equations/Parallel Equations.md",
-    "Electronics/AC/Calculations/General.md",
     "Electronics/Digital/Intro to Arithmetic Counting Circuits.md",
+    "conflict-files-obsidian-git.md",
+    "Source/Pasted image 20240309174322.png",
+    "Source/Pasted image 20240309174254.png",
+    "Source/Pasted image 20240309171607.png",
+    "Source/Pasted image 20240309171512.png",
+    "Source/Pasted image 20240309171134.png",
+    "Source/Pasted image 20240309154837.png",
+    "Source/Pasted image 20240309154735.png",
+    "Source/Pasted image 20240309124224.png",
+    "Source/Pasted image 20240309112115.png",
+    "Source/Pasted image 20240308191715.png",
+    "Electronics/Digital/Conversion and Data Circuits.md",
     "Source/3.5.2024",
     "Electronics/Digital/Intro to Registers and Memory.md",
     "Electronics/Digital/Latches and Flip Flops.md",
     "Electronics/Digital/Boolean Algebra, Combination Logic.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.md",
     "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
     "Electronics/AC/Calculations/RC/RC Filters.md",
@@ -263,6 +271,11 @@
     "Electronics/Analog/Op Amps.md",
     "Source/12.30",
     "Electronics/Analog/Trigger Device Circuits.md",
+    "programming.sh.md",
+    "Electronics/AC/Calculations/LCR/Series Resonance.md",
+    "Electronics/AC/Calculations/LCR/LCR Circuits.md",
+    "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
+    "Electronics/Analog/Diodes.md",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf.crdownload",
