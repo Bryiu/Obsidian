@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Digital/Intro to Arithmetic Counting Circuits.md",
-                "mode": "source",
+                "file": "Electronics/Digital/Conversion and Data Circuits.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Digital/Intro to Arithmetic Counting Circuits.md"
+                "file": "Electronics/Digital/Conversion and Data Circuits.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Digital/Intro to Arithmetic Counting Circuits.md",
+                "file": "Electronics/Digital/Conversion and Data Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Digital/Intro to Arithmetic Counting Circuits.md",
+                "file": "Electronics/Digital/Conversion and Data Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,12 +234,12 @@
   },
   "active": "402fba29b1bf3562",
   "lastOpenFiles": [
+    "Electronics/Digital/Intro to Arithmetic Counting Circuits.md",
     "Electronics/Digital/Intro to Registers and Memory.md",
     "Electronics/Digital/Number Systems and Conversions.md",
     "Electronics/Digital/Boolean Algebra, Combination Logic.md",
     "Electronics/Digital/Digital Logic Circuits.md",
     "conflict-files-obsidian-git.md",
-    "Electronics/Digital/Intro to Arithmetic Counting Circuits.md",
     "Source/Pasted image 20240309174322.png",
     "Source/Pasted image 20240309174254.png",
     "Source/Pasted image 20240309171607.png",
