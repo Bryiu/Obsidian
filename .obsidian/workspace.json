@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Electronics/Digital/Conversion and Data Circuits.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -174,8 +174,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1ac24f9adfb80870",
@@ -234,6 +233,8 @@
   },
   "active": "402fba29b1bf3562",
   "lastOpenFiles": [
+    "Electronics/DC/Equations/Complex Circuits.md",
+    "Electronics/Digital/Conversion and Data Circuits.md",
     "Electronics/Digital/Intro to Arithmetic Counting Circuits.md",
     "Electronics/Digital/Intro to Registers and Memory.md",
     "Electronics/Digital/Number Systems and Conversions.md",
@@ -250,7 +251,6 @@
     "Source/Pasted image 20240309124224.png",
     "Source/Pasted image 20240309112115.png",
     "Source/Pasted image 20240308191715.png",
-    "Electronics/Digital/Conversion and Data Circuits.md",
     "Source/3.5.2024",
     "Electronics/Digital/Latches and Flip Flops.md",
     "Untitled.md",
