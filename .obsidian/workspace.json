@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ace54558e38bd981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Electronics/Digital/Conversion and Data Circuits.md"
               }
             }
           },
@@ -151,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Electronics/Digital/Conversion and Data Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Electronics/Digital/Conversion and Data Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,10 +219,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ace54558e38bd981",
+  "active": "c4e74dc01fce274a",
   "lastOpenFiles": [
-    "Electronics/Digital/Conversion and Data Circuits.md",
     "conflict-files-obsidian-git.md",
+    "Source/Pasted image 20240318131504.png",
+    "Electronics/Digital/Conversion and Data Circuits.md",
     "Source/Pasted image 20240310185213.png",
     "Source/Pasted image 20240310184931.png",
     "Source/Pasted image 20240310181643.png",
@@ -245,7 +233,6 @@
     "Source/Pasted image 20240310143840.png",
     "Source/Pasted image 20240310125526.png",
     "Source/Pasted image 20240310123313.png",
-    "Source/Pasted image 20240310121931.png",
     "Electronics/DC/Equations/Series Parallel Equations.md",
     "Electronics/DC/Equations/Series Equations.md",
     "Electronics/DC/Equations/Electronics Equations(Origin).md",
