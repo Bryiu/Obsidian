@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Digital/Conversion and Data Circuits.md",
+                "file": "Linux/Process's/AUR.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "33a5dbacb6ff1820",
+            "id": "d81065ed74a95cb6",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.5.11"
+                "currentVersion": "1.5.12"
               }
             }
           }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Digital/Conversion and Data Circuits.md"
+                "file": "Linux/Process's/AUR.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Digital/Conversion and Data Circuits.md",
+                "file": "Linux/Process's/AUR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Digital/Conversion and Data Circuits.md",
+                "file": "Linux/Process's/AUR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,11 +230,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33a5dbacb6ff1820",
+  "active": "d81065ed74a95cb6",
   "lastOpenFiles": [
+    "Electronics/Digital/Conversion and Data Circuits.md",
     "conflict-files-obsidian-git.md",
     "Source/Pasted image 20240318131504.png",
-    "Electronics/Digital/Conversion and Data Circuits.md",
     "Source/Pasted image 20240310185213.png",
     "Source/Pasted image 20240310184931.png",
     "Source/Pasted image 20240310181643.png",
