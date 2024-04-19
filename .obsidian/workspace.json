@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c577a1b3c1fa0a12",
+        "id": "313a0970ceebf621",
         "type": "tabs",
         "children": [
           {
-            "id": "c4e74dc01fce274a",
+            "id": "fb8b23dcc067054c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Process's/AUR.md",
+                "file": "Electronics/Analog/Oscillators.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d81065ed74a95cb6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Process's/AUR.md"
+                "file": "Electronics/Analog/Oscillators.md"
               }
             }
           },
@@ -149,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Process's/AUR.md",
+                "file": "Electronics/Analog/Oscillators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Process's/AUR.md",
+                "file": "Electronics/Analog/Oscillators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,8 +219,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d81065ed74a95cb6",
+  "active": "fb8b23dcc067054c",
   "lastOpenFiles": [
+    "Electronics/Analog/Op Amps.md",
+    "Electronics/Digital/Digital Logic Circuits.md",
+    "Electronics/Digital/Intro.md",
+    "Electronics/Digital/Latches and Flip Flops.md",
     "Electronics/Digital/Conversion and Data Circuits.md",
     "conflict-files-obsidian-git.md",
     "Source/Pasted image 20240318131504.png",
@@ -252,26 +245,22 @@
     "Electronics/Digital/Intro to Arithmetic Counting Circuits.md",
     "Source/3.5.2024",
     "Electronics/Digital/Intro to Registers and Memory.md",
-    "Electronics/Digital/Latches and Flip Flops.md",
     "Electronics/Digital/Boolean Algebra, Combination Logic.md",
     "Untitled.md",
     "Electronics/AC/Calculations/RC/RC Parallel Circuits.md",
     "Electronics/AC/Calculations/RC/RC Filters.md",
     "Electronics/AC/Calculations/RC/RC Circuits.md",
     "Electronics/Digital/Canvas.canvas",
-    "Electronics/Digital/Digital Logic Circuits.md",
     "Electronics/Digital/Digital Troubleshooting.md",
     "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf",
     "Electronics/Digital/Number Systems and Conversions.md",
     "Electronics/Equipment/CY8CKIT_042_PSOC4_PIONEER_KIT_GUIDE.pdf.crdownload",
-    "Electronics/Digital/Intro.md",
     "Linux/Process's/AUR.md",
     "Source/1.9.24",
     "Electronics/Analog/Filters.md",
     "Electronics/Digital/Digital.md",
     "Electronics/Digital",
     "Electronics/Electronic Components.md",
-    "Electronics/Analog/Op Amps.md",
     "Source/12.30",
     "Electronics/Analog/Trigger Device Circuits.md",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
