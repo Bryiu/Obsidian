@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3fe1774e15c4d462",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,7 +230,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb8b23dcc067054c",
+  "active": "3fe1774e15c4d462",
   "lastOpenFiles": [
     "Electronics/Analog/Op Amps.md",
     "Electronics/Digital/Digital Logic Circuits.md",
