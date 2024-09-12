@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "313a0970ceebf621",
+        "id": "93fd4f1fe741e3a6",
         "type": "tabs",
         "children": [
           {
-            "id": "fb8b23dcc067054c",
+            "id": "9c16ba27677a3809",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronics/Analog/Oscillators.md",
+                "file": "Linux/Process's/AUR.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3fe1774e15c4d462",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Analog/Oscillators.md"
+                "file": "Linux/Process's/AUR.md"
               }
             }
           },
@@ -149,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Analog/Oscillators.md",
+                "file": "Linux/Process's/AUR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Analog/Oscillators.md",
+                "file": "Linux/Process's/AUR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,8 +219,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3fe1774e15c4d462",
+  "active": "9c16ba27677a3809",
   "lastOpenFiles": [
+    "Linux/Process's/00 Linux Process's Home.md",
     "Electronics/Analog/Op Amps.md",
     "Electronics/Digital/Digital Logic Circuits.md",
     "Electronics/Digital/Intro.md",
