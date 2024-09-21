@@ -6,6 +6,8 @@ Please resolve them and commit them using the commands `Git: Commit all changes`
 - Not a file: .makemd/fileCache.mdb
 - Not a file: .makemd/superstate.mdb
 - Not a file: .obsidian/plugins/make-md/Spaces.mdb
+- Not a file: .obsidian/plugins/make-md/data.json
+- Not a file: .obsidian/workspace.json
 
 # Additional Instructions
 I strongly recommend to use "Source mode" for viewing the conflicted files. For simple conflicts, in each file listed above replace every occurrence of the following text blocks with the desired text.
