@@ -1,4 +1,4 @@
-# Installing From the AUR
+s# Installing From the AUR
 ## General
 Description | Command
 ------------ | ------------
