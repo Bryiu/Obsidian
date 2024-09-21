@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60c2ee2758a65d48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Process's/Bash Scripting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec87aa145d3b4189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Process's/Bash Scripting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc187d72b9d8f782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronics/Digital/Conversion and Data Circuits.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -151,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Digital/Conversion and Data Circuits.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,13 +204,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronics/Digital/Conversion and Data Circuits.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "1ac24f9adfb80870",
@@ -231,16 +268,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "402fba29b1bf3562",
+  "active": "fc187d72b9d8f782",
   "lastOpenFiles": [
-    "Electronics/DC/Equations/Complex Circuits.md",
+    "Linux/Process's/Bash Scripting.md",
+    "conflict-files-obsidian-git.md",
+    "Linux/Process's/00 Linux Process's Home.md",
     "Electronics/Digital/Conversion and Data Circuits.md",
+    "Electronics/DC/Equations/Complex Circuits.md",
     "Electronics/Digital/Intro to Arithmetic Counting Circuits.md",
     "Electronics/Digital/Intro to Registers and Memory.md",
     "Electronics/Digital/Number Systems and Conversions.md",
     "Electronics/Digital/Boolean Algebra, Combination Logic.md",
     "Electronics/Digital/Digital Logic Circuits.md",
-    "conflict-files-obsidian-git.md",
     "Source/Pasted image 20240309174322.png",
     "Source/Pasted image 20240309174254.png",
     "Source/Pasted image 20240309171607.png",
@@ -274,8 +313,6 @@
     "programming.sh.md",
     "Electronics/AC/Calculations/LCR/Series Resonance.md",
     "Electronics/AC/Calculations/LCR/LCR Circuits.md",
-    "Electronics/AC/Calculations/LCR/Parallel Resonance.md",
-    "Electronics/Analog/Diodes.md",
     "Electronics/Books/Lessons in Electric Circuits - Vol 3 - Semiconductors-5.pdf",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf",
     "Electronics/Books/AN10033-Frequency-Measurement-Guidelines-for-Oscillators.pdf.crdownload",
